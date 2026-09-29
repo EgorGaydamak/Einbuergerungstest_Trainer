@@ -32,7 +32,7 @@ This is a zero-dependency vanilla JS/HTML/CSS single-page app. All logic lives i
 {
   id: number,
   category: string,
-  state: string | null,       // null = general, "SH" = Schleswig-Holstein
+  state: string | null,       // null = general, "BE" = Berlin
   question_de: string,
   question_en: string,
   options: [{ letter, text_de, text_en }],  // always 4 options A–D
@@ -42,7 +42,7 @@ This is a zero-dependency vanilla JS/HTML/CSS single-page app. All logic lives i
 }
 ```
 
-**Exam composition**: exactly 33 questions — 30 randomly sampled from the general pool (300 questions) + 3 randomly sampled from the SH state pool (10 questions), matching the official BAMF exam structure.
+**Exam composition**: exactly 33 questions — 30 randomly sampled from the general pool (300 questions) + 3 randomly sampled from the Berlin (BE) state pool (10 questions), matching the official BAMF exam structure.
 
 ## Mastery Logic
 

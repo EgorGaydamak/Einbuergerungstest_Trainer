@@ -4,7 +4,7 @@
 let allQuestions = [];       // Loaded from questions.json
 let studyStats = {};         // Chronological stats stored in localStorage
 let currentQuestion = null;  // Active question in Training Mode
-let currentPack = 'mixed';   // 'mixed' | 'general' | 'sh'
+let currentPack = 'mixed';   // 'mixed' | 'general' | 'be'
 let maxCorrect = 3;          // Threshold for mastery
 let englishActive = false;   // English translation toggle state
 let activeMode = 'training'; // 'training' | 'exam'
@@ -226,11 +226,11 @@ function getActivePool() {
   return allQuestions.filter(q => {
     if (currentPack === 'general') {
       return !q.is_state;
-    } else if (currentPack === 'sh') {
-      return q.state_code === 'SH';
+    } else if (currentPack === 'be') {
+      return q.state_code === 'BE';
     } else {
-      // Mixed: general + SH questions (310 total)
-      return !q.is_state || q.state_code === 'SH';
+      // Mixed: general + Berlin questions (310 total)
+      return !q.is_state || q.state_code === 'BE';
     }
   });
 }
@@ -657,16 +657,16 @@ function startExam() {
   syncTranslationVisibility();
 
   // Compose exam paper: 33 questions total
-  // Comprises: 30 random general questions, 3 random Schleswig-Holstein state questions
+  // Comprises: 30 random general questions, 3 random Berlin state questions
   const generalPool = allQuestions.filter(q => !q.is_state);
-  const shPool = allQuestions.filter(q => q.state_code === 'SH');
+  const bePool = allQuestions.filter(q => q.state_code === 'BE');
 
   // Select 30 unique random indices from general questions
   const selectedGeneral = selectRandomUnique(generalPool, 30);
-  // Select 3 unique random indices from Schleswig-Holstein questions
-  const selectedSH = selectRandomUnique(shPool, 3);
+  // Select 3 unique random indices from Berlin questions
+  const selectedBE = selectRandomUnique(bePool, 3);
 
-  examQuestions = [...selectedGeneral, ...selectedSH];
+  examQuestions = [...selectedGeneral, ...selectedBE];
   
   // Initialize state arrays
   examAnswers = Array(33).fill(null);

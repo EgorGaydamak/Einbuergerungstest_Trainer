@@ -1,6 +1,6 @@
-# Einbürgerungstest Trainer (Schleswig-Holstein) 🇩🇪
+# Einbürgerungstest Trainer (Berlin) 🇩🇪
 
-An interactive, responsive training web application to study for the German naturalization test (*Einbürgerungstest* / *Leben in Deutschland*), including official general questions and state-specific questions for Schleswig-Holstein.
+An interactive, responsive training web application to study for the German naturalization test (*Einbürgerungstest* / *Leben in Deutschland*), including official general questions and state-specific questions for Berlin.
 
 ---
 
@@ -33,7 +33,7 @@ The launcher starts a lightweight local server and automatically opens `http://l
   - Instant visual feedback (green/red) and official German explanations.
   - Optional English side-by-side translation toggle.
 - **Simulated Exam (Prüfungssimulation):**
-  - Exactly 33 questions (30 general + 3 Schleswig-Holstein) adhering to official BAMF exam composition.
+  - Exactly 33 questions (30 general + 3 Berlin) adhering to official BAMF exam composition.
   - 60-minute countdown timer, question sheet navigation grid, and review flagging.
   - Complete scorecard and question-by-question review sheet upon submission.
 - **Progress Tracking (Lernfortschritt):**
