@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Einbürgerungstest Schleswig-Holstein Trainer</title>
+  <!-- Load Premium Font Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Link external CSS stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- App Wrapper -->
+  <div class="app-container">
+    
+    <!-- HEADER BAR -->
+    <header class="app-header">
+      <div class="header-logo">
+        <span class="logo-badge">DE</span>
+        <h1>Einbürgerungstest <span class="accent-text">Schleswig-Holstein</span></h1>
+      </div>
+      <div class="header-mode-selector">
+        <button id="btn-mode-training" class="mode-tab active" onclick="switchMode('training')">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+          </svg>
+          Training Mode
+        </button>
+        <button id="btn-mode-exam" class="mode-tab" onclick="switchMode('exam')">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/>
+            <polyline points="12 6 12 12 16 14"/>
+          </svg>
+          Simulated Exam
+        </button>
+      </div>
+    </header>
+
+    <!-- MAIN BODY -->
+    <div class="main-layout">
+
+      <!-- LEFT SIDEBAR: STATS & SETTINGS -->
+      <aside class="sidebar" id="app-sidebar">
+        
+        <!-- DASHBOARD STATISTICS CARD -->
+        <section class="sidebar-card stats-card">
+          <h2>Your Progress Dashboard</h2>
+          <div class="stats-grid">
+            <div class="stat-item mastered" title="Questions where the last consecutive attempts (matching the mastery threshold) were correct in German without translation">
+              <span class="stat-value" id="stats-mastered">0</span>
+              <span class="stat-label">Mastered</span>
+            </div>
+            <div class="stat-item in-progress" title="Seen questions that are neither Mastered nor Problematic (answered incorrectly <= 1 time)">
+              <span class="stat-value" id="stats-inprogress">0</span>
+              <span class="stat-label">In Progress</span>
+            </div>
+            <div class="stat-item problematic" title="Questions that are not Mastered and have been answered incorrectly at least twice overall">
+              <span class="stat-value" id="stats-problematic">0</span>
+              <span class="stat-label">Problematic</span>
+            </div>
+            <div class="stat-item unseen" title="Questions never answered yet">
+              <span class="stat-value" id="stats-unseen">310</span>
+              <span class="stat-label">Unseen</span>
+            </div>
+          </div>
+          
+          <!-- Today's Stats Bar -->
+          <div class="progress-bar-container">
+            <div class="progress-bar-label">
+              <span>Today's Practice</span>
+              <span id="today-ratio-label">Today: 0% (0 Correct / 0 Wrong)</span>
+            </div>
+            <div class="progress-track today-track">
+              <div class="progress-fill-correct" id="today-correct-fill" style="width: 0%;"></div>
+              <div class="progress-fill-wrong" id="today-wrong-fill" style="width: 0%;"></div>
+            </div>
+          </div>
+
+          <!-- Mastered Progress Bar -->
+          <div class="progress-bar-container">
+            <div class="progress-bar-label">
+              <span>Overall Mastery</span>
+              <span id="mastery-percentage">0%</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill" id="mastery-progress-fill" style="width: 0%;"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- CONFIGURATION CARD (Only useful for Training Mode) -->
+        <section class="sidebar-card settings-card" id="settings-card">
+          <h2>Training Settings</h2>
+          
+          <!-- Pack Selector -->
+          <div class="settings-group">
+            <label class="settings-label">Question Pool Package:</label>
+            <div class="radio-pill-group">
+              <label class="radio-pill">
+                <input type="radio" name="question-pack" value="mixed" checked onchange="updatePackSelection()">
+                <span>Mixed (310)</span>
+              </label>
+              <label class="radio-pill">
+                <input type="radio" name="question-pack" value="general" onchange="updatePackSelection()">
+                <span>General (300)</span>
+              </label>
+              <label class="radio-pill">
+                <input type="radio" name="question-pack" value="sh" onchange="updatePackSelection()">
+                <span>SH State (10)</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- Max Correct Slider -->
+          <div class="settings-group">
+            <div class="slider-header">
+              <label class="settings-label" for="max-correct-slider">Mastery Threshold:</label>
+              <span class="slider-value" id="max-correct-value">3</span>
+            </div>
+            <input type="range" id="max-correct-slider" min="1" max="5" value="3" class="custom-slider" oninput="updateMaxCorrectValue(this.value)" onchange="saveMasteryThreshold(this.value)">
+            <p class="slider-tip">Number of correct answers in German required to master a question and stop asking it.</p>
+          </div>
+          
+          <!-- Reset Stats -->
+          <div class="settings-group reset-group">
+            <button class="btn btn-secondary btn-danger-outline" onclick="confirmResetStats()">
+              <svg class="icon icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+                <path d="M3 3v5h5"/>
+              </svg>
+              Reset All Progress
+            </button>
+          </div>
+        </section>
+
+        <!-- EXAM STATE CARD (Shown during Simulated Exam) -->
+        <section class="sidebar-card exam-card hidden" id="exam-card-sidebar">
+          <h2>Exam Dashboard</h2>
+          <div class="exam-timer-wrapper">
+            <div class="timer-display" id="exam-timer">60:00</div>
+            <div class="timer-label">Time Remaining</div>
+          </div>
+          
+          <div class="exam-status-summary">
+            <div class="exam-stat">
+              <span class="exam-stat-value" id="exam-total-answered">0/33</span>
+              <span class="exam-stat-label">Answered</span>
+            </div>
+            <div class="exam-stat">
+              <span class="exam-stat-value" id="exam-total-flagged">0</span>
+              <span class="exam-stat-label">Flagged</span>
+            </div>
+          </div>
+          
+          <!-- Exam Navigation Grid -->
+          <div class="exam-grid-container">
+            <span class="settings-label">Question Sheet Navigation:</span>
+            <div class="exam-question-grid" id="exam-question-grid">
+              <!-- Dynamically populated 33 items -->
+            </div>
+          </div>
+
+          <div class="exam-actions">
+            <button class="btn btn-primary btn-submit-exam" onclick="confirmSubmitExam()">
+              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                <polyline points="22 4 12 14.01 9 11.01"/>
+              </svg>
+              Submit Exam Paper
+            </button>
+          </div>
+        </section>
+
+      </aside>
+
+      <!-- CENTER & RIGHT: QUESTION INTERFACE -->
+      <main class="question-container">
+        
+        <!-- LOADING CONTAINER -->
+        <div class="loader-overlay" id="loader-overlay">
+          <div class="spinner"></div>
+          <p>Lade Fragenkatalog...</p>
+        </div>
+
+        <!-- TRAINING COMPLETION / MASTERY BANNER -->
+        <div class="alert-box completion-box hidden" id="training-complete-box">
+          <div class="alert-icon">🎉</div>
+          <div class="alert-content">
+            <h3>Herzlichen Glückwunsch! (Congratulations!)</h3>
+            <p>You have mastered all questions in the current pool! Adjust the settings in the sidebar to increase the mastery threshold, change the question pack, or reset your statistics to start over.</p>
+          </div>
+        </div>
+
+        <!-- MAIN QUESTION INTERACTION VIEW -->
+        <div class="question-card" id="main-question-card">
+          
+          <!-- TOP QUESTION HEADER -->
+          <div class="question-card-header">
+            <div class="question-meta">
+              <span class="badge badge-category" id="q-category">History & Geography</span>
+              <span class="badge badge-num" id="q-number">Frage 1</span>
+              <span class="badge badge-progress" id="q-progress">Unresolved: 310 / 310</span>
+              <span class="badge badge-state hidden" id="q-state-badge">Schleswig-Holstein</span>
+            </div>
+            
+            <!-- Translation Toggle Switch -->
+            <div class="translation-toggle-wrapper">
+              <span class="toggle-label">Translate (EN)</span>
+              <label class="switch">
+                <input type="checkbox" id="translation-toggle" onchange="toggleTranslation(this.checked)">
+                <span class="slider round"></span>
+              </label>
+            </div>
+          </div>
+
+          <!-- QUESTION SPLIT VIEW (German vs English) -->
+          <div class="question-body">
+            
+            <!-- GERMAN WORDING -->
+            <div class="question-german">
+              <h2 id="question-text-de">Lädt Frage...</h2>
+            </div>
+            
+            <!-- ENGLISH TRANSLATION (Revealed on the side) -->
+            <div class="question-english hidden" id="question-english-panel">
+              <div class="english-box-header">
+                <span class="english-badge">English translation</span>
+              </div>
+              <p id="question-text-en">Loading translation...</p>
+            </div>
+
+          </div>
+
+          <!-- CHOICES (Original sorted multiple-choice options) -->
+          <div class="choices-container">
+            
+            <!-- OPTION A -->
+            <button class="choice-row" id="choice-a" onclick="selectOption('a')">
+              <span class="choice-letter">A</span>
+              <div class="choice-content">
+                <span class="text-de" id="choice-a-de">Option A (DE)</span>
+                <span class="text-en hidden" id="choice-a-en">Option A (EN)</span>
+              </div>
+              <span class="feedback-icon"></span>
+            </button>
+            
+            <!-- OPTION B -->
+            <button class="choice-row" id="choice-b" onclick="selectOption('b')">
+              <span class="choice-letter">B</span>
+              <div class="choice-content">
+                <span class="text-de" id="choice-b-de">Option B (DE)</span>
+                <span class="text-en hidden" id="choice-b-en">Option B (EN)</span>
+              </div>
+              <span class="feedback-icon"></span>
+            </button>
+            
+            <!-- OPTION C -->
+            <button class="choice-row" id="choice-c" onclick="selectOption('c')">
+              <span class="choice-letter">C</span>
+              <div class="choice-content">
+                <span class="text-de" id="choice-c-de">Option C (DE)</span>
+                <span class="text-en hidden" id="choice-c-en">Option C (EN)</span>
+              </div>
+              <span class="feedback-icon"></span>
+            </button>
+            
+            <!-- OPTION D -->
+            <button class="choice-row" id="choice-d" onclick="selectOption('d')">
+              <span class="choice-letter">D</span>
+              <div class="choice-content">
+                <span class="text-de" id="choice-d-de">Option D (DE)</span>
+                <span class="text-en hidden" id="choice-d-en">Option D (EN)</span>
+              </div>
+              <span class="feedback-icon"></span>
+            </button>
+
+          </div>
+
+          <!-- BOTTOM ACTION BAR / EXPLANATIONS -->
+          <div class="question-footer">
+            
+            <!-- Training explanation block (Immediate response) -->
+            <div class="explanation-box hidden" id="explanation-box">
+              <div class="explanation-section de">
+                <h4>Erklärung (German)</h4>
+                <p id="explanation-text-de">Erklärungstext...</p>
+              </div>
+              <div class="explanation-section en hidden" id="explanation-section-en">
+                <h4>Context (English)</h4>
+                <p id="explanation-text-en">Context text...</p>
+              </div>
+            </div>
+
+            <!-- BUTTON ACTIONS -->
+            <div class="action-buttons">
+              <!-- Flag for review in Exam mode -->
+              <button class="btn btn-secondary btn-flag hidden" id="btn-flag-exam" onclick="toggleExamFlag()">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/>
+                  <line x1="4" y1="22" x2="4" y2="15"/>
+                </svg>
+                <span id="flag-btn-text">Flag for Review</span>
+              </button>
+
+              <div class="nav-navigation-exam hidden" id="exam-navigation-buttons">
+                <button class="btn btn-secondary" onclick="navigateExamQuestion(-1)">
+                  <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"/>
+                  </svg>
+                  Previous
+                </button>
+                <button class="btn btn-secondary" onclick="navigateExamQuestion(1)">
+                  Next
+                  <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"/>
+                  </svg>
+                </button>
+              </div>
+
+              <!-- Next button in Training mode -->
+              <button class="btn btn-primary hidden" id="btn-next-question" onclick="loadNextQuestion()">
+                Next Question
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="5" y1="12" x2="19" y2="12"/>
+                  <polyline points="12 5 19 12 12 19"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- EXAM REVIEW / RESULT SUMMARY (Shown after Submit Exam) -->
+        <div class="exam-result-card hidden" id="exam-result-card">
+          <div class="result-header">
+            <div class="result-badge-icon" id="result-status-icon">🏆</div>
+            <h2 id="result-title">Exam Submitted</h2>
+            <div class="result-score-panel">
+              <div class="score-circle">
+                <span class="score-num" id="result-score">28</span>
+                <span class="score-denom">/ 33</span>
+              </div>
+              <div class="score-details">
+                <p class="score-verdict" id="result-verdict">Passed (Bestanden)</p>
+                <p class="score-pct" id="result-pct">Success Rate: 84%</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="result-explanation">
+            <p>You need at least <strong>17 correct answers</strong> out of 33 to pass the actual German naturalization test. All questions you answered have been saved to your learning progress history. See the review list below to check your answers.</p>
+          </div>
+
+          <!-- Exam Review List -->
+          <div class="result-review-list">
+            <h3>Question-by-Question Review</h3>
+            <div class="review-items-container" id="review-items-container">
+              <!-- Dynamically populated list of 33 questions -->
+            </div>
+          </div>
+
+          <div class="result-actions">
+            <button class="btn btn-primary" onclick="restartExam()">
+              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+              </svg>
+              Start a New Mock Exam
+            </button>
+            <button class="btn btn-secondary" onclick="switchMode('training')">
+              Back to Training Mode
+            </button>
+          </div>
+        </div>
+
+      </main>
+
+    </div>
+  </div>
+
+  <!-- MODAL: CONFIRM STATISTICS RESET -->
+  <dialog class="modal-confirm" id="modal-confirm-reset">
+    <div class="modal-content">
+      <div class="modal-icon">⚠️</div>
+      <h3>Are you absolutely sure?</h3>
+      <p>This will erase your entire learning history, including Mastered questions, Problematic marks, and seen counts. This action is permanent and cannot be undone.</p>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" onclick="closeResetModal()">Cancel</button>
+        <button class="btn btn-primary btn-danger" onclick="executeResetStats()">Yes, Reset Everything</button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- MODAL: CONFIRM EXAM SUBMISSION -->
+  <dialog class="modal-confirm" id="modal-confirm-submit">
+    <div class="modal-content">
+      <div class="modal-icon">📝</div>
+      <h3>Submit your Exam paper?</h3>
+      <p id="confirm-submit-message">You have answered 0 out of 33 questions. Are you ready to submit your exam for grading?</p>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" onclick="closeSubmitModal()">Continue Testing</button>
+        <button class="btn btn-primary" onclick="executeSubmitExam()">Submit Paper</button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Load questions database (allows opening index.html directly without a local server) -->
+  <script src="questions.data.js"></script>
+  <!-- Load logic -->
+  <script src="app.js"></script>
+</body>
+</html>
