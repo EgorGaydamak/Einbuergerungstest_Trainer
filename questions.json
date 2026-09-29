@@ -13,7 +13,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, people are allowed to openly do something against the government\n                  because?",
+      "question": "In Germany, people are allowed to openly say something against the government, because?",
       "a": "freedom of expression applies here.",
       "b": "people have the right to vote.",
       "c": "freedom of religion applies here.",
@@ -35,11 +35,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, parents up to the age of 14 can\n                  decide whether to attend school on?",
-      "a": "religious education",
-      "b": "Politics lessons.",
-      "c": "history lessons.",
-      "d": "language classes.",
+      "question": "In Germany, parents can decide until their child's 14th birthday whether their child participates in?",
+      "a": "religious education classes",
+      "b": "politics classes",
+      "c": "history classes",
+      "d": "language classes",
       "context": "Important question for life in Germany"
     }
   },
@@ -60,7 +60,7 @@
       "question": "Germany is a state governed by the rule of law. What does that mean?",
       "a": "The courts make the laws.",
       "b": "Only Germans have to follow the laws.",
-      "c": "All residents and the state must comply with\n                    keep the laws.",
+      "c": "All residents and the state must abide by the laws.",
       "d": "The state does not have to abide by the law.",
       "context": "Important question for life in Germany"
     }
@@ -79,7 +79,7 @@
     "category": "Rights & Freedoms",
     "context": "In Deutschland sind die Grundrechte im Grundgesetz verankert und schützen die Freiheit und Würde des Einzelnen. Diese Rechte bilden die Basis für ein demokratisches und freies Zusammenleben. Eines der zentralen Grundrechte ist die Meinungsfreiheit, die es den Bürgern erlaubt, ihre Ansichten öffentlich zu äußern, ohne Angst vor staatlicher Verfolgung. Selbstjustiz, Waffenbesitz und Faustrecht hingegen stehen im Gegensatz zu den Prinzipien des Grundgesetzes und sind keine anerkannten Grundrechte. Meinungsfreiheit fördert den demokratischen Diskurs und die Vielfalt der Meinungen.",
     "english": {
-      "question": "Which law is one of the fundamental rights in Germany?",
+      "question": "Which right is one of the fundamental rights in Germany?",
       "a": "Vigilante justice.",
       "b": "Freedom of expression",
       "c": "Possession of weapons",
@@ -102,10 +102,10 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Elections in Germany are free. What does this mean?",
-      "a": "Each person can decide whether to vote without coercion\n                    and who she wants to vote for.",
+      "a": "Each person can decide without coercion whether to vote and who to vote for.",
       "b": "I am free to decide where I want to vote.",
-      "c": "All convicted offenders are not allowed to\n                    .",
-      "d": "If I want to vote, my employer/employer must\n                    Employer give me time off",
+      "c": "All convicted offenders are not allowed to vote.",
+      "d": "If I want to vote, my employer must give me time off.",
       "context": "Important question for life in Germany"
     }
   },
@@ -189,7 +189,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which fundamental right applies in Germany only to\n                  Foreigners? The fundamental right to ...",
+      "question": "Which fundamental right in Germany applies only to foreigners? The fundamental right to ...",
       "a": "Human dignity",
       "b": "Freedom of expression",
       "c": "Protection of the family",
@@ -233,11 +233,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How will the Constitution of the Federal Republic of Germany be\n                  ?",
+      "question": "What is the German constitution called?",
       "a": "Constitutional Treaty",
       "b": "Code of Law",
       "c": "Basic Law",
-      "d": "Bundesverfassung",
+      "d": "Federal Constitution",
       "context": "Important question for life in Germany"
     }
   },
@@ -255,11 +255,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A party in the German Bundestag wants freedom of the press\n                  abolish. Is that possible?",
-      "a": "No, because freedom of the press is a fundamental right. It can\n                    cannot be abolished",
-      "b": "No, because only the Federal Council can guarantee freedom of the press\n                    abolish.",
-      "c": "Yes, but for this to happen, two-thirds of the members of parliament in the\n                    Bundestag be in favor",
-      "d": "Yes, if more than half of the members of the Bundestag\n                    are in favor.",
+      "question": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+      "a": "No, because freedom of the press is a fundamental right. It cannot be abolished.",
+      "b": "No, because only the Federal Council can abolish freedom of the press.",
+      "c": "Yes, but two-thirds of the members of the Bundestag would have to be in favor.",
+      "d": "Yes, if more than half of the members of the Bundestag are in favor.",
       "context": "Important question for life in Germany"
     }
   },
@@ -280,7 +280,7 @@
       "question": "In parliament, the term \"opposition\" stands for ...",
       "a": "all members of parliament who do not belong to the ruling party/\n                    governing parties.",
       "b": "the governing parties.",
-      "c": "all parties that passed the 5% hurdle in the last election\n                    .",
+      "c": "all parties that cleared the 5% threshold in the last election.",
       "d": "the parliamentary group with the most deputies.",
       "context": "Important question for life in Germany"
     }
@@ -301,9 +301,9 @@
     "english": {
       "question": "Freedom of expression in Germany means that I ...",
       "a": "can express my opinion in letters to the editor.",
-      "b": "insulted passers-by on the street.",
-      "c": "may only express my opinion as long as I am\n                    government.",
-      "d": "Nazi, Hamas or Islamic State symbols in public\n                    .",
+      "b": "may insult passers-by on the street.",
+      "c": "may only express my opinion as long as I do not contradict the government.",
+      "d": "may publicly display Nazi, Hamas, or Islamic State symbols.",
       "context": "Important question for life in Germany"
     }
   },
@@ -387,7 +387,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which fundamental right is enshrined in Article 1 of the Basic Law of the\n                  Federal Republic of Germany guaranteed?",
+      "question": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
       "a": "Religious Freedom",
       "b": "the inviolability of human dignity",
       "c": "the right to life",
@@ -431,7 +431,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A party in Germany is pursuing the goal of preventing a dictatorship\n                  . It is then ...",
+      "question": "A party in Germany is pursuing the goal of establishing a dictatorship. It is then ...",
       "a": "unconstitutional.",
       "b": "Law-abiding.",
       "c": "tolerant.",
@@ -499,7 +499,7 @@
     "english": {
       "question": "In Germany, most of the employed are ...",
       "a": "employed by a company or authority.",
-      "b": "self-employed with his own company.",
+      "b": "self-employed with their own company.",
       "c": "in small family businesses.",
       "d": "volunteer for a federal state.",
       "context": "The question relates to the German labour market and aims to check which form of employment occurs most frequently there. It is typical for a knowledge or orientation test on the economy, work or society in Germany. In order to be able to choose the correct answer, you should have basic knowledge of employment, employment, self-employment and voluntary work in Germany."
@@ -632,7 +632,7 @@
       "question": "Which animal is the heraldic animal of the Federal Republic of Germany?",
       "a": "Bear",
       "b": "Eagle",
-      "c": "Leo",
+      "c": "Lion",
       "d": "Horse",
       "context": "The question refers to state symbols and the heraldry of Germany. Many countries have a heraldic animal that symbolizes their history, values, or power. To choose the right option, basic knowledge of the German national coat of arms and its historical significance is helpful."
     }
@@ -805,11 +805,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How will the heads of government of most\n                  federal states in Germany?",
-      "a": "Senator/Senatorin",
+      "question": "What are the heads of government of most German federal states called?",
+      "a": "Senator",
       "b": "First Minister",
       "c": "Prime Minister",
-      "d": "Prime Minister",
+      "d": "Minister-President",
       "context": "Important question for life in Germany"
     }
   },
@@ -897,7 +897,7 @@
       "a": "to limit bribery in politics",
       "b": "to stimulate economic competition",
       "c": "to prevent political demonstrations",
-      "d": "because it takes into account the different opinions of citizens and\n                    citizens",
+      "d": "because it represents the different opinions of citizens.",
       "context": "Important question for life in Germany"
     }
   },
@@ -916,7 +916,7 @@
     "context": "In Deutschland werden wichtige politische Entscheidungen durch verschiedene staatliche Organe getroffen. Dazu gehören unter anderem Institutionen, die für Ordnung und Recht sorgen, sowie Gremien, die politische Richtlinien festlegen oder Gesetze anwenden. Um zu verstehen, wie neue Gesetze entstehen, ist es wichtig zu wissen, welche Aufgaben diese Organe haben und welche Rolle sie im politischen System spielen. Die folgende Frage bezieht sich darauf, welches Organ für die Verabschiedung neuer Gesetze zuständig ist.",
     "english": {
       "question": "Who passes a new law in Germany?",
-      "a": "the dishes",
+      "a": "the courts",
       "b": "the police",
       "c": "the government",
       "d": "Parliament",
@@ -941,7 +941,7 @@
       "a": "when it fights against the constitution",
       "b": "when their program suggests a new direction",
       "c": "if their election campaign is too expensive",
-      "d": "when she expresses criticism of the head of state",
+      "d": "when it expresses criticism of the head of state",
       "context": "In Germany, there are clear legal rules that determine the circumstances under which a political party can be banned. These rules serve to protect the free democratic basic order and are intended to ensure that parties do not endanger democratic principles themselves. The following question refers to these legal bases and examines the understanding of which requirements must be met for a party ban."
     }
   },
@@ -959,7 +959,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who can you not directly contact as a citizen in Germany?\n                  ?",
+      "question": "Who cannot be directly elected by citizens in Germany?",
       "a": "Member of the State Parliament",
       "b": "Members of the European Parliament",
       "c": "the Federal President",
@@ -1003,11 +1003,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "The German state has many tasks. Which task belongs\n                To this?",
-      "a": "It provides all residents with free\n                  Newspapers.",
-      "b": "He produces cars and buses.",
-      "c": "He builds roads and schools.",
-      "d": "He sells food and clothing.",
+      "question": "The German state has many tasks. Which of the following is one of them?",
+      "a": "It provides all residents with free newspapers.",
+      "b": "It produces cars and buses.",
+      "c": "It builds roads and schools.",
+      "d": "It sells food and clothing.",
       "context": "Important question for life in Germany"
     }
   },
@@ -1025,10 +1025,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "The German state has many tasks. Which task belongs\n                not to that?",
+      "question": "The German state has many tasks. Which of the following is NOT one of them?",
       "a": "It promotes athletes.",
-      "b": "He supports museums.",
-      "c": "He pays child benefit.",
+      "b": "It supports museums.",
+      "c": "It pays child benefit.",
       "d": "It pays for vacation trips for all nationals.",
       "context": "Important question for life in Germany"
     }
@@ -1047,11 +1047,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which body is not one of the constitutional organs\n                  Germany?",
+      "question": "Which body is not one of the constitutional organs of Germany?",
       "a": "the government",
       "b": "the citizens' assembly",
       "c": "the Federal Council",
-      "d": "the President of the Swiss Confederation",
+      "d": "the Federal President",
       "context": "Important question for life in Germany"
     }
   },
@@ -1138,7 +1138,7 @@
       "question": "What does \"popular sovereignty\" mean? All state power proceeds from ...",
       "a": "Prussian king.",
       "b": "Federal Constitutional Court.",
-      "c": "Volke.",
+      "c": "the people.",
       "d": "Bundestag.",
       "context": "The question relates to fundamental principles of the German state order. Political education explains where state power in a democracy comes from. Concepts such as the Basic Law, democratic elections and the role of citizens are central to this. The term \"popular sovereignty\" plays an important role in understanding how political decisions are legitimized and which institutions or individuals are the bearers of state power."
     }
@@ -1271,7 +1271,7 @@
       "a": "the President of the Bundestag",
       "b": "the President of the Federal Constitutional Court",
       "c": "the President of the Bundesrat",
-      "d": "the President of the Swiss Confederation",
+      "d": "the Federal President",
       "context": "Important question for life in Germany"
     }
   },
@@ -1289,7 +1289,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How many years ago was there a Jewish community for the first time.\n                the territory of today's Germany?",
+      "question": "How many years ago was there a Jewish community for the first time on the territory of today's Germany?",
       "a": "about 300 years ago",
       "b": "about 700 years ago",
       "c": "about 1150 years ago",
@@ -1381,7 +1381,7 @@
       "a": "the tax office",
       "b": "the police",
       "c": "the ministries",
-      "d": "the dishes",
+      "d": "the courts",
       "context": "In Germany, state authority is divided into different areas according to the Basic Law. This separation of powers is intended to prevent abuse of power and ensures that different institutions have different tasks. There are organs that make laws, others that execute laws, and still others that decide on right and wrong. The question relates to which of the institutions mentioned does not belong to the executive power."
     }
   },
@@ -1424,7 +1424,7 @@
       "question": "It is not one of the tasks of the German Bundestag to ...",
       "a": "to control the federal government.",
       "b": "to elect the Federal Chancellor.",
-      "c": "Draft laws.",
+      "c": "to draft laws.",
       "d": "to form the Federal Cabinet.",
       "context": "The question relates to the tasks and responsibilities of the German Bundestag in the political system of the Federal Republic of Germany. The Bundestag is the parliament elected by the people and plays a central role in legislation as well as in the control of the federal government. In order to understand the question, it is important to know which functions are assigned to the Bundestag according to the Basic Law and what tasks are assigned to other state bodies."
     }
@@ -1491,7 +1491,7 @@
       "a": "because there are different schools in the federal states",
       "b": "because there are only state schools in Germany",
       "c": "because it is his task according to the Basic Law",
-      "d": "because all pupils have a school-leaving certificate\n                    must have",
+      "d": "because all pupils must obtain a school-leaving certificate.",
       "context": "Important question for life in Germany"
     }
   },
@@ -1553,11 +1553,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Where is the German Chancellor\n                  Chancellor most often? Most often, he/she is...",
-      "a": "at Schloss Meseberg, the guest house of the Federal Government, in order to\n                    state guests.",
-      "b": "in Berlin, because the Federal Chancellery and the\n                    Bundestag.",
-      "c": "at Bellevue Palace, the official residence of the President of the Swiss Confederation\n                    Federal Presidents to receive state guests.",
-      "d": "in Bonn, because the Federal Chancellery and the\n                    Bundestag.",
+      "question": "Where does the German Federal Chancellor spend most of their time? Most often, they are ...",
+      "a": "at Schloss Meseberg, the guest house of the Federal Government, to receive state guests.",
+      "b": "in Berlin, because the Federal Chancellery and the Bundestag are located there.",
+      "c": "at Bellevue Palace, the official residence of the Federal President, to receive state guests.",
+      "d": "in Bonn, because the Federal Chancellery and the Bundestag are located there.",
       "context": "Important question for life in Germany"
     }
   },
@@ -1796,7 +1796,7 @@
     "context": "In Deutschland gibt es mehrere wichtige Verfassungsorgane mit unterschiedlichen Aufgaben. Die Bundesregierung besteht aus dem Bundeskabinett, in dem Ministerinnen und Minister zentrale politische Entscheidungen vorbereiten und umsetzen. Daneben existieren weitere Ämter wie der Bundespräsident, der Bundesrat und der Bundestag, die jeweils eigene Rollen im politischen System haben. Um die Frage zu beantworten, ist es wichtig zu wissen, welche Funktion die Leitung des Bundeskabinetts umfasst.",
     "english": {
       "question": "Who heads the German Federal Cabinet?",
-      "a": "the President of the Swiss Confederation",
+      "a": "the Federal President",
       "b": "the President of the Bundesrat",
       "c": "the Federal Chancellor",
       "d": "the President of the Bundestag",
@@ -1817,7 +1817,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who elects the German Chancellor\n                  Federal Chancellor?",
+      "question": "Who elects the German Federal Chancellor?",
       "a": "the Federal Convention",
       "b": "the Federal Government",
       "c": "the people",
@@ -1883,7 +1883,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who elects the Federal President in Germany\n                  Federal Presidents ?",
+      "question": "Who elects the Federal President in Germany?",
       "a": "the Federal Council",
       "b": "the Federal Constitutional Court",
       "c": "the Federal Convention",
@@ -1906,7 +1906,7 @@
     "context": "Die Frage bezieht sich auf das politische System Deutschlands. In der Bundesrepublik Deutschland gibt es verschiedene wichtige Staatsorgane mit unterschiedlichen Aufgaben, zum Beispiel Regierung, Parlament und Bundesrat. Um die richtige Antwort zu finden, muss man wissen, welches Amt offiziell das Staatsoberhaupt vertritt und vor allem repräsentative Aufgaben übernimmt.",
     "english": {
       "question": "Who is the head of state of the Federal Republic of Germany?",
-      "a": "the President of the Swiss Confederation",
+      "a": "the Federal President",
       "b": "the President of the Bundestag",
       "c": "the Federal Chancellor",
       "d": "the President of the Bundesrat",
@@ -1929,7 +1929,7 @@
     "english": {
       "question": "The parliamentary opposition in the German Bundestag ...",
       "a": "determines who sits in the Federal Council.",
-      "b": "proposes to the heads of government of the federal states\n                    .",
+      "b": "proposes the heads of government of the federal states.",
       "c": "controls the government.",
       "d": "decides who will become Federal Minister.",
       "context": "Important question for life in Germany"
@@ -1971,7 +1971,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "The German Länder are involved in the legislation of the\n                  Federal with through ...",
+      "question": "The German federal states participate in federal legislation through ...",
       "a": "the Bundestag.",
       "b": "the Federal Government.",
       "c": "the Federal Council.",
@@ -1993,8 +1993,8 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, a change of government in a federal state\n                  have an impact on federal politics. Governing will ...",
-      "a": "if this means that new parties are elected to the Federal Council\n                    .",
+      "question": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes ...",
+      "a": "easier if this means that new parties enter the Federal Council.",
       "b": "easier if it is a rich federal state.",
       "c": "more difficult if the majority in the Bundestag\n                    changes.",
       "d": "more difficult if it means that the majority in the Bundesrat\n                    is changed.",
@@ -2082,7 +2082,7 @@
     "context": "In Deutschland gibt es bestimmte gesetzliche Regelungen, die für Kinder und Jugendliche gelten. Diese Regelungen betreffen unter anderem Bildung, Rechte und Pflichten im Alltag sowie die Verantwortung des Staates und der Eltern. Manche Pflichten sind gesetzlich vorgeschrieben, andere gelten nur für bestimmte Gruppen oder Situationen. Vor diesem Hintergrund soll die folgende Frage prüfen, welche Verpflichtung auf die meisten Kinder in Deutschland zutrifft.",
     "english": {
       "question": "What applies to most children in Germany?",
-      "a": "Schulpflicht",
+      "a": "Compulsory schooling",
       "b": "Religious duty",
       "c": "Confidentiality",
       "d": "Compulsory voting",
@@ -2125,7 +2125,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What do you pay automatically in Germany if you pay a fixed\n                  ?",
+      "question": "What do you automatically pay in Germany if you are permanently employed?",
       "a": "Child benefit",
       "b": "Housing allowance",
       "c": "Social assistance",
@@ -2147,11 +2147,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "When members of the German Bundestag\n                  change, ...",
+      "question": "When members of the German Bundestag change their parliamentary group, ...",
       "a": "the government may lose its majority.",
       "b": "the Federal President must first\n                    give his/her consent.",
-      "c": "the voters of these members of parliament may still\n                    Vote once.",
-      "d": "they are no longer allowed to attend the sittings of the Parliament\n                    Participate",
+      "c": "the voters of these members of parliament may vote again.",
+      "d": "they are no longer allowed to attend parliamentary sessions.",
       "context": "Important question for life in Germany"
     }
   },
@@ -2235,7 +2235,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What can you honour with in the Federal Republic of Germany\n                  political, economic,\n                  cultural, intellectual or social area\n                  has performed? With the ...",
+      "question": "What can you be honored with in the Federal Republic of Germany if you have made a special contribution in the political, economic, cultural, intellectual, or social field? With the ...",
       "a": "Federal Eagle",
       "b": "Honorary title \"Hero of the German Democratic Republic\"",
       "c": "Order of Merit of the Federal Republic of Germany",
@@ -2303,7 +2303,7 @@
     "english": {
       "question": "What is the task of poll workers in\n                  Germany?",
       "a": "They pass on interim results to the media.",
-      "b": "They help old people to vote in the\n                    Voting booth.",
+      "b": "They help elderly people to vote in the voting booth.",
       "c": "They count the votes after the end of the election.",
       "d": "They write the election notifications before the election.",
       "context": "Important question for life in Germany"
@@ -2323,7 +2323,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, volunteer poll workers and\n                  Election workers at the elections. What is a task of\n                  Poll workers?",
+      "question": "In Germany, volunteer poll workers assist at elections. What is one of their tasks?",
       "a": "They write cards and letters with the indication of the\n                    polling station.",
       "b": "They pass on interim results to journalists.",
       "c": "They count the votes after the end of the election.",
@@ -2433,9 +2433,9 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What actions relating to the State of Israel are\n                Germany banned?",
+      "question": "What actions relating to the State of Israel are banned in Germany?",
       "a": "publicly criticize Israel's policies",
-      "b": "hanging an Israeli flag on the\n                  Private property",
+      "b": "hanging an Israeli flag on private property",
       "c": "the public call for the destruction of Israel",
       "d": "a discussion about Israel's policy",
       "context": "Important question for life in Germany"
@@ -2478,7 +2478,7 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Elections in Germany are won by the party that ...",
-      "a": "voted for most men by a majority.",
+      "a": "most men voted for by a majority.",
       "b": "get the most votes among blue-collar workers\n                    .",
       "c": "received the most first votes for their chancellor candidate\n                    Chancellor candidate.",
       "d": "gets the most votes.",
@@ -2523,7 +2523,7 @@
     "english": {
       "question": "What does \"active suffrage\" mean in Germany?",
       "a": "You have to go to the counting of the votes.",
-      "b": "You can choose.",
+      "b": "You can vote.",
       "c": "You can be elected.",
       "d": "You have to vote.",
       "context": "In Germany, there are various rights in connection with elections. These concern both the possibility of participating in an election and being allowed to stand as candidates. Many people hear terms such as \"active\" and \"passive suffrage\", but do not know exactly what is meant by them. To understand the difference, it is important to know what rights citizens have in Bundestag, state or local elections."
@@ -2587,7 +2587,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who is allowed to participate in the approximately 40 Jewish Maccabi sports clubs\n                  Become a member?",
+      "question": "Who is allowed to become a member of the approximately 40 Jewish Maccabi sports clubs?",
       "a": "only Germans",
       "b": "only Israelis",
       "c": "all people",
@@ -2610,10 +2610,10 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Elections in Germany are free. What does this mean?",
-      "a": "Each person can decide whether to vote without coercion\n                    and who she wants to vote for.",
+      "a": "Each person can decide without coercion whether to vote and who to vote for.",
       "b": "I am free to decide where I want to vote.",
-      "c": "All convicted offenders are not allowed to\n                    .",
-      "d": "If I want to vote, my employer/employer must\n                    Employer give me time off",
+      "c": "All convicted offenders are not allowed to vote.",
+      "d": "If I want to vote, my employer must give me time off.",
       "context": "Important question for life in Germany"
     }
   },
@@ -2654,7 +2654,7 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "A party wants to enter the German Bundestag. However, it must\n                  have a minimum share of votes. That means ...",
-      "a": "Underlying asset.",
+      "a": "Base value.",
       "b": "5% hurdle.",
       "c": "Directive.",
       "d": "Admission limit.",
@@ -2678,7 +2678,7 @@
       "question": "What is the principle of elections in Germany? Elections in\n                  Germany are ...",
       "a": "closed, equal, safe.",
       "b": "free, equal, secret.",
-      "c": "Secure, open, voluntary.",
+      "c": "secure, open, voluntary.",
       "d": "open, safe, free.",
       "context": "Important question for life in Germany"
     }
@@ -2741,11 +2741,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In a democracy, one function is of regular elections,\n                  …",
+      "question": "In a democracy, one function of regular elections is ...",
       "a": "to maintain existing laws in the country.",
       "b": "to give more power to the poor.",
-      "c": "force citizens to make their voices heard\n                    .",
-      "d": "according to the will of the majority of voters, the change of government\n                    .",
+      "c": "to force citizens to cast their vote.",
+      "d": "to enable a change of government according to the will of the majority of voters.",
       "context": "Important question for life in Germany"
     }
   },
@@ -2763,11 +2763,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What do citizens entitled to vote get in\n                  Germany facing an election?",
+      "question": "What do citizens entitled to vote receive in Germany before an election?",
       "a": "a notification from the Federal Assembly",
       "b": "a notification from the parish office",
       "c": "a voter's notification from the municipality",
-      "d": "a voting permit from the Federal President/the\n                    President of the Swiss Confederation",
+      "d": "a voting permit from the Federal President.",
       "context": "Important question for life in Germany"
     }
   },
@@ -2789,7 +2789,7 @@
       "a": "many small parties make it difficult to form a government.",
       "b": "the small parties do not have enough money to support the\n                    politicians.",
       "c": "the programmes of many small parties, many\n                    have things in common.",
-      "d": "the citizens of many small parties\n                    Lose orientation.",
+      "d": "citizens could lose orientation among many small parties.",
       "context": "Important question for life in Germany"
     }
   },
@@ -2896,7 +2896,7 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Many people in Germany work in their free time\n                  on a voluntary basis. What does this mean?",
-      "a": "You work in the federal government.",
+      "a": "They work in the federal government.",
       "b": "They work in a hospital and earn money in the process.",
       "c": "They work voluntarily and unpaid in associations and\n                    Associations.",
       "d": "They work as soldiers.",
@@ -2917,7 +2917,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What happens in federal and state elections in Germany\n                  allowed?",
+      "question": "What is permitted in federal and state elections in Germany?",
       "a": "You can cast your vote by postal vote.",
       "b": "You can cast your vote by telephone on election day.",
       "c": "Children from the age of 14 are allowed to vote.",
@@ -2983,7 +2983,7 @@
     "category": "Economy & Employment",
     "context": "Stellen Sie sich vor, Sie haben in Deutschland ein rechtliches Problem und überlegen, welches Gericht zuständig ist. Je nach Art des Konflikts – zum Beispiel im Arbeitsleben, im Straßenverkehr, beim Wohnen oder im privaten Umfeld – sind unterschiedliche Gerichte verantwortlich. Die folgende Frage prüft Ihr Wissen darüber, in welchem Fall man sich an das Arbeitsgericht wendet.",
     "english": {
-      "question": "They go to the labour court in Germany at ...",
+      "question": "You go to the labour court in Germany in case of ...",
       "a": "unfair dismissal by your boss.",
       "b": "Difficulties after a traffic accident.",
       "c": "incorrect utility bill.",
@@ -3027,11 +3027,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What can I do in Germany if my\n                  my employer has wrongly dismissed?",
+      "question": "What can I do in Germany if my employer has wrongfully dismissed me?",
       "a": "File an action for protection against dismissal",
       "b": "report the employer to the police",
       "c": "continue to work and be friendly to the boss",
-      "d": "an order for payment procedure against the employer\n                    Lead",
+      "d": "initiate an order for payment procedure against the employer.",
       "context": "Important question for life in Germany"
     }
   },
@@ -3163,7 +3163,7 @@
       "a": "judiciary.",
       "b": "executive power.",
       "c": "legislative power.",
-      "d": "planning violence.",
+      "d": "planning power.",
       "context": "The question relates to the organization of the state in Germany and the principle of the separation of powers. This principle divides state power into different areas to prevent abuse of power. Each area has its own tasks and responsibilities. In order to be able to answer this question, it is necessary to know what role judges play in the state system and to which state authority their work is assigned."
     }
   },
@@ -3205,7 +3205,7 @@
     "english": {
       "question": "What is a court case called in Germany?",
       "a": "Protocol",
-      "b": "Process",
+      "b": "Trial",
       "c": "Program",
       "d": "Procedure",
       "context": "In Germany, there are various terms in the legal system for processes in court. Some words are used in everyday language, others are legal terms. In order to find the right answer, it is helpful to know what a court case is officially called and which of the terms tend to come from other areas such as administration, technology or documentation."
@@ -3248,9 +3248,9 @@
     "context": "Die Frage bezieht sich auf das politische und rechtliche System in Deutschland. Dabei geht es um die Aufgaben verschiedener staatlicher Institutionen, wie Polizei, Bundeswehr und Parlament. Um die richtige Antwort zu finden, sollte man wissen, welche Zuständigkeiten diese Organe haben und wie sie zur Sicherheit, Ordnung und Gesetzgebung im Staat beitragen. Kenntnisse aus dem Politik- oder Gemeinschaftskundeunterricht helfen beim Verständnis.",
     "english": {
       "question": "What is the task of the police in Germany?",
-      "a": "to listen to the citizens",
+      "a": "to surveil citizens",
       "b": "to defend the country",
-      "c": "Monitor compliance with laws",
+      "c": "to monitor compliance with laws",
       "d": "to pass the laws",
       "context": "The question relates to the political and legal system in Germany. This involves the tasks of various state institutions, such as the police, the Bundeswehr and parliament. In order to find the right answer, one should know what responsibilities these bodies have and how they contribute to security, order and legislation in the state. Knowledge from political or social studies lessons helps with understanding."
     }
@@ -3359,7 +3359,7 @@
     "english": {
       "question": "What happened on May 8, 1945?",
       "a": "End of World War II in Europe",
-      "b": "Tod Adolf Hitlers",
+      "b": "Death of Adolf Hitler",
       "c": "Election of Konrad Adenauer as Federal Chancellor",
       "d": "Beginning of the construction of the Berlin Wall",
       "context": "The question refers to an important date in German and European history in the 20th century. Several historical events are put to choose from, which are far apart in time. In order to find the right answer, it is helpful to have a basic knowledge of the course of the Second World War, the post-war period in Germany, as well as significant political developments such as changes of government or the Cold War."
@@ -3445,7 +3445,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In 1933, the National Socialists with Adolf Hitler built a\n                Germany ...",
+      "question": "The National Socialists with Adolf Hitler established in Germany in 1933 ...",
       "a": "a principality.",
       "b": "a democratic state.",
       "c": "a dictatorship.",
@@ -3558,7 +3558,7 @@
       "question": "Claus Schenk Graf von Stauffenberg became known for ...",
       "a": "the assassination attempt on Hitler on July 20, 1944.",
       "b": "the development of the Wehrmacht.",
-      "c": "He won a gold medal at the 1936 Summer Olympics.",
+      "c": "a gold medal at the 1936 Olympic Games.",
       "d": "the construction of the Reichstag building.",
       "context": "The question refers to an important person in German history during the Nazi era. Claus Schenk Graf von Stauffenberg was an officer in the Wehrmacht during World War II. He became known above all for his actions in the political and military opposition to Adolf Hitler. In order to find the right answer, it is helpful to know the historical background of the resistance against the Nazi regime."
     }
@@ -3600,8 +3600,8 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "What happened in Germany on November 9, 1938?",
-      "a": "The National Socialists lose an election and solve the\n                  Reichstag",
-      "b": "Jewish shops and synagogues are\n                  National Socialists and their supporters destroyed",
+      "a": "The National Socialists lose an election and dissolve the Reichstag.",
+      "b": "Jewish shops and synagogues are destroyed by National Socialists and their supporters.",
       "c": "The attack on Poland marks the beginning of the Second World War",
       "d": "Hitler becomes Reich President and has all parties banned",
       "context": "Important question for life in Germany"
@@ -3665,7 +3665,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which countries were renamed in Germany after the Second World War?\n                referred to as \"Allied Occupying Powers\"?",
+      "question": "Which countries were referred to as \"Allied Occupying Powers\" in Germany after the Second World War?",
       "a": "France, Soviet Union, Italy, Japan",
       "b": "USA, Soviet Union, Spain, Portugal",
       "c": "USA, Soviet Union, Great Britain, France",
@@ -3885,7 +3885,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which German city was divided into four\n                Sectors divided?",
+      "question": "Which German city was divided into four sectors after the Second World War?",
       "a": "Dresden",
       "b": "Munich",
       "c": "Frankfurt/Oder",
@@ -3907,11 +3907,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "From June 1948 to May 1949, the citizens\n                from West Berlin by an airlift. What circumstance\n                was responsible for this?",
+      "question": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What was the reason for this?",
       "a": "For Great Britain, the supply via the airlift was\n                  faster.",
-      "b": "For France, a supply of the West Berliners\n                  population by plane more cost-effectively.",
-      "c": "The Soviet Union interrupted all traffic on the\n                  Landwege.",
-      "d": "The American soldiers had\n                  Land transport Fear of robberies.",
+      "b": "For France, supplying the West Berlin population by plane was more cost-effective.",
+      "c": "The Soviet Union cut off all land routes.",
+      "d": "American soldiers feared being attacked during land transport.",
       "context": "Important question for life in Germany"
     }
   },
@@ -3973,7 +3973,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What did Willy Brandt want to do with his genuflection in 1970 in the former\n                Jewish ghetto in Warsaw?",
+      "question": "What did Willy Brandt want to express with his kneeling gesture in 1970 in the former Jewish ghetto in Warsaw?",
       "a": "He said a prayer at the Tomb of the Unknown Soldier",
       "b": "He showed his humility before the Warsaw Pact",
       "c": "He has submitted to the former Allies",
@@ -4017,7 +4017,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "When was the\n                \"Economic miracle\"?",
+      "question": "When was the \"Economic Miracle\" in the Federal Republic of Germany?",
       "a": "80s",
       "b": "70s",
       "c": "50s",
@@ -4039,7 +4039,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "On what legal basis was the State of Israel\n                  ?",
+      "question": "On what legal basis was the State of Israel founded?",
       "a": "a United Nations resolution",
       "b": "a proposal of the Federal Government",
       "c": "a proposal of the USSR",
@@ -4083,11 +4083,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In 1953 there was an uprising in the GDR, which for a long time\n                in the Federal Republic of Germany. When\n                Was that?",
-      "a": "9. November",
+      "question": "In 1953, there was an uprising in the GDR. A public holiday in the Federal Republic of Germany long commemorated this event. When did it take place?",
+      "a": "November 9",
       "b": "July 20",
       "c": "June 17",
-      "d": "1. May",
+      "d": "May 1",
       "context": "Important question for life in Germany"
     }
   },
@@ -4106,7 +4106,7 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Which German state had a black-red-gold flag with\n                Hammer, compass and wreath of wheat?",
-      "a": "DDR",
+      "a": "GDR",
       "b": "Third Reich",
       "c": "Prussia",
       "d": "Federal Republic of Germany",
@@ -4439,7 +4439,7 @@
       "a": "to NATO",
       "b": "to the Western Powers",
       "c": "to the non-aligned states",
-      "d": "on the Warsaw Pact",
+      "d": "to the Warsaw Pact",
       "context": "After World War II, Germany was divided into two states: the Federal Republic of Germany (FRG) in the west and the German Democratic Republic (GDR) in the east. During the Cold War, two major military and power blocs faced each other, with different countries forming alliances. The question relates to which of these alliances the GDR belonged."
     }
   },
@@ -4479,11 +4479,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How did the Federal Republic of Germany and the GDR become a\n                State?",
+      "question": "How did the Federal Republic of Germany and the GDR become one state?",
       "a": "The GDR occupied the Federal Republic of Germany.",
       "b": "The western federal states have joined the GDR.",
       "c": "The Federal Republic of Germany occupied the GDR.",
-      "d": "Today's five eastern federal states are the\n                  Federal Republic of Germany.",
+      "d": "Today's five eastern federal states joined the Federal Republic of Germany.",
       "context": "Important question for life in Germany"
     }
   },
@@ -4501,8 +4501,8 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "With the accession of the GDR to the Federal Republic of Germany,\n                the new federal states now also ...",
-      "a": "on the European Defence Community.",
+      "question": "With the accession of the GDR to the Federal Republic of Germany, the new federal states now also belong ...",
+      "a": "to the European Defence Community.",
       "b": "to the Warsaw Pact.",
       "c": "to the European Union.",
       "d": "to OPEC.",
@@ -4787,7 +4787,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How many federal states came to the reunification in 1990?\n                Federal Republic of Germany?",
+      "question": "How many federal states joined the Federal Republic of Germany at reunification in 1990?",
       "a": "4",
       "b": "5",
       "c": "6",
@@ -4809,7 +4809,7 @@
     "category": "History & Geography",
     "context": "Die Frage bezieht sich auf die historische Entwicklung Deutschlands nach dem Zweiten Weltkrieg. In verschiedenen Jahren änderten sich Staatsform, politische Ordnung und territoriale Grenzen Deutschlands. Besonders wichtig sind die Gründung der Bundesrepublik Deutschland, die Teilung in Ost- und Westdeutschland sowie die deutsche Wiedervereinigung. Der zeitliche Zusammenhang hilft zu verstehen, ab welchem Jahr die heutigen Grenzen der Bundesrepublik Deutschland bestehen.",
     "english": {
-      "question": "The Federal Republic of Germany has closed the borders of today since ...",
+      "question": "The Federal Republic of Germany has had its current borders since ...",
       "a": "1933",
       "b": "1949",
       "c": "1971",
@@ -4854,8 +4854,8 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Germany is a member of the Schengen Agreement. What\n                  Does that mean?",
-      "a": "All people can enter Germany without identity checks\n                    Entry",
-      "b": "Germans can enter many European countries without passport control\n                    Travel",
+      "a": "All people can enter Germany without identity checks.",
+      "b": "Germans can travel to many European countries without passport control.",
       "c": "Germans can pay with the euro in any country",
       "d": "Germans can travel to any country without passport control",
       "context": "Important question for life in Germany"
@@ -4941,7 +4941,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In which other country is there a large German-speaking\n                  Population?",
+      "question": "In which other country is there a large German-speaking population?",
       "a": "Austria",
       "b": "Spain",
       "c": "Czech Republic",
@@ -5007,7 +5007,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "How will the accession of the GDR to the Federal Republic of Germany be\n                Year 1990 commonly called?",
+      "question": "What is the accession of the GDR to the Federal Republic of Germany in 1990 commonly called?",
       "a": "EU eastward enlargement",
       "b": "European Community",
       "c": "NATO eastward expansion",
@@ -5095,7 +5095,7 @@
     "category": "Elections",
     "context": "Die Frage bezieht sich auf die Europawahl, die regelmäßig in allen Mitgliedstaaten der Europäischen Union stattfindet. Dabei sollen Bürgerinnen und Bürger verstehen, welches Organ der EU durch ihre Stimme bestimmt wird. Die Antwortmöglichkeiten nennen verschiedene Institutionen und Entscheidungen auf EU-Ebene, um zu prüfen, welches politische Gremium tatsächlich direkt von den Wählerinnen und Wählern gewählt wird.",
     "english": {
-      "question": "Who will be elected in the European elections?",
+      "question": "Who is elected in the European elections?",
       "a": "the European Constitution",
       "b": "Members of the European Parliament",
       "c": "the European Commission",
@@ -5161,7 +5161,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "The then French President Francois Mitterrand\n                  and the then German Chancellor Helmut Kohl\n                  in Verdun together with the dead of both world wars. What is the goal\n                  of the European Union becomes clear at this meeting?",
+      "question": "The then French President François Mitterrand and the then German Chancellor Helmut Kohl commemorated the dead of both world wars together in Verdun. What goal of the European Union is highlighted at this meeting?",
       "a": "Peace and security in the countries of the EU",
       "b": "Uniform public holidays in the countries of the EU",
       "c": "Freedom to travel to all EU countries",
@@ -5205,7 +5205,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "2007 marked the 50th anniversary of the \"Treaties of Rome\"\n                  was celebrated. What was the content of the contracts?",
+      "question": "2007 marked the 50th anniversary of the \"Treaties of Rome\". What was the content of these treaties?",
       "a": "Establishment of the European Economic Community (EEC)",
       "b": "Determination of the Oder-Neisse line as the eastern border",
       "c": "Germany's accession to NATO",
@@ -5249,7 +5249,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "By which treaties did the Federal Republic of Germany conclude\n                  Germany with other states to the European\n                  economic community?",
+      "question": "Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?",
       "a": "by the \"Paris Treaties\"",
       "b": "through the \"Hamburg Treaties\"",
       "c": "by the \"Treaties of Rome\"",
@@ -5293,7 +5293,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Mrs. Seger is having a child. What does she have to do to receive parental allowance\n                  ?",
+      "question": "Mrs. Seger is having a child. What does she have to do to receive parental allowance?",
       "a": "She must ask the employment office for permission",
       "b": "She has to write to her health insurance company",
       "c": "She doesn't have to do anything, because she automatically receives parental allowance",
@@ -5315,7 +5315,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who decides whether a child in Germany is in the\n                  Kindergarten goes?",
+      "question": "Who decides whether a child in Germany goes to kindergarten?",
       "a": "the federal states",
       "b": "the schools",
       "c": "the state",
@@ -5338,10 +5338,10 @@
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
       "question": "Maik and Sybille want to stay with friends at their German place of residence\n                hold a demonstration on the street. What do they have to do\n                to do beforehand?",
-      "a": "You must register the demonstration.",
+      "a": "They must register the demonstration.",
       "b": "Maik and Sybille have to found a new club because only\n                  Clubs are allowed to demonstrate",
       "c": "They can't do anything, because demonstrations are in\n                  Germany banned in principle",
-      "d": "You don't have to do anything. In Germany, you are allowed to do so at any time\n                  demonstrate everywhere.",
+      "d": "They don't have to do anything. In Germany, you are allowed to demonstrate anywhere at any time.",
       "context": "Important question for life in Germany"
     }
   },
@@ -5359,7 +5359,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What school-leaving certificate do you normally need to take part in a\n                  University in Germany?",
+      "question": "What school-leaving certificate do you normally need to start a degree at a university in Germany?",
       "a": "the Abitur",
       "b": "the power of attorney",
       "c": "a journeyman's examination",
@@ -5425,7 +5425,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A woman is pregnant. She is shortly before and after birth\n                  of their child is particularly protected by the law. What is the name of this\n                  Protection?",
+      "question": "A woman is pregnant. She is particularly protected by law shortly before and after the birth of her child. What is this protection called?",
       "a": "Birth preparation",
       "b": "Parental leave",
       "c": "Postpartum",
@@ -5469,11 +5469,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Who in Germany is mainly responsible for the\n                  Raising children?",
+      "question": "Who in Germany is primarily responsible for raising children?",
       "a": "the state",
       "b": "the relatives",
-      "c": "of parents",
-      "d": "of schools",
+      "c": "parents",
+      "d": "schools",
       "context": "Important question for life in Germany"
     }
   },
@@ -5537,7 +5537,7 @@
     "english": {
       "question": "In Germany ...",
       "a": "you can have several spouses at the same time\n                    .",
-      "b": "you may only work with one partner at the same time\n                    partner.",
+      "b": "you may only be married to one partner at a time.",
       "c": "a woman may not remarry if her husband\n                    died.",
       "d": "you are not allowed to remarry once you are married\n                    was.",
       "context": "Important question for life in Germany"
@@ -5579,10 +5579,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, married couples are allowed to divorce. Most of the time\n                  they must comply with the \"year of separation\". What does\n                  That?",
-      "a": "The spouses have been married for one year, then the\n                    Divorce possible.",
+      "question": "In Germany, married couples are allowed to divorce. They usually have to comply with the \"year of separation\". What does this mean?",
+      "a": "The spouses have been married for one year, after which divorce is possible.",
       "b": "The divorce process takes one year.",
-      "c": "The spouses have been living separately for at least one year.\n                    own life. After that, divorce is possible.",
+      "c": "The spouses live separately for at least one year, after which divorce is possible.",
       "d": "The right of visitation for the children is valid for one year.",
       "context": "Important question for life in Germany"
     }
@@ -5601,7 +5601,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In case of parenting problems, parents in Germany can get help\n                  received from ...",
+      "question": "If parents in Germany have parenting problems, they can get help from the ...",
       "a": "Public order office.",
       "b": "Youth Welfare Office.",
       "c": "School Authority.",
@@ -5623,7 +5623,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A couple wants to open a restaurant in Germany. What\n                  is it absolutely necessary?",
+      "question": "A couple wants to open a restaurant in Germany. What do they absolutely need?",
       "a": "a permit from the Residents' Registration Office",
       "b": "a permit from a party",
       "c": "a permit from the police",
@@ -5645,11 +5645,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "An adult woman wants to graduate from high school in Germany\n                  . She can do that at ...",
-      "a": "of a private university",
+      "question": "An adult woman wants to complete her Abitur in Germany. She can do that at ...",
+      "a": "a private university",
       "b": "an evening grammar school",
-      "c": "of a Hauptschule",
-      "d": "of a university.",
+      "c": "a Hauptschule",
+      "d": "a university.",
       "context": "Important question for life in Germany"
     }
   },
@@ -5669,7 +5669,7 @@
     "english": {
       "question": "What is the youth welfare office allowed to do in Germany?",
       "a": "It checks whether the child attends a kindergarten.",
-      "b": "A child who is beaten or has to starve can be\n                    of the family.",
+      "b": "A child who is being beaten or starved can be removed from the family.",
       "c": "It pays the child benefit to the parents.",
       "d": "It decides which school the child attends.",
       "context": "Important question for life in Germany"
@@ -5733,11 +5733,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A man wants to graduate from high school in Germany at the age of 30\n                  . Where can he do that? On ...",
-      "a": "of a Hauptschule",
+      "question": "A man wants to complete his Abitur in Germany at the age of 30. Where can he do that? At ...",
+      "a": "a Hauptschule",
       "b": "an evening grammar school",
-      "c": "of a university",
-      "d": "of a private university",
+      "c": "a university",
+      "d": "a private university",
       "context": "Important question for life in Germany"
     }
   },
@@ -5755,10 +5755,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What does the principle of\n                  Equal treatment?",
+      "question": "What does the principle of equal treatment mean in Germany?",
       "a": "No one may sue persons if they are disadvantaged\n                    .",
       "b": "No one may be discriminated against because of a disability, for example.\n                    .",
-      "c": "It is applicable to all law, disadvantaged groups annually\n                    To donate money.",
+      "c": "It is required by law for everyone to donate money annually to disadvantaged groups.",
       "d": "It is permissible to discriminate against other persons if sufficient\n                    there are personal reasons for doing so.",
       "context": "Important question for life in Germany"
     }
@@ -5777,7 +5777,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, young people from the age of 14 are criminally responsible. The\n                  means: young people who are 14 years and older and who are\n                  violate criminal laws, ...",
+      "question": "In Germany, young people from the age of 14 are criminally responsible. This means: young people who are 14 or older and who violate criminal laws, ...",
       "a": "are punished.",
       "b": "share the punishment with their parents.",
       "c": "are treated like adults.",
@@ -5821,7 +5821,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Where do you have to go first in Germany when you get married\n                ?",
+      "question": "Where must you go first in Germany if you want to get married?",
       "a": "to the public order office",
       "b": "to the Residents' Registration Office",
       "c": "to the registry office",
@@ -5865,11 +5865,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A young woman in Germany, 22 years old, lives with her\n                  friend together. The woman's parents don't like it,\n                  because they don't like the friend. What can parents do?\n                  What to do?",
+      "question": "A young woman in Germany, aged 22, lives with her boyfriend. Her parents are unhappy about this because they don't like him. What can the parents do?",
       "a": "They can go to the police and report the daughter.",
-      "b": "You have the right to send the daughter to her parents' home\n                    .",
+      "b": "They have the right to bring their daughter back to the family home.",
       "c": "They are looking for another man for their daughter.",
-      "d": "They must be aware of the decision of the adult daughter\n                    respect.",
+      "d": "They must respect the decision of their adult daughter.",
       "context": "Important question for life in Germany"
     }
   },
@@ -5887,10 +5887,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A young woman wants to get her driver's license. She's scared\n                  before the exam because their mother tongue is not German.\n                  Which is correct?",
+      "question": "A young woman wants to get her driver's license. She is worried about the exam because her mother tongue is not German. What is correct?",
       "a": "If she doesn't know German, she can't get a driver's license\n                    .",
       "b": "She has to get her driver's license in the country where you\n                    speaks their language.",
-      "c": "She may be able to pass the theory exam in her\n                    Mother tongue. There are more than ten languages for\n                    Selection.",
+      "c": "She may be able to take the theory exam in her mother tongue. There are more than ten languages available.",
       "d": "She must live in Germany for at least ten years before\n                    she can get her driver's license.",
       "context": "Important question for life in Germany"
     }
@@ -5909,7 +5909,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In Germany, children from the age of three to\n                  entitlement to ...",
+      "question": "In Germany, children from the age of three until starting school are entitled to ...",
       "a": "a place in a sports club.",
       "b": "a kindergarten place.",
       "c": "monthly pocket money.",
@@ -6019,7 +6019,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "You have deliberately opened a letter in Germany that\n                  is addressed to another person. What do you not have\n                  Noticed?",
+      "question": "You have deliberately opened a letter in Germany that was addressed to another person. Which right have you violated?",
       "a": "freedom of expression",
       "b": "the duty of confidentiality",
       "c": "the right to remain silent",
@@ -6063,7 +6063,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What should you do if you are informed by your contact person /\n                Your contact person in a German authority\n                be treated?",
+      "question": "What should you do if you are treated poorly by a contact person at a German authority?",
       "a": "I threaten the person.",
       "b": "I can't do anything.",
       "c": "I have to put up with this treatment.",
@@ -6085,10 +6085,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A woman who has a two-year-old child applies for a job in\n                  Germany by one job. What is an example of\n                  Discrimination? The only reason she doesn't get the job is\n                  because they ...",
+      "question": "A woman who has a two-year-old child applies for a job in Germany. What is an example of discrimination? The only reason she doesn't get the job is because she ...",
       "a": "has no experience in this profession.",
       "b": "doesn't speak English.",
-      "c": "mother.",
+      "c": "is a mother.",
       "d": "has too high salary expectations.",
       "context": "Important question for life in Germany"
     }
@@ -6107,10 +6107,10 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A man in a wheelchair has applied for a job as an accountant\n                  . What is an example of discrimination? He gets\n                  the only reason he did not get the job was because he ...",
+      "question": "A man in a wheelchair has applied for a job as an accountant. What is an example of discrimination? The only reason he didn't get the job was because he ...",
       "a": "has too high salary expectations.",
       "b": "has no experience.",
-      "c": "in a wheelchair.",
+      "c": "is in a wheelchair.",
       "d": "doesn't speak English.",
       "context": "Important question for life in Germany"
     }
@@ -6129,11 +6129,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "In most apartment buildings in Germany there is a\n                \"House rules\". What does such \"house rules\" say? They\n                calls",
+      "question": "In most apartment buildings in Germany there is a \"Hausordnung\" (house rules). What does such a \"Hausordnung\" contain? It lists ...",
       "a": "the address of the nearest public order office.",
-      "b": "Rules for the use of public.",
+      "b": "rules for the use of common areas.",
       "c": "all tenants in the building.",
-      "d": "Rules that all residents adhere to\n                  .",
+      "d": "rules that all residents must follow.",
       "context": "Important question for life in Germany"
     }
   },
@@ -6173,7 +6173,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Two friends want to go to a public swimming pool in\n                Germany. Both have dark skin and are\n                therefore not allowed in. What is the right in this\n                Situation violated? The right to ...",
+      "question": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are not allowed in. Which right is being violated in this situation? The right to ...",
       "a": "Equal treatment",
       "b": "Freedom of assembly",
       "c": "Free movement of persons",
@@ -6195,7 +6195,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What voluntary work do German citizens have to do?\n                  Citizens take over when they are asked to do so?",
+      "question": "What voluntary role must German citizens take on when asked to do so?",
       "a": "Library supervision",
       "b": "Club trainer",
       "c": "Teacher",
@@ -6243,7 +6243,7 @@
       "a": "Children learn everything that is important at work at school.\n                    After school, you don't have to continue learning.",
       "b": "Everyone has to stop working earlier because everything\n                    changes.",
       "c": "It doesn't matter what you learn.",
-      "d": "Adults have to keep going even after their training\n                    Learn.",
+      "d": "Adults have to keep learning even after completing their training.",
       "context": "Important question for life in Germany"
     }
   },
@@ -6283,7 +6283,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Which organization in a company helps employees and\n                  Employees in case of problems with the employer/the\n                  Employer?",
+      "question": "Which organization in a company helps employees with problems involving their employer?",
       "a": "the tax auditor",
       "b": "Operations management",
       "c": "the works council",
@@ -6305,7 +6305,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "You would like to work with a company in Germany for your\n                  Terminate the employment relationship. What do you need to consider?",
+      "question": "You would like to end your employment with a company in Germany. What do you need to keep in mind?",
       "a": "the notice period",
       "b": "compulsory insurance",
       "c": "salary payments",
@@ -6349,7 +6349,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "A man with dark skin applies for a job as a\n                Waiter in a restaurant in Germany. What is an example\n                for discrimination? The only reason he doesn't get the job is\n                because ...",
+      "question": "A man with dark skin applies for a waiter position at a restaurant in Germany. What is an example of discrimination? The only reason he doesn't get the job is because ...",
       "a": "he has no experience in the profession.",
       "b": "he has dark skin.",
       "c": "his knowledge of German is too low.",
@@ -6371,9 +6371,9 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "You bought a television in Germany. At home\n                unpack the TV, but it doesn't work. The\n                TV is broken. What can you do?",
+      "question": "You bought a television in Germany. When you unpack it at home, it doesn't work. The TV is broken. What can you do?",
       "a": "complain about the TV",
-      "b": "Write an ad",
+      "b": "File a complaint.",
       "c": "extend the warranty",
       "d": "replace the device without being asked",
       "context": "Important question for life in Germany"
@@ -6393,11 +6393,11 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "Why do you have to file a tax return in Germany\n                  write down whether you belong to a church or not? Because ...",
+      "question": "Why do you have to state in your German tax return whether you belong to a church or not? Because ...",
       "a": "the church is responsible for the tax return.",
       "b": "which is important for statistics in Germany.",
       "c": "you have to pay more taxes if you don't belong to a church\n                    .",
-      "d": "there is a church tax that is paid to the income and\n                    wage tax.",
+      "d": "there is a church tax that is linked to income and wage tax.",
       "context": "Important question for life in Germany"
     }
   },
@@ -6481,7 +6481,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "What is the religion of European and German culture?\n                  ?",
+      "question": "Which religion has shaped European and German culture?",
       "a": "Christianity",
       "b": "Hinduism",
       "c": "Buddhism",
@@ -6525,7 +6525,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "From which country are most migrants\n                  came to Germany?",
+      "question": "From which country did most migrants come to Germany?",
       "a": "Italy",
       "b": "Turkey",
       "c": "Poland",
@@ -6591,7 +6591,7 @@
     "category": "General",
     "context": "Wichtige Frage für das Leben in Deutschland",
     "english": {
-      "question": "From which country did the first guest workers and\n                  Guest workers to Germany?",
+      "question": "From which country did the first guest workers come to Germany?",
       "a": "Italy",
       "b": "Portugal",
       "c": "Turkey",
@@ -9957,7 +9957,7 @@
     "category": "Elections",
     "context": "Die Frage bezieht sich auf das politische System des deutschen Bundeslandes Thüringen. Der Landtag ist das Landesparlament und wird in regelmäßigen Abständen von den wahlberechtigten Bürgerinnen und Bürgern gewählt. Die Länge der Wahlperiode ist gesetzlich festgelegt und bestimmt, wie lange die Abgeordneten ihr Mandat ausüben.",
     "english": {
-      "question": "For how many years will the state parliament in Thuringia be elected?",
+      "question": "For how many years is the state parliament in Berlin elected?",
       "a": "3",
       "b": "4",
       "c": "5",
