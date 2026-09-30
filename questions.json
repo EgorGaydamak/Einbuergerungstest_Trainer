@@ -11,14 +11,14 @@
     "d": "die Menschen Steuern zahlen.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Meinungsfreiheit ist in Art. 5 des Grundgesetzes garantiert. Sie erlaubt es jedem, seine Meinung frei zu äußern – auch Kritik an der Regierung. Das Wahlrecht und die Religionsfreiheit sind separate Grundrechte.",
     "english": {
       "question": "In Germany, people are allowed to openly say something against the government, because?",
       "a": "freedom of expression applies here.",
       "b": "people have the right to vote.",
       "c": "freedom of religion applies here.",
       "d": "people pay taxes.",
-      "context": "Important question for life in Germany"
+      "context": "Freedom of expression is guaranteed by Art. 5 of the Basic Law. It allows everyone to express opinions freely – including criticism of the government. The right to vote and religious freedom are separate fundamental rights."
     }
   },
   {
@@ -33,14 +33,14 @@
     "d": "Sprachunterricht teilnimmt.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Grundgesetz (Art. 7) sichert Eltern das Recht, über die Teilnahme ihres Kindes am Religionsunterricht zu entscheiden – aber nur bis zum 14. Lebensjahr. Ab 14 entscheiden Kinder selbst.",
     "english": {
       "question": "In Germany, parents can decide until their child's 14th birthday whether their child participates in?",
       "a": "religious education classes",
       "b": "politics classes",
       "c": "history classes",
       "d": "language classes",
-      "context": "Important question for life in Germany"
+      "context": "The Basic Law (Art. 7) gives parents the right to decide on their child's participation in religious education – but only until the child turns 14. From age 14, children decide for themselves."
     }
   },
   {
@@ -55,14 +55,14 @@
     "d": "Der Staat muss sich nicht an die Gesetze halten.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Im Rechtsstaat sind alle – Bürger und Staat – an die Gesetze gebunden (Art. 20 GG). Gesetze werden vom Parlament gemacht, nicht von den Gerichten. Kein Bürger und kein Staatsorgan steht über dem Gesetz.",
     "english": {
       "question": "Germany is a state governed by the rule of law. What does that mean?",
       "a": "The courts make the laws.",
       "b": "Only Germans have to follow the laws.",
       "c": "All residents and the state must abide by the laws.",
       "d": "The state does not have to abide by the law.",
-      "context": "Important question for life in Germany"
+      "context": "In a constitutional state (Rechtsstaat), everyone – citizens and the state – is bound by the law (Art. 20 Basic Law). Laws are made by parliament, not courts. No citizen and no state body is above the law."
     }
   },
   {
@@ -99,14 +99,14 @@
     "d": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber/meine\n                    Arbeitgeberin mir frei geben",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "'Frei' bedeutet bei Wahlen: Niemand darf zum Wählen gezwungen werden, und niemand darf vorgeschrieben bekommen, wen er wählt. Die Wahlfreiheit schützt den persönlichen, unbeinflussten Entschluss.",
     "english": {
       "question": "Elections in Germany are free. What does this mean?",
       "a": "Each person can decide without coercion whether to vote and who to vote for.",
       "b": "I am free to decide where I want to vote.",
       "c": "All convicted offenders are not allowed to vote.",
       "d": "If I want to vote, my employer must give me time off.",
-      "context": "Important question for life in Germany"
+      "context": "'Free' in elections means no one may be forced to vote, and no one may be told whom to vote for. Freedom of voting protects the personal, uninfluenced decision of each voter."
     }
   },
   {
@@ -143,14 +143,14 @@
     "d": "Unterhaltung",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Glaubens- und Gewissensfreiheit ist in Art. 4 GG garantiert. Ein Recht auf Arbeit oder Wohnung gibt es im Grundgesetz nicht als einklagbares Grundrecht. Unterhaltung ist kein Grundrecht.",
     "english": {
       "question": "Which right is one of the fundamental rights guaranteed under the\n                  German constitution? The right to",
       "a": "Work",
       "b": "Apartment",
       "c": "Freedom of religion and conscience",
       "d": "Entertainment",
-      "context": "Important question for life in Germany"
+      "context": "Freedom of belief and conscience is guaranteed by Art. 4 of the Basic Law. There is no enforceable fundamental right to work or housing in the Basic Law. Entertainment is not a fundamental right."
     }
   },
   {
@@ -187,14 +187,14 @@
     "d": "Asyl",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Asylrecht (Art. 16a GG) ist das einzige Grundrecht im deutschen Grundgesetz, das ausschließlich für Ausländer gilt. Grundrechte wie Menschenwürde und Meinungsfreiheit gelten für alle Menschen.",
     "english": {
       "question": "Which fundamental right in Germany applies only to foreigners? The fundamental right to ...",
       "a": "Human dignity",
       "b": "Freedom of expression",
       "c": "Protection of the family",
       "d": "Asylum",
-      "context": "Important question for life in Germany"
+      "context": "The right to asylum (Art. 16a Basic Law) is the only fundamental right in Germany's constitution that applies exclusively to non-citizens. Rights like human dignity and freedom of expression apply to all people."
     }
   },
   {
@@ -231,14 +231,14 @@
     "d": "Bundesverfassung",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die deutsche Verfassung heißt 'Grundgesetz' (GG). Sie wurde am 23. Mai 1949 in Kraft gesetzt. Der Begriff 'Grundgesetz' statt 'Verfassung' wurde gewählt, weil das Dokument als vorläufig für die geteilte Nation galt.",
     "english": {
       "question": "What is the German constitution called?",
       "a": "Constitutional Treaty",
       "b": "Code of Law",
       "c": "Basic Law",
       "d": "Federal Constitution",
-      "context": "Important question for life in Germany"
+      "context": "Germany's constitution is called the 'Grundgesetz' (Basic Law). It came into force on May 23, 1949. The term 'Basic Law' rather than 'Constitution' was chosen because the document was considered provisional for the divided nation."
     }
   },
   {
@@ -253,14 +253,14 @@
     "d": "Ja, wenn mehr als die Halfte der Abgeordneten im Bundestag\n                    dafur sind.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Pressefreiheit ist ein Grundrecht (Art. 5 GG). Grundrechte können nicht durch einfache Parlamentsmehrheit abgeschafft werden – sie sind durch die Ewigkeitsklausel (Art. 79 Abs. 3 GG) dauerhaft geschützt.",
     "english": {
       "question": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
       "a": "No, because freedom of the press is a fundamental right. It cannot be abolished.",
       "b": "No, because only the Federal Council can abolish freedom of the press.",
       "c": "Yes, but two-thirds of the members of the Bundestag would have to be in favor.",
       "d": "Yes, if more than half of the members of the Bundestag are in favor.",
-      "context": "Important question for life in Germany"
+      "context": "Press freedom is a fundamental right (Art. 5 Basic Law). Fundamental rights cannot be abolished by a simple parliamentary majority – they are permanently protected by the eternity clause (Art. 79 para. 3 Basic Law)."
     }
   },
   {
@@ -275,14 +275,14 @@
     "d": "die Fraktion mit den meisten Abgeordneten.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Als Opposition bezeichnet man alle Parteien im Parlament, die nicht an der Regierung beteiligt sind. Ihre Aufgabe ist es, die Regierung zu kontrollieren, zu kritisieren und Alternativen vorzuschlagen.",
     "english": {
       "question": "In parliament, the term \"opposition\" stands for ...",
       "a": "all members of parliament who do not belong to the ruling party/\n                    governing parties.",
       "b": "the governing parties.",
       "c": "all parties that cleared the 5% threshold in the last election.",
       "d": "the parliamentary group with the most deputies.",
-      "context": "Important question for life in Germany"
+      "context": "Opposition refers to all parties in parliament that are not part of the government. Their role is to scrutinize, criticize, and propose alternatives to the government's policies."
     }
   },
   {
@@ -297,14 +297,14 @@
     "d": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich\n                    tragen darf.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Meinungsfreiheit erlaubt das Äußern von Meinungen, z.B. in Leserbriefen. Sie schützt jedoch keine Beleidigungen, keine Volksverhetzung und keine Nazi-Symbole, da diese gesetzlich verboten sind.",
     "english": {
       "question": "Freedom of expression in Germany means that I ...",
       "a": "can express my opinion in letters to the editor.",
       "b": "may insult passers-by on the street.",
       "c": "may only express my opinion as long as I do not contradict the government.",
       "d": "may publicly display Nazi, Hamas, or Islamic State symbols.",
-      "context": "Important question for life in Germany"
+      "context": "Freedom of expression allows stating opinions, e.g. in letters to the editor. However, it does not protect insults, incitement to hatred, or Nazi symbols, as these are prohibited by law."
     }
   },
   {
@@ -341,14 +341,14 @@
     "d": "bei Diskussionen über Religionen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Meinungsfreiheit endet, wo Rechte anderer verletzt werden. Das öffentliche Verbreiten falscher Tatsachenbehauptungen über eine Person ist strafbar (Verleumdung §187 StGB). Staatskritik hingegen ist ausdrücklich geschützt.",
     "english": {
       "question": "When is freedom of expression restricted in Germany?",
       "a": "in case of criticism of the state",
       "b": "when expressing opinions about the Federal Government",
       "c": "in the public dissemination of false allegations about\n                    individual persons",
       "d": "in discussions about religions",
-      "context": "Important question for life in Germany"
+      "context": "Freedom of expression ends where others' rights are violated. Publicly spreading false statements of fact about a person is a criminal offense (defamation, §187 StGB). Criticism of the state, however, is explicitly protected."
     }
   },
   {
@@ -363,14 +363,14 @@
     "d": "Petitionen der Bürger und Bürgerinnen.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Grundgesetz (Art. 3) verbietet dem Staat, Bürger ungleich zu behandeln. Versammlungsfreiheit, Meinungsfreiheit und das Petitionsrecht sind hingegen garantierte Grundrechte, die der Staat nicht verbieten darf.",
     "english": {
       "question": "German laws prohibit ...",
       "a": "unequal treatment of citizens by the\n                    State.",
       "b": "Freedom of assembly of residents.",
       "c": "Freedom of expression of the residents.",
       "d": "Petitions of citizens.",
-      "context": "Important question for life in Germany"
+      "context": "The Basic Law (Art. 3) prohibits the state from treating citizens unequally. Freedom of assembly, freedom of expression, and the right to petition are instead guaranteed fundamental rights that the state may not prohibit."
     }
   },
   {
@@ -385,14 +385,14 @@
     "d": "Meinungsfreiheit",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Artikel 1 GG schützt die Menschenwürde als höchsten Verfassungswert: 'Die Würde des Menschen ist unantastbar.' Er ist durch die Ewigkeitsklausel (Art. 79 Abs. 3) absolut unveränderbar.",
     "english": {
       "question": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
       "a": "Religious Freedom",
       "b": "the inviolability of human dignity",
       "c": "the right to life",
       "d": "Freedom of expression",
-      "context": "Important question for life in Germany"
+      "context": "Article 1 of the Basic Law protects human dignity as the highest constitutional value: 'Human dignity shall be inviolable.' It is absolutely unamendable under the eternity clause (Art. 79 para. 3)."
     }
   },
   {
@@ -407,14 +407,14 @@
     "d": "Man darf sich für eine andere Religion entscheiden.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Freizügigkeit (Art. 11 GG) bedeutet, dass jeder das Recht hat, seinen Wohnsitz und Aufenthaltsort in Deutschland frei zu wählen. Es hat nichts mit Kleidung, Berufswahl oder Religion zu tun.",
     "english": {
       "question": "What is meant by the right of \"free movement\" in\n                  Germany?",
       "a": "You are only allowed to dress lightly in public\n                    .",
       "b": "You can choose your own place of residence.",
       "c": "You can change your profession.",
       "d": "You can choose another religion.",
-      "context": "Important question for life in Germany"
+      "context": "Freedom of movement (Art. 11 Basic Law) means everyone has the right to freely choose their place of residence and location in Germany. It has nothing to do with clothing, career choice, or religion."
     }
   },
   {
@@ -429,14 +429,14 @@
     "d": "rechtsstaatlich orientiert.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Eine Partei, die eine Diktatur errichten will, ist verfassungswidrig, weil sie die freiheitlich-demokratische Grundordnung beseitigen will. Das Bundesverfassungsgericht kann solche Parteien verbieten (Art. 21 GG).",
     "english": {
       "question": "A party in Germany is pursuing the goal of establishing a dictatorship. It is then ...",
       "a": "unconstitutional.",
       "b": "Law-abiding.",
       "c": "tolerant.",
       "d": "based on the rule of law.",
-      "context": "Important question for life in Germany"
+      "context": "A party that aims to establish a dictatorship is unconstitutional because it seeks to abolish the free democratic basic order. The Federal Constitutional Court can ban such parties (Art. 21 Basic Law)."
     }
   },
   {
@@ -671,14 +671,14 @@
     "d": "Einheit.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Eine Koalition entsteht, wenn mehrere Parteien zusammenarbeiten, um eine Regierung zu bilden. Da absolute Mehrheiten selten sind, regiert Deutschland meistens in Koalitionen. Bekannte Beispiele sind Große Koalition oder Ampelkoalition.",
     "english": {
       "question": "The cooperation of parties to form a government\n                  is called in Germany ...",
       "a": "Ministry.",
       "b": "Coalition.",
       "c": "parliamentary group.",
       "d": "Unity.",
-      "context": "Important question for life in Germany"
+      "context": "A coalition forms when several parties cooperate to form a government. Since absolute majorities are rare, Germany is usually governed by coalitions. Well-known examples are the Grand Coalition and the traffic-light coalition."
     }
   },
   {
@@ -803,14 +803,14 @@
     "d": "Ministerpräsident/Ministerpräsidentin",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In den meisten deutschen Bundesländern heißt der Regierungschef Ministerpräsident/in. Ausnahmen sind die Stadtstaaten: Berlin (Regierender Bürgermeister), Hamburg und Bremen (Erster Bürgermeister bzw. Bürgermeister).",
     "english": {
       "question": "What are the heads of government of most German federal states called?",
       "a": "Senator",
       "b": "First Minister",
       "c": "Prime Minister",
       "d": "Minister-President",
-      "context": "Important question for life in Germany"
+      "context": "In most German federal states, the head of government is called Ministerpräsident/in. Exceptions are the city-states: Berlin (Regierender Bürgermeister) and Hamburg and Bremen (Erster Bürgermeister or Bürgermeister)."
     }
   },
   {
@@ -825,14 +825,14 @@
     "d": "Staatenbund.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Deutschland ist ein Bundesstaat (Art. 20 GG): Die staatliche Macht ist auf den Bund und 16 Länder verteilt. Es ist kein Zentralstaat und kein Staatenbund, sondern ein föderaler Zusammenschluss.",
     "english": {
       "question": "The Federal Republic of Germany is a democratic and\n                social ...",
       "a": "Central government.",
       "b": "Union of States.",
       "c": "Federal State.",
       "d": "Confederation of States.",
-      "context": "Important question for life in Germany"
+      "context": "Germany is a federal state (Art. 20 Basic Law): state power is distributed between the federal government and 16 states. It is neither a centralized state nor a confederation, but a federal union."
     }
   },
   {
@@ -891,14 +891,14 @@
     "d": "weil dadurch die unterschiedlichen Meinungen der Bürger und\n                    Bürgerinnen vertreten werden",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In einer Demokratie vertritt jede Partei unterschiedliche politische Positionen, sodass die Vielfalt der Meinungen in der Gesellschaft abgebildet wird. Ohne Pluralismus wäre die politische Vielfalt nicht gewährleistet.",
     "english": {
       "question": "Why is there more than one party in a democracy?",
       "a": "to limit bribery in politics",
       "b": "to stimulate economic competition",
       "c": "to prevent political demonstrations",
       "d": "because it represents the different opinions of citizens.",
-      "context": "Important question for life in Germany"
+      "context": "In a democracy, each party represents different political positions, reflecting the diversity of opinions in society. Without pluralism, political diversity would not be guaranteed."
     }
   },
   {
@@ -957,14 +957,14 @@
     "d": "Bundestagsabgeordnete",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Den Bundespräsidenten wählt nicht das Volk direkt, sondern die Bundesversammlung – ein Sondergremium aus allen Bundestagsabgeordneten und gleich vielen von den Landesparlamenten gewählten Mitgliedern (Art. 54 GG).",
     "english": {
       "question": "Who cannot be directly elected by citizens in Germany?",
       "a": "Member of the State Parliament",
       "b": "Members of the European Parliament",
       "c": "the Federal President",
       "d": "Members of the Bundestag",
-      "context": "Important question for life in Germany"
+      "context": "The Federal President is not elected directly by the people but by the Bundesversammlung – a special assembly of all Bundestag members plus an equal number elected by state parliaments (Art. 54 Basic Law)."
     }
   },
   {
@@ -1001,14 +1001,14 @@
     "d": "Er verkauft Lebensmittel und Kleidung.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Straßen und Schulen bauen ist eine klassische Staatsaufgabe (Daseinsvorsorge). Der Staat versorgt Bürger nicht mit Zeitungen und produziert keine Waren – das ist Aufgabe der Privatwirtschaft.",
     "english": {
       "question": "The German state has many tasks. Which of the following is one of them?",
       "a": "It provides all residents with free newspapers.",
       "b": "It produces cars and buses.",
       "c": "It builds roads and schools.",
       "d": "It sells food and clothing.",
-      "context": "Important question for life in Germany"
+      "context": "Building roads and schools is a classic state task (public service). The state does not supply citizens with newspapers and does not produce goods – that is the role of the private sector."
     }
   },
   {
@@ -1023,14 +1023,14 @@
     "d": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Urlaubsreisen zu bezahlen ist keine Staatsaufgabe. Der Staat fördert Sport und Kultur (Museen) und zahlt Kindergeld als Familienleistung. Urlaub liegt im privaten Verantwortungsbereich.",
     "english": {
       "question": "The German state has many tasks. Which of the following is NOT one of them?",
       "a": "It promotes athletes.",
       "b": "It supports museums.",
       "c": "It pays child benefit.",
       "d": "It pays for vacation trips for all nationals.",
-      "context": "Important question for life in Germany"
+      "context": "Paying for vacation trips is not a state task. The state funds sports and culture (museums) and pays child benefit as a family support measure. Holidays are a private matter."
     }
   },
   {
@@ -1045,14 +1045,14 @@
     "d": "die Bundespraesidentin/der Bundespräsident",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Verfassungsorgane Deutschlands sind: Bundestag, Bundesrat, Bundesregierung, Bundespräsident und Bundesverfassungsgericht. Eine 'Bürgerversammlung' ist kein Verfassungsorgan.",
     "english": {
       "question": "Which body is not one of the constitutional organs of Germany?",
       "a": "the government",
       "b": "the citizens' assembly",
       "c": "the Federal Council",
       "d": "the Federal President",
-      "context": "Important question for life in Germany"
+      "context": "Germany's constitutional organs are: Bundestag, Bundesrat, Federal Government, Federal President, and Federal Constitutional Court. A 'Bürgerversammlung' (citizen assembly) is not a constitutional organ."
     }
   },
   {
@@ -1243,14 +1243,14 @@
     "d": "der Ministerpräsident/die Ministerpräsidentin des größten\n                    Bundeslandes",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Üblicherweise wird die/der Stärkste im Bundestag zur Präsidentin/zum Präsidenten des Bundestages gewählt. Das ist eine parlamentarische Tradition, kein Gesetz.",
     "english": {
       "question": "Who is usually the president of the\n                  German Bundestag?",
       "a": "a former Federal Chancellor",
       "b": "one member of parliament from the strongest parliamentary group",
       "c": "the oldest member of parliament",
       "d": "the Prime Minister of the largest\n                    State",
-      "context": "Important question for life in Germany"
+      "context": "By parliamentary tradition, a member of the largest Fraktion in the Bundestag is usually elected as Bundestag President. This is a custom, not a legal requirement."
     }
   },
   {
@@ -1265,14 +1265,14 @@
     "d": "der Bundespräsident/die Bundespräsidentin",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Minister werden formal vom Bundespräsidenten ernannt (Art. 64 GG) – aber auf Vorschlag des Bundeskanzlers. Der Bundeskanzler bestimmt also die Minister; der Bundespräsident vollzieht die Ernennung.",
     "english": {
       "question": "Who appoints the ministers of the\n                  Federal government?",
       "a": "the President of the Bundestag",
       "b": "the President of the Federal Constitutional Court",
       "c": "the President of the Bundesrat",
       "d": "the Federal President",
-      "context": "Important question for life in Germany"
+      "context": "Ministers are formally appointed by the Federal President (Art. 64 Basic Law) – but on the proposal of the Chancellor. The Chancellor chooses the ministers; the President performs the formal appointment."
     }
   },
   {
@@ -1287,14 +1287,14 @@
     "d": "vor etwa 1700 Jahren",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die älteste bekannte Erwähnung einer jüdischen Gemeinde auf dem Gebiet des heutigen Deutschlands stammt aus dem Jahr 321 n. Chr. aus Köln – das sind etwa 1.700 Jahre. Deutschland hat damit eine der ältesten jüdischen Diaspora-Traditionen in Europa.",
     "english": {
       "question": "How many years ago was there a Jewish community for the first time on the territory of today's Germany?",
       "a": "about 300 years ago",
       "b": "about 700 years ago",
       "c": "about 1150 years ago",
       "d": "about 1700 years ago",
-      "context": "Important question for life in Germany"
+      "context": "The oldest known mention of a Jewish community on what is now German territory dates to 321 CE in Cologne – about 1,700 years ago. Germany thus has one of the oldest Jewish diaspora traditions in Europe."
     }
   },
   {
@@ -1331,14 +1331,14 @@
     "d": "Der König/die Königin herrscht über das Volk.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Volkssouveränität bedeutet: Alle Staatsgewalt geht vom Volke aus (Art. 20 GG). Das Volk übt diese Macht durch Wahlen und Abstimmungen aus. In einer Monarchie herrscht der König, in einer Demokratie das Volk.",
     "english": {
       "question": "What does \"popular sovereignty\" mean?",
       "a": "The Federal Constitutional Court stands above the constitution.",
       "b": "The interest groups exercise sovereignty together with the\n                  government.",
       "c": "State power emanates from the people.",
       "d": "The king/queen rules over the people.",
-      "context": "Important question for life in Germany"
+      "context": "Popular sovereignty means: all state authority derives from the people (Art. 20 Basic Law). The people exercise this power through elections and votes. In a monarchy the king rules; in a democracy the people rule."
     }
   },
   {
@@ -1353,14 +1353,14 @@
     "d": "Kommunalwahl.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wenn das Parlament eines Bundeslandes gewählt wird, nennt man das Landtagswahl. Europawahl betrifft das EU-Parlament, Bundestagswahl das nationale Parlament, Kommunalwahl betrifft Städte und Gemeinden.",
     "english": {
       "question": "When the parliament of a German federal state is elected,\n                  that's what you call ...",
       "a": "European elections.",
       "b": "State election.",
       "c": "Bundestag election.",
       "d": "Municipal elections.",
-      "context": "Important question for life in Germany"
+      "context": "When a state parliament is elected, it is called a Landtagswahl (state election). Europawahl is for the EU Parliament, Bundestagswahl for the national parliament, and Kommunalwahl for local councils."
     }
   },
   {
@@ -1441,14 +1441,14 @@
     "d": "Worms und Speyer",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Berlin und München haben die größten jüdischen Gemeinden Deutschlands, vor allem durch Einwanderung aus der ehemaligen Sowjetunion in den 1990er Jahren. Deutschland hat heute wieder rund 100.000 Gemeindemitglieder.",
     "english": {
       "question": "Which cities have the largest Jewish communities in\n                Germany?",
       "a": "Nuremberg and Stuttgart",
       "b": "Berlin and Munich",
       "c": "Hamburg and Essen",
       "d": "Worms and Speyer",
-      "context": "Important question for life in Germany"
+      "context": "Berlin and Munich have Germany's largest Jewish communities, largely due to immigration from the former Soviet Union in the 1990s. Germany now has around 100,000 registered Jewish community members again."
     }
   },
   {
@@ -1463,14 +1463,14 @@
     "d": "Wirtschaftspolitik",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Schulpolitik ist Ländersache in Deutschland (Kulturhoheit der Länder). Jedes Bundesland hat sein eigenes Schulsystem. Verteidigung und Außenpolitik hingegen sind Bundesangelegenheiten.",
     "english": {
       "question": "In Germany, what is above all a task of the\n                  Federal states?",
       "a": "Defence policy",
       "b": "School policy",
       "c": "Foreign policy",
       "d": "Economic policy",
-      "context": "Important question for life in Germany"
+      "context": "Education policy is a matter for the federal states in Germany (Kulturhoheit). Each state has its own school system. Defense and foreign policy, by contrast, are federal responsibilities."
     }
   },
   {
@@ -1485,14 +1485,14 @@
     "d": "weil alle Schüler und Schülerinnen einen Schulabschluss\n                    haben müssen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Art. 7 GG stellt das gesamte Schulwesen unter staatliche Aufsicht. Das ist eine Verfassungspflicht des Staates, nicht nur eine politische Entscheidung.",
     "english": {
       "question": "Why does the state control the school system in Germany?",
       "a": "because there are different schools in the federal states",
       "b": "because there are only state schools in Germany",
       "c": "because it is his task according to the Basic Law",
       "d": "because all pupils must obtain a school-leaving certificate.",
-      "context": "Important question for life in Germany"
+      "context": "Art. 7 of the Basic Law places the entire school system under state supervision. This is a constitutional duty of the state, not merely a political decision."
     }
   },
   {
@@ -1507,14 +1507,14 @@
     "d": "Landräte",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Deutschland hat drei Verwaltungsebenen: Bund (oben) → Länder → Gemeinden (unten). Die Gemeinden sind die unterste Ebene und für lokale Angelegenheiten wie Kitas, Straßen und Abfallentsorgung zuständig.",
     "english": {
       "question": "The Federal Republic of Germany has adopted a three-stage\n                  Administrative structure. What is the name of the lowest political level?",
       "a": "District offices",
       "b": "Municipalities",
       "c": "City councillors",
       "d": "District administrators",
-      "context": "Important question for life in Germany"
+      "context": "Germany has three levels of administration: federal government (top) → states → municipalities (bottom). Municipalities are the lowest level, responsible for local matters like daycare, roads, and waste disposal."
     }
   },
   {
@@ -1529,14 +1529,14 @@
     "d": "Er/Sie wählt die Minister/Ministerinnen aus.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Bundespräsident schlägt dem Bundestag einen Kanzlerkandidaten zur Wahl vor (Art. 63 GG). Er regiert nicht selbst und wählt keine Minister aus – das ist Aufgabe des Kanzlers.",
     "english": {
       "question": "The German Federal President Gustav Heinemann gives Helmut\n                  Schmidt received the certificate of appointment as German\n                  Federal Chancellor. What is one of the tasks of the German\n                  Federal President?",
       "a": "He/she controls the ruling party.",
       "b": "He/she proposes the Chancellor for election.",
       "c": "He/she conducts the business of government.",
       "d": "He/she selects the ministers.",
-      "context": "Important question for life in Germany"
+      "context": "The Federal President proposes a chancellor candidate to the Bundestag for election (Art. 63 Basic Law). The President does not govern personally and does not select ministers – that is the Chancellor's role."
     }
   },
   {
@@ -1551,14 +1551,14 @@
     "d": "in Bonn, weil sich dort das Bundeskanzleramt und der\n                    Bundestag befinden.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Bundeskanzler hat seinen Amtssitz im Bundeskanzleramt in Berlin, wo auch der Bundestag tagt. Schloss Meseberg ist das Gästehaus der Bundesregierung. Schloss Bellevue ist der Amtssitz des Bundespräsidenten.",
     "english": {
       "question": "Where does the German Federal Chancellor spend most of their time? Most often, they are ...",
       "a": "at Schloss Meseberg, the guest house of the Federal Government, to receive state guests.",
       "b": "in Berlin, because the Federal Chancellery and the Bundestag are located there.",
       "c": "at Bellevue Palace, the official residence of the Federal President, to receive state guests.",
       "d": "in Bonn, because the Federal Chancellery and the Bundestag are located there.",
-      "context": "Important question for life in Germany"
+      "context": "The Chancellor's official seat is the Bundeskanzleramt in Berlin, where the Bundestag also meets. Schloss Meseberg is the federal government's guest house. Schloss Bellevue is the Federal President's official residence."
     }
   },
   {
@@ -1573,14 +1573,14 @@
     "d": "Ursula von der Leyen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Friedrich Merz (CDU) wurde nach der Bundestagswahl im Februar 2025 zum Bundeskanzler gewählt. Er führt eine Koalition aus CDU/CSU und SPD und trat die Nachfolge von Olaf Scholz an.",
     "english": {
       "question": "What is the name of the current Chancellor\n                  Chancellor of Germany?",
       "a": "Gerhard Schröder",
       "b": "Angela Merkel",
       "c": "Friedrich Merz",
       "d": "Ursula von der Leyen",
-      "context": "Important question for life in Germany"
+      "context": "Friedrich Merz (CDU) was elected Federal Chancellor after the Bundestag election in February 2025. He leads a coalition of CDU/CSU and SPD, succeeding Olaf Scholz."
     }
   },
   {
@@ -1595,14 +1595,14 @@
     "d": "Die Linke und CDU/CSU.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der Bundestagswahl 2025 sind CDU/CSU und AfD die beiden größten Fraktionen im Bundestag. Dies spiegelt eine deutliche Verschiebung im deutschen Wählerverhalten wider.",
     "english": {
       "question": "The two largest parliamentary groups in the German Bundestag are\n                  currently ...",
       "a": "CDU/CSU and AfD.",
       "b": "Die Linke and Bündnis 90/Die Grünen.",
       "c": "Alliance 90/The Greens and SPD.",
       "d": "Die Linke and CDU/CSU.",
-      "context": "Important question for life in Germany"
+      "context": "After the 2025 Bundestag election, CDU/CSU and AfD are the two largest parliamentary groups in the Bundestag. This reflects a significant shift in German voting behavior."
     }
   },
   {
@@ -1749,14 +1749,14 @@
     "d": "Amtsgericht",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Bundesverfassungsgericht (BVerfG) in Karlsruhe ist das höchste deutsche Gericht für Verfassungsfragen. Es legt das Grundgesetz aus und kann Gesetze für verfassungswidrig erklären.",
     "english": {
       "question": "Which court in Germany is responsible for the interpretation\n                  of the Basic Law?",
       "a": "Federal Constitutional Court",
       "b": "Administrative Court",
       "c": "Higher Regional Court",
       "d": "District Court",
-      "context": "Important question for life in Germany"
+      "context": "The Federal Constitutional Court (BVerfG) in Karlsruhe is Germany's highest court for constitutional matters. It interprets the Basic Law and can declare laws unconstitutional."
     }
   },
   {
@@ -1771,14 +1771,14 @@
     "d": "die Bundesversammlung",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Bundestag wählt den Bundeskanzler (Art. 63 GG). Nicht das Volk direkt, nicht der Bundesrat und nicht die Bundesversammlung (die wählt nur den Bundespräsidenten).",
     "english": {
       "question": "Who elects the Federal Chancellor in\n                  Germany?",
       "a": "the people",
       "b": "the Federal Council",
       "c": "the Bundestag",
       "d": "the Federal Convention",
-      "context": "Important question for life in Germany"
+      "context": "The Bundestag elects the Federal Chancellor (Art. 63 Basic Law). Not the people directly, not the Bundesrat, and not the Bundesversammlung (which only elects the Federal President)."
     }
   },
   {
@@ -1815,14 +1815,14 @@
     "d": "der Bundestag",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Bundestag wählt den Bundeskanzler auf Vorschlag des Bundespräsidenten (Art. 63 GG). Die Bundesversammlung wählt nur den Bundespräsidenten.",
     "english": {
       "question": "Who elects the German Federal Chancellor?",
       "a": "the Federal Convention",
       "b": "the Federal Government",
       "c": "the people",
       "d": "the Bundestag",
-      "context": "Important question for life in Germany"
+      "context": "The Bundestag elects the Federal Chancellor on the proposal of the Federal President (Art. 63 Basic Law). The Bundesversammlung only elects the Federal President."
     }
   },
   {
@@ -1837,14 +1837,14 @@
     "d": "entwirft die Gesetze",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Hauptaufgabe des Bundespräsidenten ist es, Deutschland zu repräsentieren – nach innen und außen. Er hat eine eher zeremonielle Funktion; die Regierungsarbeit übernimmt der Bundeskanzler.",
     "english": {
       "question": "What is the main task of the German Federal President?\n                  German Federal President? She/he ...",
       "a": "represents the country.",
       "b": "rules the country.",
       "c": "monitors compliance with the law.",
       "d": "drafts the laws",
-      "context": "Important question for life in Germany"
+      "context": "The Federal President's main task is to represent Germany – domestically and internationally. The role is largely ceremonial; day-to-day governing is done by the Chancellor."
     }
   },
   {
@@ -1881,14 +1881,14 @@
     "d": "das Bundesparlament",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Bundesversammlung wählt den Bundespräsidenten (Art. 54 GG). Sie besteht aus allen Bundestagsabgeordneten und einer gleichen Anzahl von den Landesparlamenten gewählter Mitglieder.",
     "english": {
       "question": "Who elects the Federal President in Germany?",
       "a": "the Federal Council",
       "b": "the Federal Constitutional Court",
       "c": "the Federal Convention",
       "d": "the Federal Parliament",
-      "context": "Important question for life in Germany"
+      "context": "The Bundesversammlung elects the Federal President (Art. 54 Basic Law). It consists of all Bundestag members plus an equal number of members elected by the state parliaments."
     }
   },
   {
@@ -1925,14 +1925,14 @@
     "d": "entscheidet, wer Bundesminister/Bundesministerin wird.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die parlamentarische Opposition kontrolliert die Regierung, stellt kritische Anfragen und macht Gegenvorschläge. Das ist eine wesentliche Funktion zur Sicherung der Demokratie.",
     "english": {
       "question": "The parliamentary opposition in the German Bundestag ...",
       "a": "determines who sits in the Federal Council.",
       "b": "proposes the heads of government of the federal states.",
       "c": "controls the government.",
       "d": "decides who will become Federal Minister.",
-      "context": "Important question for life in Germany"
+      "context": "The parliamentary opposition scrutinizes the government, poses critical questions, and proposes alternatives. This is an essential function in securing democracy."
     }
   },
   {
@@ -1947,14 +1947,14 @@
     "d": "Verband",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Eine Fraktion ist die Vereinigung von Abgeordneten einer Partei im Parlament. Um eine Fraktion zu bilden, braucht man mindestens 5 % der Abgeordneten (im Bundestag derzeit 37 Mitglieder).",
     "english": {
       "question": "What is the association of members of parliament called in Germany\n                  of a party in parliament?",
       "a": "Parliamentary group",
       "b": "Opposition",
       "c": "Council of Elders",
       "d": "Association",
-      "context": "Important question for life in Germany"
+      "context": "A Fraktion (parliamentary group) is the association of MPs from one party in parliament. To form a Fraktion, at least 5% of MPs are needed (currently 37 members in the Bundestag)."
     }
   },
   {
@@ -1969,14 +1969,14 @@
     "d": "die Bundesversammlung.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Durch den Bundesrat wirken die 16 Bundesländer an der Bundesgesetzgebung mit (Art. 50 GG). Bestimmte Gesetze brauchen die Zustimmung des Bundesrates, bevor sie in Kraft treten.",
     "english": {
       "question": "The German federal states participate in federal legislation through ...",
       "a": "the Bundestag.",
       "b": "the Federal Government.",
       "c": "the Federal Council.",
       "d": "the Federal Convention.",
-      "context": "Important question for life in Germany"
+      "context": "Through the Bundesrat, the 16 federal states participate in federal legislation (Art. 50 Basic Law). Certain laws require the Bundesrat's approval before they can come into force."
     }
   },
   {
@@ -1991,14 +1991,14 @@
     "d": "schwieriger, wenn dadurch die Mehrheit im Bundesrat\n                    verändert wird.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wenn Landtagswahlen die Bundesratsmehrheit verändern, kann das die Bundesgesetzgebung erschweren, weil zustimmungspflichtige Gesetze dann von einer anderen Mehrheit im Bundesrat blockiert werden können.",
     "english": {
       "question": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes ...",
       "a": "easier if this means that new parties enter the Federal Council.",
       "b": "easier if it is a rich federal state.",
       "c": "more difficult if the majority in the Bundestag\n                    changes.",
       "d": "more difficult if it means that the majority in the Bundesrat\n                    is changed.",
-      "context": "Important question for life in Germany"
+      "context": "If state elections change the Bundesrat majority, federal legislation can become more difficult, because laws requiring approval can then be blocked by a different majority in the Bundesrat."
     }
   },
   {
@@ -2035,14 +2035,14 @@
     "d": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Zweitstimme entscheidet über die Sitzverteilung im Bundestag nach dem Verhältniswahlrecht. Je mehr Zweitstimmen eine Partei erhält, desto mehr Sitze bekommt sie – proportional.",
     "english": {
       "question": "The more \"second votes\" a party receives in a Bundestag election\n                  the more ...",
       "a": "the party will receive more seats in parliament.",
       "b": "greater is the risk of having to form a coalition.",
       "c": "it can have fewer first votes.",
       "d": "more direct candidates of the party enter parliament.",
-      "context": "Important question for life in Germany"
+      "context": "The second vote (Zweitstimme) determines seat distribution in the Bundestag through proportional representation. The more second votes a party receives, the more seats it gets – proportionally."
     }
   },
   {
@@ -2057,14 +2057,14 @@
     "d": "18",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das aktive Wahlrecht für Bundestagswahlen gilt ab 18 Jahren (Art. 38 GG). Bei einigen Landtags- und Kommunalwahlen dürfen Jugendliche ab 16 Jahren wählen, nicht aber bei Bundestagswahlen.",
     "english": {
       "question": "From what age can you vote in the election for the\n                  German Bundestag?",
       "a": "23",
       "b": "21",
       "c": "16",
       "d": "18",
-      "context": "Important question for life in Germany"
+      "context": "The right to vote in Bundestag elections starts at age 18 (Art. 38 Basic Law). In some state and local elections, 16-year-olds may vote, but not in Bundestag elections."
     }
   },
   {
@@ -2123,14 +2123,14 @@
     "d": "Sozialversicherung",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Arbeitnehmer zahlen automatisch Beiträge zur Sozialversicherung (Renten-, Kranken-, Pflege-, Arbeitslosen- und Unfallversicherung). Diese werden direkt vom Lohn abgezogen und vom Arbeitgeber abgeführt.",
     "english": {
       "question": "What do you automatically pay in Germany if you are permanently employed?",
       "a": "Child benefit",
       "b": "Housing allowance",
       "c": "Social assistance",
       "d": "Social Security",
-      "context": "Important question for life in Germany"
+      "context": "Employees automatically pay contributions to social insurance (pension, health, care, unemployment, and accident insurance). These are deducted directly from wages and forwarded by the employer."
     }
   },
   {
@@ -2145,14 +2145,14 @@
     "d": "dürfen sie nicht mehr an den Sitzungen des Parlaments\n                    teilnehmen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Abgeordnete, die ihre Fraktion verlassen, werden 'fraktionslos'. Sie verlieren Ressourcen und Mitarbeiterstellen der Fraktion, behalten aber ihr Parlamentsmandat bis zur nächsten Wahl.",
     "english": {
       "question": "When members of the German Bundestag change their parliamentary group, ...",
       "a": "the government may lose its majority.",
       "b": "the Federal President must first\n                    give his/her consent.",
       "c": "the voters of these members of parliament may vote again.",
       "d": "they are no longer allowed to attend parliamentary sessions.",
-      "context": "Important question for life in Germany"
+      "context": "MPs who leave their parliamentary group become 'fraktionslos' (independent). They lose the group's resources and staff, but retain their parliamentary mandate until the next election."
     }
   },
   {
@@ -2167,14 +2167,14 @@
     "d": "nur Arbeitnehmerinnen/Arbeitnehmer",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Sozialversicherungsbeiträge werden je zur Hälfte von Arbeitnehmer und Arbeitgeber gezahlt. Beide finanzieren also gemeinsam das Sozialversicherungssystem.",
     "english": {
       "question": "Who pays for social security in Germany?",
       "a": "Employers only",
       "b": "all nationals",
       "c": "Employers and\n                    Employees",
       "d": "Employees only",
-      "context": "Important question for life in Germany"
+      "context": "Social insurance contributions are paid half each by the employee and the employer. Both jointly finance the social insurance system."
     }
   },
   {
@@ -2233,14 +2233,14 @@
     "d": "Vaterländischen Verdienstorden",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Bundesverdienstkreuz ist die höchste zivile Auszeichnung Deutschlands. Es wird für besondere Leistungen zum Wohl der Gesellschaft vergeben – aber nicht für militärische Verdienste.",
     "english": {
       "question": "What can you be honored with in the Federal Republic of Germany if you have made a special contribution in the political, economic, cultural, intellectual, or social field? With the ...",
       "a": "Federal Eagle",
       "b": "Honorary title \"Hero of the German Democratic Republic\"",
       "c": "Order of Merit of the Federal Republic of Germany",
       "d": "Patriotic Order of Merit",
-      "context": "Important question for life in Germany"
+      "context": "The Bundesverdienstkreuz (Federal Cross of Merit) is Germany's highest civilian decoration. It is awarded for exceptional contributions to society – but not for military service."
     }
   },
   {
@@ -2255,14 +2255,14 @@
     "d": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die 'Ampelkoalition' bezeichnet die Regierung aus SPD (rot), FDP (gelb) und Grünen (grün), die von 2021 bis 2024 unter Kanzler Olaf Scholz regierte. Die Farben erinnern an eine Ampel.",
     "english": {
       "question": "What is called a \"traffic light coalition\" in Germany? The\n                  Collaboration ...",
       "a": "of CSU, Die LINKE and Bündnis 90/Die Grünen in a\n                    Government",
       "b": "of the parliamentary groups of the CDU and SPD",
       "c": "of the CDU and CSU parliamentary groups in the Bundestag",
       "d": "of SPD, FDP and Bündnis 90/Die Grünen in one government",
-      "context": "Important question for life in Germany"
+      "context": "The 'Ampelkoalition' (traffic light coalition) refers to the government of SPD (red), FDP (yellow), and Greens (green) that governed from 2021 to 2024 under Chancellor Olaf Scholz. The colors resemble a traffic light."
     }
   },
   {
@@ -2277,14 +2277,14 @@
     "d": "Die Frau erledigt private Sachen während der Arbeitszeit.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Schwangere Arbeitnehmerinnen genießen besonderen Kündigungsschutz nach dem Mutterschutzgesetz. Eine Kündigung während der Schwangerschaft und bis vier Monate nach der Geburt ist grundsätzlich unzulässig.",
     "english": {
       "question": "A woman in Germany loses her job. What is not allowed\n                  be the reason for this dismissal?",
       "a": "The woman was often late for work.",
       "b": "The woman has a child and her boss knows it.",
       "c": "The woman has been ill for a long time and unable to work.",
       "d": "The woman does private things during working hours.",
-      "context": "Important question for life in Germany"
+      "context": "Pregnant employees have special protection against dismissal under the Maternity Protection Act (Mutterschutzgesetz). Dismissal during pregnancy and up to four months after birth is generally prohibited."
     }
   },
   {
@@ -2299,14 +2299,14 @@
     "d": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wahlhelfer sorgen bei Wahlen für einen geordneten Ablauf und zählen am Ende des Wahltags die Stimmen aus. Sie arbeiten ehrenamtlich und sind unverzichtbar für den demokratischen Prozess.",
     "english": {
       "question": "What is the task of poll workers in\n                  Germany?",
       "a": "They pass on interim results to the media.",
       "b": "They help elderly people to vote in the voting booth.",
       "c": "They count the votes after the end of the election.",
       "d": "They write the election notifications before the election.",
-      "context": "Important question for life in Germany"
+      "context": "Election workers (Wahlhelfer) ensure elections run smoothly and count the votes at the end of election day. They work voluntarily and are essential to the democratic process."
     }
   },
   {
@@ -2321,14 +2321,14 @@
     "d": "Sie helfen Kindern und alten Menschen beim Wählen.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Ehrenamtliche Wahlhelfer führen die Stimmenauszählung bei Bundestags-, Landtags- und Kommunalwahlen durch. Diese Tätigkeit ist gesetzlich geregelt (Bundeswahlgesetz).",
     "english": {
       "question": "In Germany, volunteer poll workers assist at elections. What is one of their tasks?",
       "a": "They write cards and letters with the indication of the\n                    polling station.",
       "b": "They pass on interim results to journalists.",
       "c": "They count the votes after the end of the election.",
       "d": "They help children and old people to vote.",
-      "context": "Important question for life in Germany"
+      "context": "Volunteer election workers carry out vote counting in Bundestag, state, and local elections. This activity is regulated by law (Federal Electoral Act)."
     }
   },
   {
@@ -2365,14 +2365,14 @@
     "d": "Bürger/Bürgerin der Bundesrepublik Deutschland ist und\n                    mindestens 18 Jahre alt ist.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Bundestagswahlen wahlberechtigt sind alle deutschen Staatsangehörigen, die mindestens 18 Jahre alt sind und seit mindestens 3 Monaten in Deutschland gemeldet sind.",
     "english": {
       "question": "In a Bundestag election in Germany, everyone is allowed to vote,\n                  the ...",
       "a": "Have been in the Federal Republic of Germany for at least 3 years\n                    lives.",
       "b": "is a citizen of the Federal Republic of Germany and\n                    is at least 21 years old.",
       "c": "lives in the Federal Republic of Germany and wishes to vote.",
       "d": "is a citizen of the Federal Republic of Germany and\n                    is at least 18 years old.",
-      "context": "Important question for life in Germany"
+      "context": "All German citizens who are at least 18 years old and have been registered in Germany for at least 3 months are eligible to vote in Bundestag elections."
     }
   },
   {
@@ -2431,14 +2431,14 @@
     "d": "eine Diskussion über die Politik Israels",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland ist es strafbar, zu Gewalt gegen den Staat Israel aufzurufen oder den Holocaust zu leugnen. Deutschland trägt aufgrund der NS-Geschichte eine besondere Verantwortung gegenüber Israel und dem jüdischen Volk.",
     "english": {
       "question": "What actions relating to the State of Israel are banned in Germany?",
       "a": "publicly criticize Israel's policies",
       "b": "hanging an Israeli flag on private property",
       "c": "the public call for the destruction of Israel",
       "d": "a discussion about Israel's policy",
-      "context": "Important question for life in Germany"
+      "context": "In Germany it is a criminal offense to call for violence against Israel or to deny the Holocaust. Due to Nazi history, Germany bears a special responsibility toward Israel and the Jewish people."
     }
   },
   {
@@ -2475,14 +2475,14 @@
     "d": "die meisten Stimmen bekommt.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Parlamentswahlen in Deutschland bekommt die Partei mit den meisten Stimmen die meisten Sitze. Aufgrund des Verhältniswahlrechts regieren aber meist Koalitionen, weil selten eine Partei allein die Mehrheit hat.",
     "english": {
       "question": "Elections in Germany are won by the party that ...",
       "a": "most men voted for by a majority.",
       "b": "get the most votes among blue-collar workers\n                    .",
       "c": "received the most first votes for their chancellor candidate\n                    Chancellor candidate.",
       "d": "gets the most votes.",
-      "context": "Important question for life in Germany"
+      "context": "In German parliamentary elections, the party with the most votes gets the most seats. Due to proportional representation, however, coalitions usually govern, since rarely does one party hold a majority alone."
     }
   },
   {
@@ -2541,14 +2541,14 @@
     "d": "aktives Wahlverfahren.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wahlberechtigte Bürger erhalten vor jeder Wahl eine Wahlbenachrichtigung per Post. Diese bestätigt die Wahlberechtigung und enthält Angaben zu Wahllokal, Öffnungszeiten und Briefwahl.",
     "english": {
       "question": "If you vote in a Bundestag election in Germany\n                  that means ...",
       "a": "active right to vote.",
       "b": "active election campaign.",
       "c": "active election campaign.",
       "d": "active election process.",
-      "context": "Important question for life in Germany"
+      "context": "Eligible voters receive a Wahlbenachrichtigung (electoral notification) by post before each election. It confirms voting eligibility and contains details about the polling station, opening hours, and postal voting."
     }
   },
   {
@@ -2563,14 +2563,14 @@
     "d": "6%",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die 5-Prozent-Hürde stellt sicher, dass nur Parteien mit erheblicher Unterstützung ins Parlament einziehen. Damit soll eine Zersplitterung des Parlaments verhindert werden, wie sie in der Weimarer Republik zur Instabilität beitrug.",
     "english": {
       "question": "What percentage of second votes must parties receive at least\n                  to be elected to the German Bundestag?",
       "a": "3%",
       "b": "4%",
       "c": "5%",
       "d": "6%",
-      "context": "Important question for life in Germany"
+      "context": "The 5% threshold ensures only parties with significant support enter parliament. This prevents parliamentary fragmentation, as seen in the Weimar Republic, which contributed to political instability."
     }
   },
   {
@@ -2585,14 +2585,14 @@
     "d": "nur religiöse Menschen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die jüdischen Makkabi-Sportvereine in Deutschland stehen allen jüdischen Menschen offen. Sie wurden nach dem Zweiten Weltkrieg neu gegründet und sind Teil der Wiederbelebung jüdischen Gemeinschaftslebens.",
     "english": {
       "question": "Who is allowed to become a member of the approximately 40 Jewish Maccabi sports clubs?",
       "a": "only Germans",
       "b": "only Israelis",
       "c": "all people",
       "d": "only religious people",
-      "context": "Important question for life in Germany"
+      "context": "The Jewish Makkabi sports clubs in Germany are open to all Jewish people. They were re-founded after World War II as part of the revival of Jewish community life."
     }
   },
   {
@@ -2607,14 +2607,14 @@
     "d": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber/meine\n                    Arbeitgeberin mir frei geben",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "'Frei' bedeutet bei Wahlen: Niemand darf zum Wählen gezwungen werden, und niemand darf vorgeschrieben bekommen, wen er wählt. Die Wahlfreiheit schützt den persönlichen, unbeinflussten Entschluss.",
     "english": {
       "question": "Elections in Germany are free. What does this mean?",
       "a": "Each person can decide without coercion whether to vote and who to vote for.",
       "b": "I am free to decide where I want to vote.",
       "c": "All convicted offenders are not allowed to vote.",
       "d": "If I want to vote, my employer must give me time off.",
-      "context": "Important question for life in Germany"
+      "context": "'Free' in elections means no one may be forced to vote, and no one may be told whom to vote for. Freedom of voting protects the personal, uninfluenced decision of each voter."
     }
   },
   {
@@ -2651,14 +2651,14 @@
     "d": "Zulassungsgrenze.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Um in den Bundestag einzuziehen, muss eine Partei entweder 5 % der Zweitstimmen erhalten oder mindestens 3 Direktmandate gewinnen (Grundmandatsklausel). So wird eine parlamentarische Zersplitterung verhindert.",
     "english": {
       "question": "A party wants to enter the German Bundestag. However, it must\n                  have a minimum share of votes. That means ...",
       "a": "Base value.",
       "b": "5% hurdle.",
       "c": "Directive.",
       "d": "Admission limit.",
-      "context": "Important question for life in Germany"
+      "context": "To enter the Bundestag, a party must either receive 5% of second votes or win at least 3 direct constituencies (basic mandate clause). This prevents parliamentary fragmentation."
     }
   },
   {
@@ -2673,14 +2673,14 @@
     "d": "offen, sicher, frei.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Deutsche Wahlen folgen fünf Grundsätzen (Art. 38 GG): allgemein, unmittelbar, frei, gleich und geheim. 'Gleich' bedeutet: Jede Stimme hat dasselbe Gewicht.",
     "english": {
       "question": "What is the principle of elections in Germany? Elections in\n                  Germany are ...",
       "a": "closed, equal, safe.",
       "b": "free, equal, secret.",
       "c": "secure, open, voluntary.",
       "d": "open, safe, free.",
-      "context": "Important question for life in Germany"
+      "context": "German elections follow five principles (Art. 38 Basic Law): universal, direct, free, equal, and secret. 'Equal' means every vote carries the same weight."
     }
   },
   {
@@ -2739,14 +2739,14 @@
     "d": "nach dem Willen der Wählermehrheit den Wechsel der Regierung\n                    zu ermöglichen.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Regelmäßige Wahlen ermöglichen es dem Wählerwillen, die Regierung zu wechseln. Sie sind das wichtigste Instrument demokratischer Kontrolle und Rechenschaftspflicht.",
     "english": {
       "question": "In a democracy, one function of regular elections is ...",
       "a": "to maintain existing laws in the country.",
       "b": "to give more power to the poor.",
       "c": "to force citizens to cast their vote.",
       "d": "to enable a change of government according to the will of the majority of voters.",
-      "context": "Important question for life in Germany"
+      "context": "Regular elections allow the will of voters to change the government. They are the most important instrument of democratic control and accountability."
     }
   },
   {
@@ -2761,14 +2761,14 @@
     "d": "eine Wahlerlaubnis vom Bundespräsidenten/von der\n                    Bundespräsidentin",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Vor jeder Wahl bekommen Wahlberechtigte automatisch eine Wahlbenachrichtigung (Wahlzettel-Ankündigung) per Post. Sie ist keine Pflicht zur Teilnahme, sondern eine Information.",
     "english": {
       "question": "What do citizens entitled to vote receive in Germany before an election?",
       "a": "a notification from the Federal Assembly",
       "b": "a notification from the parish office",
       "c": "a voter's notification from the municipality",
       "d": "a voting permit from the Federal President.",
-      "context": "Important question for life in Germany"
+      "context": "Before each election, eligible voters automatically receive a Wahlbenachrichtigung (electoral notification) by post. It is not a requirement to participate, but an information notice."
     }
   },
   {
@@ -2783,14 +2783,14 @@
     "d": "die Bürgerinnen und Bürger bei vielen kleinen Parteien die\n                    Orientierung verlieren können.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die 5-Prozent-Hürde soll verhindern, dass zu viele Kleinstparteien ins Parlament einziehen und die Regierungsbildung erschweren. Sie wurde eingeführt, um die Instabilität der Weimarer Republik nicht zu wiederholen.",
     "english": {
       "question": "Why is there the 5% hurdle in the electoral law of the Federal Republic of Germany?\n                  Germany? It exists because...",
       "a": "many small parties make it difficult to form a government.",
       "b": "the small parties do not have enough money to support the\n                    politicians.",
       "c": "the programmes of many small parties, many\n                    have things in common.",
       "d": "citizens could lose orientation among many small parties.",
-      "context": "Important question for life in Germany"
+      "context": "The 5% threshold is intended to prevent too many small parties from entering parliament and complicating government formation. It was introduced to avoid repeating the instability of the Weimar Republic."
     }
   },
   {
@@ -2805,14 +2805,14 @@
     "d": "Kanzler/Kanzlerinnen.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Abgeordnete, die ihr Direktmandat (Erststimme) gewonnen haben, ziehen direkt in den Bundestag ein – unabhängig vom Zweitstimmenergebnis ihrer Partei. Sie vertreten direkt ihren Wahlkreis.",
     "english": {
       "question": "Members of Parliament who are elected by the citizens\n                  are called ...",
       "a": "Ambassadors.",
       "b": "Minister-Presidents.",
       "c": "Members of parliament.",
       "d": "Chancellors.",
-      "context": "Important question for life in Germany"
+      "context": "MPs who win their direct mandate (first vote) enter the Bundestag directly – regardless of their party's second-vote result. They directly represent their constituency."
     }
   },
   {
@@ -2827,14 +2827,14 @@
     "d": "der Bundeskanzler/die Bundeskanzlerin.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland werden Kandidaten für den Bundestag durch Direktwahl (Erststimme) in den Wahlkreisen gewählt. Zusätzlich gibt es Listenmandate über die Zweitstimme.",
     "english": {
       "question": "In Germany, elections are held by the people ...",
       "a": "the Federal President.",
       "b": "the Bundestag.",
       "c": "the Minister-President of a\n                    federal state.",
       "d": "the Federal Chancellor.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, candidates for the Bundestag are elected directly (first vote) in constituencies. In addition, there are list mandates via the second vote."
     }
   },
   {
@@ -2893,14 +2893,14 @@
     "d": "Sie arbeiten als Soldatinnen/Soldaten.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Ehrenamtliches Engagement ist in Deutschland weit verbreitet – in Sportvereinen, sozialen Einrichtungen, Feuerwehren und politischen Organisationen. Es stärkt den gesellschaftlichen Zusammenhalt.",
     "english": {
       "question": "Many people in Germany work in their free time\n                  on a voluntary basis. What does this mean?",
       "a": "They work in the federal government.",
       "b": "They work in a hospital and earn money in the process.",
       "c": "They work voluntarily and unpaid in associations and\n                    Associations.",
       "d": "They work as soldiers.",
-      "context": "Important question for life in Germany"
+      "context": "Voluntary work is widespread in Germany – in sports clubs, social institutions, fire brigades, and political organizations. It strengthens social cohesion."
     }
   },
   {
@@ -2915,14 +2915,14 @@
     "d": "Der Ehemann wählt für seine Frau mit.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Bundestags- und Landtagswahlen ist die Stimmabgabe geheim: Niemand darf beobachten, wie jemand abstimmt. Das Wahlgeheimnis (Art. 38 GG) schützt vor Einschüchterung.",
     "english": {
       "question": "What is permitted in federal and state elections in Germany?",
       "a": "You can cast your vote by postal vote.",
       "b": "You can cast your vote by telephone on election day.",
       "c": "Children from the age of 14 are allowed to vote.",
       "d": "The husband votes for his wife.",
-      "context": "Important question for life in Germany"
+      "context": "In Bundestag and state elections, voting is secret: no one may observe how someone votes. The secrecy of the ballot (Art. 38 Basic Law) protects against intimidation."
     }
   },
   {
@@ -2937,14 +2937,14 @@
     "d": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler /\n                  Steuerzahlerin ein Recht auf die Buslinie habe.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Petitionsrecht (Art. 17 GG) gibt jedem das Recht, Bitten oder Beschwerden an staatliche Stellen zu richten. Bei drohender Buslinienabschaffung kann man eine Petition an den zuständigen Verkehrsausschuss richten.",
     "english": {
       "question": "They want to abolish the bus line that always takes you to work\n                . What can you do to maintain the bus line?",
       "a": "I become a member of a sports club and train my bike\n                  .",
       "b": "I am participating in a citizens' initiative for the preservation of\n                  of the bus line or start an initiative yourself.",
       "c": "I write a letter to the forestry office of the municipality.",
       "d": "I turn to the tax office because as a taxpayer /\n                  taxpayer has a right to the bus line.",
-      "context": "Important question for life in Germany"
+      "context": "The right to petition (Art. 17 Basic Law) gives everyone the right to address requests or complaints to state authorities. If a bus line is threatened with elimination, one can submit a petition to the relevant transport committee."
     }
   },
   {
@@ -3003,14 +3003,14 @@
     "d": "das Familiengericht",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Konflikten in der Arbeitswelt, z.B. ungerechtfertigter Kündigung oder Lohnstreitigkeiten, ist das Arbeitsgericht zuständig. Es ist ein spezialisiertes Fachgericht für Arbeitsrecht.",
     "english": {
       "question": "Which court is responsible in Germany in the event of conflicts in the\n                  world of work?",
       "a": "the criminal court",
       "b": "the Labour Court",
       "c": "the Local Court",
       "d": "the family court",
-      "context": "Important question for life in Germany"
+      "context": "For conflicts in the workplace, such as unfair dismissal or wage disputes, the labor court (Arbeitsgericht) is competent. It is a specialized court for employment law."
     }
   },
   {
@@ -3025,14 +3025,14 @@
     "d": "ein Mahnverfahren gegen den Arbeitgeber/die Arbeitgeberin\n                    führen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland hat jeder das Recht, gegen staatliche Entscheidungen vorzugehen. Man kann einen Rechtsanwalt einschalten, Widerspruch einlegen oder vor Gericht klagen.",
     "english": {
       "question": "What can I do in Germany if my employer has wrongfully dismissed me?",
       "a": "File an action for protection against dismissal",
       "b": "report the employer to the police",
       "c": "continue to work and be friendly to the boss",
       "d": "initiate an order for payment procedure against the employer.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, everyone has the right to challenge official decisions. One can consult a lawyer, file an objection (Widerspruch), or take legal action in court."
     }
   },
   {
@@ -3047,14 +3047,14 @@
     "d": "eine Straftat begangen hat und angeklagt wird",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Ein Gerichtsverfahren findet statt, wenn eine Partei Klage einreicht und das Gericht die Sache für verhandlungswürdig hält. Bei Strafverfahren klagt die Staatsanwaltschaft von Amts wegen.",
     "english": {
       "question": "When will there be a trial in court in Germany?\n                  If someone ...",
       "a": "has a different opinion from that of the government",
       "b": "has parked his car incorrectly and it is towed away",
       "c": "converts to another religion",
       "d": "has committed a criminal offence and is being charged",
-      "context": "Important question for life in Germany"
+      "context": "Court proceedings take place when a party files a lawsuit and the court considers the matter fit for trial. In criminal cases, the public prosecutor files charges ex officio."
     }
   },
   {
@@ -3091,14 +3091,14 @@
     "d": "eine Richterin/ein Richter",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Rechtsanwältinnen und Rechtsanwälte beraten bei Rechtsfragen und vertreten Mandanten vor Gericht. Für die Zulassung zur Anwaltschaft ist ein abgeschlossenes Jurastudium und das zweite Staatsexamen erforderlich.",
     "english": {
       "question": "Who advises people in Germany on legal issues and\n                  represents them in court?",
       "a": "a lay judge",
       "b": "a public prosecutor",
       "c": "a lawyer",
       "d": "one judge",
-      "context": "Important question for life in Germany"
+      "context": "Lawyers advise on legal questions and represent clients in court. Admission to the bar requires a completed law degree and the second state examination."
     }
   },
   {
@@ -3113,14 +3113,14 @@
     "d": "arbeitet an einem Gericht und spricht Urteile",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Hauptaufgabe einer Richterin oder eines Richters ist es, Urteile zu fällen – gerecht, unparteiisch und nur dem Gesetz verpflichtet (Art. 97 GG). Richter sind in Deutschland unabhängig.",
     "english": {
       "question": "What is the main task of a judge in\n                  Germany? A judge ...",
       "a": "amends laws",
       "b": "supervises juveniles in court",
       "c": "represents citizens before a court of law",
       "d": "works in a court and pronounces judgments",
-      "context": "Important question for life in Germany"
+      "context": "A judge's main task is to deliver verdicts – fairly, impartially, and bound only by law (Art. 97 Basic Law). Judges in Germany are independent."
     }
   },
   {
@@ -3135,14 +3135,14 @@
     "d": "Legislative",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Richter gehören zur Judikative (Rechtsprechende Gewalt). Die drei Gewalten in Deutschland sind: Judikative (Gerichte), Exekutive (Regierung) und Legislative (Parlament).",
     "english": {
       "question": "A judge in Germany belongs to the ...",
       "a": "Operative",
       "b": "executive.",
       "c": "Judiciary",
       "d": "Legislative",
-      "context": "Important question for life in Germany"
+      "context": "Judges belong to the judiciary (Judikative). The three branches of government in Germany are: judiciary (courts), executive (government), and legislature (parliament)."
     }
   },
   {
@@ -3179,14 +3179,14 @@
     "d": "Presse",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Gesetzgebende Gewalt (Legislative) in Deutschland liegt hauptsächlich beim Bundestag, der Gesetze beschließt. Der Bundesrat wirkt bei bestimmten Gesetzen mit.",
     "english": {
       "question": "In Germany, state power is divided. For which\n                  State power, does a judge work? For the ...",
       "a": "Legislative",
       "b": "Judiciary",
       "c": "Executive",
       "d": "Press",
-      "context": "Important question for life in Germany"
+      "context": "Legislative power in Germany lies primarily with the Bundestag, which passes laws. The Bundesrat participates in certain legislation."
     }
   },
   {
@@ -3223,14 +3223,14 @@
     "d": "Deutschland regieren",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Richter sprechen Urteile – sie wenden das Gesetz auf konkrete Fälle an. Sie geben keine Rechtsberatung und sind nicht für Staatsanwaltsaufgaben zuständig.",
     "english": {
       "question": "What is the work of a judge in\n                  Germany?",
       "a": "Administering justice",
       "b": "Create plans",
       "c": "Enact laws",
       "d": "Governing Germany",
-      "context": "Important question for life in Germany"
+      "context": "Judges deliver judgments – they apply the law to specific cases. They do not provide legal advice and are not responsible for prosecutorial functions."
     }
   },
   {
@@ -3333,14 +3333,14 @@
     "d": "1918 bis 1923",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Nationalsozialisten unter Hitler regierten Deutschland von 1933 bis 1945. Hitler wurde am 30. Januar 1933 Reichskanzler. Das NS-Regime endete mit der bedingungslosen Kapitulation am 8. Mai 1945.",
     "english": {
       "question": "When were the National Socialists with Adolf Hitler in\n                Germany in power?",
       "a": "1945 to 1989",
       "b": "1933 to 1945",
       "c": "1932 to 1950",
       "d": "1918 to 1923",
-      "context": "Important question for life in Germany"
+      "context": "The National Socialists under Hitler governed Germany from 1933 to 1945. Hitler became Reich Chancellor on January 30, 1933. The Nazi regime ended with unconditional surrender on May 8, 1945."
     }
   },
   {
@@ -3443,14 +3443,14 @@
     "d": "eine Monarchie.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Nationalsozialisten errichteten ab 1933 Konzentrationslager, zunächst für politische Gegner, später für Juden, Roma und andere Gruppen. Der Holocaust kostete rund 6 Millionen Juden das Leben.",
     "english": {
       "question": "The National Socialists with Adolf Hitler established in Germany in 1933 ...",
       "a": "a principality.",
       "b": "a democratic state.",
       "c": "a dictatorship.",
       "d": "a monarchy.",
-      "context": "Important question for life in Germany"
+      "context": "From 1933, the National Socialists established concentration camps, initially for political opponents, later for Jews, Roma, and other groups. The Holocaust cost approximately 6 million Jews their lives."
     }
   },
   {
@@ -3487,14 +3487,14 @@
     "d": "willkürliche Verhaftungen",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Im Nationalsozialismus gab es keine freien Gewerkschaften – sie wurden im Mai 1933 verboten und durch die Deutsche Arbeitsfront ersetzt. Auch Pressefreiheit, freie Wahlen und unabhängige Gerichte gab es nicht.",
     "english": {
       "question": "What did not exist in Germany during the time of the\n                National Socialism?",
       "a": "Persecution of the Jews",
       "b": "free elections",
       "c": "Press censorship",
       "d": "arbitrary arrests",
-      "context": "Important question for life in Germany"
+      "context": "Under National Socialism there were no free trade unions – they were banned in May 1933 and replaced by the Deutsche Arbeitsfront. Freedom of the press, free elections, and independent courts also did not exist."
     }
   },
   {
@@ -3575,14 +3575,14 @@
     "d": "1945",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In der Nacht vom 9. auf den 10. November 1938 zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in ganz Deutschland. Diese Pogrome werden als Reichspogromnacht oder Kristallnacht bezeichnet.",
     "english": {
       "question": "In what year did the National Socialists destroy synagogues and\n                Jewish businesses in Germany?",
       "a": "1925",
       "b": "1930",
       "c": "1938",
       "d": "1945",
-      "context": "Important question for life in Germany"
+      "context": "On the night of November 9 to 10, 1938, the National Socialists destroyed synagogues and Jewish businesses across Germany. These pogroms are known as Reichspogromnacht or Kristallnacht."
     }
   },
   {
@@ -3597,14 +3597,14 @@
     "d": "Hitler wird Reichspräsident und lässt alle Parteien verbieten",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Am 9. November 1938 organisierten die Nationalsozialisten die Reichspogromnacht (Kristallnacht): Synagogen wurden in Brand gesetzt, jüdische Geschäfte zerstört und tausende Juden verhaftet.",
     "english": {
       "question": "What happened in Germany on November 9, 1938?",
       "a": "The National Socialists lose an election and dissolve the Reichstag.",
       "b": "Jewish shops and synagogues are destroyed by National Socialists and their supporters.",
       "c": "The attack on Poland marks the beginning of the Second World War",
       "d": "Hitler becomes Reich President and has all parties banned",
-      "context": "Important question for life in Germany"
+      "context": "On November 9, 1938, the National Socialists organized the Reichspogromnacht (Kristallnacht): synagogues were set on fire, Jewish businesses destroyed, and thousands of Jews arrested."
     }
   },
   {
@@ -3641,14 +3641,14 @@
     "d": "bei den Anti-Atomkraft-Demonstrationen 1985 in der\n                  Bundesrepublik Deutschland",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei den Montagsdemonstrationen in der DDR im Herbst 1989 riefen die Menschen 'Wir sind das Volk' – ein Bekenntnis zur Volkssouveränität und ein Aufruf zur demokratischen Erneuerung.",
     "english": {
       "question": "At which demonstrations in Germany did people shout\n                \"We are the people\"?",
       "a": "at the demonstrations in the Federal Republic of Germany in 1968",
       "b": "at the Monday demonstrations in 1989 in the GDR",
       "c": "at the 1953 workers' uprising in the GDR",
       "d": "at the anti-nuclear demonstrations in 1985 in the\n                  Federal Republic of Germany",
-      "context": "Important question for life in Germany"
+      "context": "At the Monday demonstrations in the GDR in autumn 1989, people chanted 'Wir sind das Volk' (We are the people) – an affirmation of popular sovereignty and a call for democratic renewal."
     }
   },
   {
@@ -3663,14 +3663,14 @@
     "d": "Sowjetunion, Großbritannien, Polen, Schweden",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach dem Zweiten Weltkrieg wurde Deutschland in vier Besatzungszonen aufgeteilt: USA, Großbritannien, Frankreich und Sowjetunion. Berlin wurde ebenfalls in vier Sektoren geteilt.",
     "english": {
       "question": "Which countries were referred to as \"Allied Occupying Powers\" in Germany after the Second World War?",
       "a": "France, Soviet Union, Italy, Japan",
       "b": "USA, Soviet Union, Spain, Portugal",
       "c": "USA, Soviet Union, Great Britain, France",
       "d": "Soviet Union, Great Britain, Poland, Sweden",
-      "context": "Important question for life in Germany"
+      "context": "After World War II, Germany was divided into four occupation zones: USA, United Kingdom, France, and Soviet Union. Berlin was also divided into four sectors."
     }
   },
   {
@@ -3685,14 +3685,14 @@
     "d": "Frankreich",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die vier alliierten Besatzungsmächte in Deutschland nach 1945 waren USA, Großbritannien, Frankreich und die Sowjetunion. Polen war keine Besatzungsmacht, obwohl es selbst von Deutschland besetzt worden war.",
     "english": {
       "question": "Which country was not an \"Allied occupying power\" in\n                Germany?",
       "a": "Soviet Union",
       "b": "Japan",
       "c": "USA",
       "d": "France",
-      "context": "Important question for life in Germany"
+      "context": "The four Allied occupying powers in Germany after 1945 were the USA, the United Kingdom, France, and the Soviet Union. Poland was not an occupying power, even though it had itself been occupied by Germany."
     }
   },
   {
@@ -3729,14 +3729,14 @@
     "d": "Pressefreiheit",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Während des Nationalsozialismus gab es keine freie Presse. Alle Medien standen unter NS-Kontrolle (Reichsministerium für Volksaufklärung und Propaganda). Freie Meinungsäußerung war verboten.",
     "english": {
       "question": "What was there during the time of National Socialism in\n                Germany?",
       "a": "the right to the free development of one's personality",
       "b": "the protection of human dignity",
       "c": "the prohibition of political parties",
       "d": "Freedom of the press",
-      "context": "Important question for life in Germany"
+      "context": "During National Socialism there was no free press. All media were under Nazi control (Reich Ministry of Public Enlightenment and Propaganda). Free expression of opinion was forbidden."
     }
   },
   {
@@ -3751,14 +3751,14 @@
     "d": "steuert sich allein nach Angebot und Nachfrage.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die soziale Marktwirtschaft verbindet Marktfreiheit mit sozialer Absicherung. Der Staat reguliert die Wirtschaft, garantiert sozialen Ausgleich und schützt Arbeitnehmer – lässt aber Wettbewerb zu.",
     "english": {
       "question": "Social market economy means that the economy ...",
       "a": "is planned and controlled by the state, supply and demand\n                    are not taken into account.",
       "b": "is based on demand abroad.",
       "c": "is based on supply and demand, but the state\n                    ensures social balance.",
       "d": "controls itself solely according to supply and demand.",
-      "context": "Important question for life in Germany"
+      "context": "The social market economy combines market freedom with social security. The state regulates the economy, guarantees social balance, and protects workers – while allowing competition."
     }
   },
   {
@@ -3839,14 +3839,14 @@
     "d": "6",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach dem Zweiten Weltkrieg wurde Deutschland in vier Besatzungszonen aufgeteilt: USA (Süden), Großbritannien (Nordwesten), Frankreich (Südwesten) und Sowjetunion (Osten). Berlin lag in der sowjetischen Zone.",
     "english": {
       "question": "How many occupation zones were there in Germany after the Second\n                World War?",
       "a": "3",
       "b": "4",
       "c": "5",
       "d": "6",
-      "context": "Important question for life in Germany"
+      "context": "After World War II, Germany was divided into four occupation zones: USA (south), United Kingdom (northwest), France (southwest), and Soviet Union (east). Berlin was located within the Soviet zone."
     }
   },
   {
@@ -3883,14 +3883,14 @@
     "d": "Berlin",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Berlin wurde nach dem Zweiten Weltkrieg in vier Sektoren geteilt. Aus dem Westteil (USA, GB, Frankreich) wurde West-Berlin; der Ostteil wurde zur Hauptstadt der DDR. Die Berliner Mauer wurde 1961 gebaut.",
     "english": {
       "question": "Which German city was divided into four sectors after the Second World War?",
       "a": "Dresden",
       "b": "Munich",
       "c": "Frankfurt/Oder",
       "d": "Berlin",
-      "context": "Important question for life in Germany"
+      "context": "After World War II, Berlin was divided into four sectors. The western part (USA, UK, France) became West Berlin; the eastern part became the capital of the GDR. The Berlin Wall was built in 1961."
     }
   },
   {
@@ -3905,14 +3905,14 @@
     "d": "Die amerikanischen Soldaten/Soldatinnen hatten beim\n                  Landtransport Angst vor Überfällen.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Von Juni 1948 bis Mai 1949 blockierte die Sowjetunion alle Landwege nach West-Berlin. Die Westalliierten versorgten die Stadt ausschließlich über die Luftbrücke – über 200.000 Flüge in knapp einem Jahr.",
     "english": {
       "question": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What was the reason for this?",
       "a": "For Great Britain, the supply via the airlift was\n                  faster.",
       "b": "For France, supplying the West Berlin population by plane was more cost-effective.",
       "c": "The Soviet Union cut off all land routes.",
       "d": "American soldiers feared being attacked during land transport.",
-      "context": "Important question for life in Germany"
+      "context": "From June 1948 to May 1949, the Soviet Union blocked all land routes to West Berlin. The Western Allies supplied the city entirely by airlift – over 200,000 flights in just under a year."
     }
   },
   {
@@ -3971,14 +3971,14 @@
     "d": "Er bat Polen und die polnischen Juden um Vergebung",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bundeskanzler Willy Brandt kniete im Dezember 1970 am Mahnmal des Warschauer Ghettos nieder – eine spontane Geste der Demut und des Gedenkens an die Opfer des NS-Terrors, die weltweit Beachtung fand.",
     "english": {
       "question": "What did Willy Brandt want to express with his kneeling gesture in 1970 in the former Jewish ghetto in Warsaw?",
       "a": "He said a prayer at the Tomb of the Unknown Soldier",
       "b": "He showed his humility before the Warsaw Pact",
       "c": "He has submitted to the former Allies",
       "d": "He asked Poland and Polish Jews for forgiveness",
-      "context": "Important question for life in Germany"
+      "context": "Chancellor Willy Brandt knelt at the Warsaw Ghetto Memorial in December 1970 – a spontaneous gesture of humility and remembrance for the victims of Nazi terror that received worldwide attention."
     }
   },
   {
@@ -4015,14 +4015,14 @@
     "d": "40er Jahre",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Wirtschaftswunder bezeichnet den rasanten wirtschaftlichen Aufschwung Westdeutschlands in den 1950er und 1960er Jahren. Aus den Trümmern des Zweiten Weltkriegs wurde eine der stärksten Volkswirtschaften Europas.",
     "english": {
       "question": "When was the \"Economic Miracle\" in the Federal Republic of Germany?",
       "a": "80s",
       "b": "70s",
       "c": "50s",
       "d": "40s",
-      "context": "Important question for life in Germany"
+      "context": "The 'Wirtschaftswunder' (economic miracle) refers to West Germany's rapid economic recovery in the 1950s and 1960s. From the rubble of World War II, one of Europe's strongest economies emerged."
     }
   },
   {
@@ -4037,14 +4037,14 @@
     "d": "ein Beschluss des Zionistenkongresses",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Staat Israel wurde auf Grundlage des UN-Teilungsplans (Resolution 181, 1947) gegründet. Am 14. Mai 1948 erklärte Israel seine Unabhängigkeit.",
     "english": {
       "question": "On what legal basis was the State of Israel founded?",
       "a": "a United Nations resolution",
       "b": "a proposal of the Federal Government",
       "c": "a proposal of the USSR",
       "d": "a resolution of the Zionist Congress",
-      "context": "Important question for life in Germany"
+      "context": "The State of Israel was founded on the basis of the UN Partition Plan (Resolution 181, 1947). On May 14, 1948, Israel declared its independence."
     }
   },
   {
@@ -4059,14 +4059,14 @@
     "d": "des Warschauer Pakts gegen den Westen",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der 'Eiserne Vorhang' bezeichnete die ideologische und physische Grenze zwischen dem demokratischen Westeuropa und dem kommunistischen Osteuropa im Kalten Krieg (1947–1991), einschließlich der Berliner Mauer.",
     "english": {
       "question": "What did the phrase \"Iron Curtain\" stand for? For the\n                Isolation..",
       "a": "Nazi Germany against the Allies",
       "b": "Europe against the USA",
       "c": "Northern Germany against Southern Germany",
       "d": "of the Warsaw Pact against the West",
-      "context": "Important question for life in Germany"
+      "context": "The 'Iron Curtain' referred to the ideological and physical border between democratic Western Europe and communist Eastern Europe during the Cold War (1947–1991), including the Berlin Wall."
     }
   },
   {
@@ -4081,14 +4081,14 @@
     "d": "1. Mai",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Am 17. Juni 1953 erhoben sich Arbeiter in der DDR gegen die kommunistische Regierung und schlechte Lebensbedingungen. Sowjetische Panzer schlugen den Aufstand nieder. Der 17. Juni war jahrzehntelang nationaler Feiertag in der BRD.",
     "english": {
       "question": "In 1953, there was an uprising in the GDR. A public holiday in the Federal Republic of Germany long commemorated this event. When did it take place?",
       "a": "November 9",
       "b": "July 20",
       "c": "June 17",
       "d": "May 1",
-      "context": "Important question for life in Germany"
+      "context": "On June 17, 1953, workers in the GDR rose up against the communist government and poor living conditions. Soviet tanks crushed the uprising. June 17 was a national holiday in West Germany for decades."
     }
   },
   {
@@ -4103,14 +4103,14 @@
     "d": "Bundesrepublik Deutschland",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Bundesrepublik Deutschland übernahm die schwarz-rot-goldene Flagge aus der Weimarer Republik (1919–1933). Die DDR verwendete ebenfalls diese Farben, ergänzte die Flagge aber durch ihr Staatswappen.",
     "english": {
       "question": "Which German state had a black-red-gold flag with\n                Hammer, compass and wreath of wheat?",
       "a": "GDR",
       "b": "Third Reich",
       "c": "Prussia",
       "d": "Federal Republic of Germany",
-      "context": "Important question for life in Germany"
+      "context": "The Federal Republic of Germany adopted the black-red-gold flag from the Weimar Republic (1919–1933). The GDR also used these colors but added its state emblem to the flag."
     }
   },
   {
@@ -4213,14 +4213,14 @@
     "d": "Mecklenburg-Vorpommern",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der deutschen Wiedervereinigung 1990 wurden die fünf neuen Bundesländer (ehemalige DDR-Bezirke) in die Bundesrepublik integriert: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.",
     "english": {
       "question": "Which present-day German state used to belong to the area\n                of the GDR?",
       "a": "Saarland",
       "b": "Schleswig-Holstein",
       "c": "Hesse",
       "d": "Mecklenburg-Vorpommern",
-      "context": "Important question for life in Germany"
+      "context": "After German reunification in 1990, five new federal states (former GDR districts) were integrated into the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia."
     }
   },
   {
@@ -4279,14 +4279,14 @@
     "d": "Mecklenburg-Vorpommern",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der deutschen Wiedervereinigung 1990 wurden die fünf neuen Bundesländer (ehemalige DDR-Bezirke) in die Bundesrepublik integriert: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.",
     "english": {
       "question": "Which present-day German state used to belong to the area\n                of the GDR?",
       "a": "Saarland",
       "b": "Schleswig-Holstein",
       "c": "Hesse",
       "d": "Mecklenburg-Vorpommern",
-      "context": "Important question for life in Germany"
+      "context": "After German reunification in 1990, five new federal states (former GDR districts) were integrated into the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia."
     }
   },
   {
@@ -4301,14 +4301,14 @@
     "d": "von einer liberalen Marktwirtschaft zum Sozialismus.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "'Die Wende' bezeichnet den friedlichen Wandel im Herbst 1989 in der DDR, der zur Öffnung der Berliner Mauer (9. November 1989) und schließlich zur deutschen Wiedervereinigung (3. Oktober 1990) führte.",
     "english": {
       "question": "Why is the time in the fall of 1989 called \"The Wende\" in the GDR?\n                During this time, the GDR changed politically ...",
       "a": "from a religious state to a communist state.",
       "b": "from a monarchy to social democracy",
       "c": "from dictatorship to democracy",
       "d": "from a liberal market economy to socialism.",
-      "context": "Important question for life in Germany"
+      "context": "'Die Wende' (The Turn) refers to the peaceful change in the GDR in autumn 1989, which led to the opening of the Berlin Wall (November 9, 1989) and ultimately to German reunification (October 3, 1990)."
     }
   },
   {
@@ -4323,14 +4323,14 @@
     "d": "Mecklenburg-Vorpommern",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der deutschen Wiedervereinigung 1990 wurden die fünf neuen Bundesländer (ehemalige DDR-Bezirke) in die Bundesrepublik integriert: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.",
     "english": {
       "question": "Which present-day German state used to belong to the area\n                of the GDR?",
       "a": "Saarland",
       "b": "Schleswig-Holstein",
       "c": "Hesse",
       "d": "Mecklenburg-Vorpommern",
-      "context": "Important question for life in Germany"
+      "context": "After German reunification in 1990, five new federal states (former GDR districts) were integrated into the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia."
     }
   },
   {
@@ -4345,14 +4345,14 @@
     "d": "Mecklenburg-Vorpommern",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der deutschen Wiedervereinigung 1990 wurden die fünf neuen Bundesländer (ehemalige DDR-Bezirke) in die Bundesrepublik integriert: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.",
     "english": {
       "question": "Which present-day German state used to belong to the area\n                of the GDR?",
       "a": "Saarland",
       "b": "Schleswig-Holstein",
       "c": "Hesse",
       "d": "Mecklenburg-Vorpommern",
-      "context": "Important question for life in Germany"
+      "context": "After German reunification in 1990, five new federal states (former GDR districts) were integrated into the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia."
     }
   },
   {
@@ -4389,14 +4389,14 @@
     "d": "Mecklenburg-Vorpommern",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach der deutschen Wiedervereinigung 1990 wurden die fünf neuen Bundesländer (ehemalige DDR-Bezirke) in die Bundesrepublik integriert: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.",
     "english": {
       "question": "Which present-day German state used to belong to the area\n                of the GDR?",
       "a": "Saarland",
       "b": "Schleswig-Holstein",
       "c": "Hesse",
       "d": "Mecklenburg-Vorpommern",
-      "context": "Important question for life in Germany"
+      "context": "After German reunification in 1990, five new federal states (former GDR districts) were integrated into the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia."
     }
   },
   {
@@ -4411,14 +4411,14 @@
     "d": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt,\n                  Thüringen",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die fünf neuen Bundesländer sind: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen. Sie traten am 3. Oktober 1990 der Bundesrepublik bei.",
     "english": {
       "question": "Which of the following lists contains only federal states that\n                belonged to the territory of the former GDR?",
       "a": "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg",
       "b": "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
       "c": "Lower Saxony, North Rhine-Westphalia, Hesse,\n                  Schleswig-Holstein, Brandenburg",
       "d": "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt,\n                  Thuringia",
-      "context": "Important question for life in Germany"
+      "context": "The five new federal states are: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia. They joined the Federal Republic on October 3, 1990."
     }
   },
   {
@@ -4477,14 +4477,14 @@
     "d": "Die heutigen fünf östlichen Bundesländer sind der\n                  Bundesrepublik Deutschland beigetreten.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Wiedervereinigung erfolgte durch den Beitritt der DDR zur Bundesrepublik nach Art. 23 GG (alt) am 3. Oktober 1990. Es war kein Zusammenschluss zweier gleichberechtigter Staaten, sondern ein Beitritt.",
     "english": {
       "question": "How did the Federal Republic of Germany and the GDR become one state?",
       "a": "The GDR occupied the Federal Republic of Germany.",
       "b": "The western federal states have joined the GDR.",
       "c": "The Federal Republic of Germany occupied the GDR.",
       "d": "Today's five eastern federal states joined the Federal Republic of Germany.",
-      "context": "Important question for life in Germany"
+      "context": "Reunification occurred through the GDR's accession to the Federal Republic under Art. 23 Basic Law (old version) on October 3, 1990. It was not a merger of equal states but an accession."
     }
   },
   {
@@ -4499,14 +4499,14 @@
     "d": "zur OPEC.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Mit dem Beitritt der DDR zur Bundesrepublik kamen fünf neue Bundesländer hinzu: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen. Ost-Berlin vereinigte sich mit West-Berlin.",
     "english": {
       "question": "With the accession of the GDR to the Federal Republic of Germany, the new federal states now also belong ...",
       "a": "to the European Defence Community.",
       "b": "to the Warsaw Pact.",
       "c": "to the European Union.",
       "d": "to OPEC.",
-      "context": "Important question for life in Germany"
+      "context": "With the GDR's accession to the Federal Republic, five new federal states were added: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia. East Berlin merged with West Berlin."
     }
   },
   {
@@ -4741,14 +4741,14 @@
     "d": "die Fahne der Stadt Berlin",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Im Plenarsaal des Deutschen Bundestages ist der Bundesadler (Reichsadler) als Hoheitszeichen der Bundesrepublik Deutschland prominent angebracht. Er ist seit Jahrhunderten das Wappentier Deutschlands.",
     "english": {
       "question": "Which symbol is to be found in the plenary hall of the German Bundestag?\n                see?",
       "a": "the imperial eagle",
       "b": "the imperial crown",
       "c": "the federal eagle",
       "d": "the flag of the city of Berlin",
-      "context": "Important question for life in Germany"
+      "context": "The Bundesadler (federal eagle) is prominently displayed in the Bundestag plenary chamber as the heraldic symbol of the Federal Republic of Germany. It has been Germany's heraldic animal for centuries."
     }
   },
   {
@@ -4763,14 +4763,14 @@
     "d": "1919 bis 1927",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Deutsche Demokratische Republik (DDR) existierte vom 7. Oktober 1949 bis zum 3. Oktober 1990. Sie entstand aus der sowjetischen Besatzungszone und endete mit der deutschen Wiedervereinigung.",
     "english": {
       "question": "In what period did the German Democratic Republic exist?\n                (GDR)?",
       "a": "1949 to 1990",
       "b": "1945 to 1961",
       "c": "1933 to 1945",
       "d": "1919 to 1927",
-      "context": "Important question for life in Germany"
+      "context": "The German Democratic Republic (GDR) existed from October 7, 1949 to October 3, 1990. It emerged from the Soviet occupation zone and ended with German reunification."
     }
   },
   {
@@ -4785,14 +4785,14 @@
     "d": "7",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei der Wiedervereinigung 1990 kamen fünf neue Bundesländer zur Bundesrepublik: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen. Ost-Berlin schloss sich West-Berlin an.",
     "english": {
       "question": "How many federal states joined the Federal Republic of Germany at reunification in 1990?",
       "a": "4",
       "b": "5",
       "c": "6",
       "d": "7",
-      "context": "Important question for life in Germany"
+      "context": "At reunification in 1990, five new federal states joined the Federal Republic: Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, and Thuringia. East Berlin joined West Berlin."
     }
   },
   {
@@ -4829,14 +4829,14 @@
     "d": "an die Wiedervereinigung Deutschlands",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der 27. Januar ist der deutsche Gedenktag für die Opfer des Nationalsozialismus. Dieser Tag erinnert an die Befreiung des Konzentrationslagers Auschwitz durch sowjetische Soldaten am 27. Januar 1945.",
     "english": {
       "question": "January 27 is an official day of remembrance in Germany.\n                What does this day remind us of?",
       "a": "to the adoption of the Basic Law",
       "b": "to the victims of National Socialism",
       "c": "at the end of the Second World War",
       "d": "to the reunification of Germany",
-      "context": "Important question for life in Germany"
+      "context": "January 27 is Germany's official memorial day for the victims of National Socialism. This day commemorates the liberation of the Auschwitz concentration camp by Soviet soldiers on January 27, 1945."
     }
   },
   {
@@ -4851,14 +4851,14 @@
     "d": "Deutsche können ohne Passkontrolle in jedes Land reisen",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Schengener Abkommen ermöglicht Reisen zwischen den Mitgliedstaaten ohne Passkontrollen an den Binnengrenzen. Deutsche Staatsbürger können damit in die meisten europäischen Länder ohne Grenzformalitäten reisen.",
     "english": {
       "question": "Germany is a member of the Schengen Agreement. What\n                  Does that mean?",
       "a": "All people can enter Germany without identity checks.",
       "b": "Germans can travel to many European countries without passport control.",
       "c": "Germans can pay with the euro in any country",
       "d": "Germans can travel to any country without passport control",
-      "context": "Important question for life in Germany"
+      "context": "The Schengen Agreement enables travel between member states without passport controls at internal borders. German citizens can thus travel to most European countries without border formalities."
     }
   },
   {
@@ -4939,14 +4939,14 @@
     "d": "Norwegen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Österreich hat die größte deutschsprachige Bevölkerung außerhalb Deutschlands. Deutsch ist dort Amtssprache. Weitere deutschsprachige Länder sind die Schweiz, Liechtenstein und Luxemburg (teilweise).",
     "english": {
       "question": "In which other country is there a large German-speaking population?",
       "a": "Austria",
       "b": "Spain",
       "c": "Czech Republic",
       "d": "Norway",
-      "context": "Important question for life in Germany"
+      "context": "Austria has the largest German-speaking population outside Germany. German is the official language there. Other German-speaking countries include Switzerland, Liechtenstein, and Luxembourg (partially)."
     }
   },
   {
@@ -5005,14 +5005,14 @@
     "d": "Deutsche Wiedervereinigung",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Beitritt der DDR zur Bundesrepublik am 3. Oktober 1990 heißt Wiedervereinigung. Dieser Tag wird als 'Tag der Deutschen Einheit' gefeiert – der einzige nationale Feiertag Deutschlands.",
     "english": {
       "question": "What is the accession of the GDR to the Federal Republic of Germany in 1990 commonly called?",
       "a": "EU eastward enlargement",
       "b": "European Community",
       "c": "NATO eastward expansion",
       "d": "German reunification",
-      "context": "Important question for life in Germany"
+      "context": "The GDR's accession to the Federal Republic on October 3, 1990 is called reunification. This day is celebrated as 'Tag der Deutschen Einheit' (German Unity Day) – Germany's only national public holiday."
     }
   },
   {
@@ -5049,14 +5049,14 @@
     "d": "8 Jahre",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Europäische Parlament wird alle fünf Jahre von den EU-Bürgerinnen und -Bürgern direkt gewählt. Es ist das einzige direkt gewählte Organ der EU und vertritt die Bürgerinteressen.",
     "english": {
       "question": "The European Parliament is regularly elected, namely:\n                  all ...",
       "a": "5 years",
       "b": "6 years",
       "c": "7 years",
       "d": "8 years",
-      "context": "Important question for life in Germany"
+      "context": "The European Parliament is elected every five years directly by EU citizens. It is the only directly elected body of the EU and represents citizens' interests."
     }
   },
   {
@@ -5071,14 +5071,14 @@
     "d": "Der Begriff meint den Einwanderungsstopp nach Europa",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Europäische Integration bezeichnet den Prozess, durch den europäische Staaten enger zusammenwachsen – wirtschaftlich (Binnenmarkt, Euro) und politisch (EU-Institutionen, gemeinsame Politik).",
     "english": {
       "question": "What does the term \"European integration\" mean?",
       "a": "The term refers to the union of European states\n                    to the EU",
       "b": "This refers to American immigrants in Europe",
       "c": "This refers to European emigrants in the USA",
       "d": "The term refers to the stop of immigration to Europe",
-      "context": "Important question for life in Germany"
+      "context": "European integration refers to the process by which European states grow closer together – economically (single market, Euro) and politically (EU institutions, common policies)."
     }
   },
   {
@@ -5159,14 +5159,14 @@
     "d": "Freundschaft zwischen England und Deutschland",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der französische Präsident François Mitterrand und Bundeskanzler Helmut Kohl standen 1984 beim Gedenken in Verdun Hand in Hand – ein Symbol für die deutsch-französische Aussöhnung nach den Weltkriegen.",
     "english": {
       "question": "The then French President François Mitterrand and the then German Chancellor Helmut Kohl commemorated the dead of both world wars together in Verdun. What goal of the European Union is highlighted at this meeting?",
       "a": "Peace and security in the countries of the EU",
       "b": "Uniform public holidays in the countries of the EU",
       "c": "Freedom to travel to all EU countries",
       "d": "Friendship between England and Germany",
-      "context": "Important question for life in Germany"
+      "context": "French President François Mitterrand and Chancellor Helmut Kohl stood hand in hand at the Verdun memorial in 1984 – a symbol of Franco-German reconciliation after the World Wars."
     }
   },
   {
@@ -5203,14 +5203,14 @@
     "d": "Verpflichtung Deutschlands zu Reparationsleistungen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Römischen Verträge wurden am 25. März 1957 unterzeichnet und gründeten die Europäische Wirtschaftsgemeinschaft (EWG). Deutschland, Frankreich, Italien, Belgien, Niederlande und Luxemburg waren die Gründungsmitglieder.",
     "english": {
       "question": "2007 marked the 50th anniversary of the \"Treaties of Rome\". What was the content of these treaties?",
       "a": "Establishment of the European Economic Community (EEC)",
       "b": "Determination of the Oder-Neisse line as the eastern border",
       "c": "Germany's accession to NATO",
       "d": "Germany's obligation to pay reparations",
-      "context": "Important question for life in Germany"
+      "context": "The Treaty of Rome was signed on March 25, 1957 and established the European Economic Community (EEC). Germany, France, Italy, Belgium, the Netherlands, and Luxembourg were the founding members."
     }
   },
   {
@@ -5247,14 +5247,14 @@
     "d": "durch die \"Londoner Verträge\"",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Bundesrepublik trat 1955 der NATO und 1957 der Europäischen Wirtschaftsgemeinschaft (EWG) bei. Diese Verträge verankerten Westdeutschland fest in der westlichen Gemeinschaft.",
     "english": {
       "question": "Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?",
       "a": "by the \"Paris Treaties\"",
       "b": "through the \"Hamburg Treaties\"",
       "c": "by the \"Treaties of Rome\"",
       "d": "by the \"London Treaties\"",
-      "context": "Important question for life in Germany"
+      "context": "The Federal Republic joined NATO in 1955 and the European Economic Community (EEC) in 1957. These treaties firmly anchored West Germany in the Western community."
     }
   },
   {
@@ -5291,14 +5291,14 @@
     "d": "Sie muss einen Antrag bei der Elterngeldstelle stellen",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Elterngeld wird nicht automatisch ausgezahlt. Man muss es beim zuständigen Elterngeldamt beantragen. Der Antrag sollte möglichst früh gestellt werden, da er rückwirkend nur bis zu 3 Monate gilt.",
     "english": {
       "question": "Mrs. Seger is having a child. What does she have to do to receive parental allowance?",
       "a": "She must ask the employment office for permission",
       "b": "She has to write to her health insurance company",
       "c": "She doesn't have to do anything, because she automatically receives parental allowance",
       "d": "She must submit an application to the parental allowance office",
-      "context": "Important question for life in Germany"
+      "context": "Parental benefit (Elterngeld) is not paid automatically. It must be applied for at the relevant Elterngeldstelle. The application should be submitted early, as it is only backdated up to 3 months."
     }
   },
   {
@@ -5313,14 +5313,14 @@
     "d": "die Eltern/die Erziehungsberechtigten",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland entscheiden Lehrer gemeinsam mit den Eltern über die Schulempfehlung für weiterführende Schulen. Die genauen Regelungen variieren je nach Bundesland.",
     "english": {
       "question": "Who decides whether a child in Germany goes to kindergarten?",
       "a": "the federal states",
       "b": "the schools",
       "c": "the state",
       "d": "the parents/guardians",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, teachers together with parents decide on the school recommendation for secondary schools. The exact rules vary by federal state."
     }
   },
   {
@@ -5335,14 +5335,14 @@
     "d": "Sie müssen nichts tun. Man darf in Deutschland jederzeit\n                  überall demonstrieren.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland gibt es gesetzliche Ruhezeiten (z.B. Mittagsruhe, Nachtruhe). Lärm in dieser Zeit kann als Ordnungswidrigkeit geahndet werden. Man sollte Nachbarn und Hausordnung respektieren.",
     "english": {
       "question": "Maik and Sybille want to stay with friends at their German place of residence\n                hold a demonstration on the street. What do they have to do\n                to do beforehand?",
       "a": "They must register the demonstration.",
       "b": "Maik and Sybille have to found a new club because only\n                  Clubs are allowed to demonstrate",
       "c": "They can't do anything, because demonstrations are in\n                  Germany banned in principle",
       "d": "They don't have to do anything. In Germany, you are allowed to demonstrate anywhere at any time.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany there are statutory quiet hours (e.g., midday rest, nighttime quiet). Noise during these times can be penalized as a minor offense. One should respect neighbors and house rules."
     }
   },
   {
@@ -5357,14 +5357,14 @@
     "d": "ein Diplom",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Für ein Universitätsstudium wird in Deutschland normalerweise das Abitur (allgemeine Hochschulreife) benötigt. Es gibt auch Fachhochschulen, für die die Fachhochschulreife ausreicht.",
     "english": {
       "question": "What school-leaving certificate do you normally need to start a degree at a university in Germany?",
       "a": "the Abitur",
       "b": "the power of attorney",
       "c": "a journeyman's examination",
       "d": "a diploma",
-      "context": "Important question for life in Germany"
+      "context": "A university education in Germany normally requires the Abitur (general higher education entrance qualification). There are also universities of applied sciences (Fachhochschulen) for which the Fachhochschulreife suffices."
     }
   },
   {
@@ -5423,14 +5423,14 @@
     "d": "Mutterschutz",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Mutterschutzgesetz schützt schwangere Arbeitnehmerinnen: Es gilt ein Beschäftigungsverbot 6 Wochen vor und 8 Wochen nach der Geburt. In dieser Zeit erhalten Mütter Mutterschaftsgeld.",
     "english": {
       "question": "A woman is pregnant. She is particularly protected by law shortly before and after the birth of her child. What is this protection called?",
       "a": "Birth preparation",
       "b": "Parental leave",
       "c": "Postpartum",
       "d": "Maternity leave",
-      "context": "Important question for life in Germany"
+      "context": "The Maternity Protection Act protects pregnant employees: there is a ban on employment 6 weeks before and 8 weeks after birth. During this time, mothers receive maternity pay (Mutterschaftsgeld)."
     }
   },
   {
@@ -5445,14 +5445,14 @@
     "d": "des Staates",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Art. 6 GG stellt Ehe und Familie unter besonderen staatlichen Schutz. Die Erziehung ist 'das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht'. Der Staat hat eine unterstützende Funktion.",
     "english": {
       "question": "In Germany, the education of children is above all a task\n                  …",
       "a": "of parents",
       "b": "of schools",
       "c": "of grandparents",
       "d": "of the State",
-      "context": "Important question for life in Germany"
+      "context": "Art. 6 of the Basic Law places marriage and family under special state protection. Upbringing is 'the natural right of parents and a duty primarily incumbent upon them.' The state has a supporting function."
     }
   },
   {
@@ -5467,14 +5467,14 @@
     "d": "der Schulen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Nach Art. 6 GG sind in erster Linie die Eltern für die Erziehung ihrer Kinder verantwortlich. Das Jugendamt hat eine Wächterfunktion und greift nur ein, wenn das Kindeswohl gefährdet ist.",
     "english": {
       "question": "Who in Germany is primarily responsible for raising children?",
       "a": "the state",
       "b": "the relatives",
       "c": "parents",
       "d": "schools",
-      "context": "Important question for life in Germany"
+      "context": "Under Art. 6 Basic Law, parents are primarily responsible for raising their children. The Jugendamt (youth welfare office) has a supervisory role and only intervenes if the child's wellbeing is at risk."
     }
   },
   {
@@ -5489,14 +5489,14 @@
     "d": "gut ausgebildet ist.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland stehen Menschen mit höherem Bildungsabschluss bessere Berufs- und Einkommenschancen zur Verfügung. Das Bildungssystem bietet verschiedene Wege: Ausbildung, Fachhochschule, Universität.",
     "english": {
       "question": "In Germany you have the best chances of getting a good\n                  paid job if you ...",
       "a": "is a woman.",
       "b": "is Catholic.",
       "c": "is a member of a political party.",
       "d": "is well educated.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, people with higher educational qualifications have better career and income prospects. The education system offers various paths: vocational training, university of applied sciences, university."
     }
   },
   {
@@ -5533,14 +5533,14 @@
     "d": "darf man nicht wieder heiraten, wenn man einmal verheiratet\n                    war.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland ist Ehe auf zwei Personen begrenzt (Monogamie). Mehrehe (Polygamie) ist nach §172 StGB strafbar. Gleichgeschlechtliche Ehe ist seit 2017 legal.",
     "english": {
       "question": "In Germany ...",
       "a": "you can have several spouses at the same time\n                    .",
       "b": "you may only be married to one partner at a time.",
       "c": "a woman may not remarry if her husband\n                    died.",
       "d": "you are not allowed to remarry once you are married\n                    was.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, marriage is limited to two people (monogamy). Polygamy is a criminal offense under §172 StGB. Same-sex marriage has been legal since 2017."
     }
   },
   {
@@ -5577,14 +5577,14 @@
     "d": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Scheidungen in Deutschland werden durch das Familiengericht ausgesprochen. Voraussetzung ist in der Regel ein Trennungsjahr. Beide Eheleute müssen vor Gericht vertreten sein.",
     "english": {
       "question": "In Germany, married couples are allowed to divorce. They usually have to comply with the \"year of separation\". What does this mean?",
       "a": "The spouses have been married for one year, after which divorce is possible.",
       "b": "The divorce process takes one year.",
       "c": "The spouses live separately for at least one year, after which divorce is possible.",
       "d": "The right of visitation for the children is valid for one year.",
-      "context": "Important question for life in Germany"
+      "context": "Divorces in Germany are granted by the family court (Familiengericht). The usual requirement is one year of separation (Trennungsjahr). Both spouses must be legally represented in court."
     }
   },
   {
@@ -5599,14 +5599,14 @@
     "d": "Gesundheitsamt.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Erziehungsproblemen können Eltern in Deutschland kostenlose Beratung beim Jugendamt oder in Erziehungsberatungsstellen in Anspruch nehmen. Diese Unterstützung ist freiwillig und vertraulich.",
     "english": {
       "question": "If parents in Germany have parenting problems, they can get help from the ...",
       "a": "Public order office.",
       "b": "Youth Welfare Office.",
       "c": "School Authority.",
       "d": "Health Department.",
-      "context": "Important question for life in Germany"
+      "context": "Parents with parenting problems can receive free counseling at the Jugendamt or family counseling centers in Germany. This support is voluntary and confidential."
     }
   },
   {
@@ -5621,14 +5621,14 @@
     "d": "eine Gaststättenerlaubnis von der zuständigen Behörde",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wer in Deutschland ein Gewerbe (z.B. ein Restaurant) eröffnen möchte, muss es beim Gewerbeamt anmelden (Gewerbeanmeldung). Für Gaststätten ist zusätzlich eine Gaststättenerlaubnis erforderlich.",
     "english": {
       "question": "A couple wants to open a restaurant in Germany. What do they absolutely need?",
       "a": "a permit from the Residents' Registration Office",
       "b": "a permit from a party",
       "c": "a permit from the police",
       "d": "a restaurant permit from the competent authority",
-      "context": "Important question for life in Germany"
+      "context": "Anyone wishing to open a business (e.g. a restaurant) in Germany must register it at the trade office (Gewerbeanmeldung). For catering establishments, an additional license (Gaststättenerlaubnis) is required."
     }
   },
   {
@@ -5643,14 +5643,14 @@
     "d": "einer Hochschule.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Erwachsene können in Deutschland auf dem zweiten Bildungsweg (Abendschulen, Volkshochschulen) das Abitur nachholen. Es gibt spezielle Einrichtungen für Berufstätige.",
     "english": {
       "question": "An adult woman wants to complete her Abitur in Germany. She can do that at ...",
       "a": "a private university",
       "b": "an evening grammar school",
       "c": "a Hauptschule",
       "d": "a university.",
-      "context": "Important question for life in Germany"
+      "context": "Adults in Germany can obtain the Abitur through the second educational path (Abendschulen, Volkshochschulen – evening schools, adult education centers). There are special institutions for working adults."
     }
   },
   {
@@ -5665,14 +5665,14 @@
     "d": "Es entscheidet, welche Schule das Kind besucht.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Jugendamt kann bei akuter Kindeswohlgefährdung das Kind vorübergehend aus der Familie nehmen (Inobhutnahme). Dies ist ein letztes Mittel zum Schutz des Kindes.",
     "english": {
       "question": "What is the youth welfare office allowed to do in Germany?",
       "a": "It checks whether the child attends a kindergarten.",
       "b": "A child who is being beaten or starved can be removed from the family.",
       "c": "It pays the child benefit to the parents.",
       "d": "It decides which school the child attends.",
-      "context": "Important question for life in Germany"
+      "context": "The Jugendamt can temporarily remove a child from the family (Inobhutnahme) in cases of acute risk to the child's wellbeing. This is a last resort to protect the child."
     }
   },
   {
@@ -5687,14 +5687,14 @@
     "d": "Krankenversicherung",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Berufsinformationszentrum (BIZ) der Bundesagentur für Arbeit bietet kostenlose Informationen zu Berufen, Ausbildungen und Karrieremöglichkeiten. Es steht allen Ratsuchenden offen.",
     "english": {
       "question": "The BIZ Career Information Centre at the Federal Agency for\n                  Work in Germany helps with the ...",
       "a": "Apprenticeship search",
       "b": "Tax return",
       "c": "Pension calculation",
       "d": "Health insurance",
-      "context": "Important question for life in Germany"
+      "context": "The BIZ (career information center) of the Federal Employment Agency offers free information on occupations, training, and career options. It is open to anyone seeking advice."
     }
   },
   {
@@ -5731,14 +5731,14 @@
     "d": "einer Privatuniversität",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Erwachsene, die das Abitur nachholen möchten, können Abendschulen oder Volkshochschulen besuchen. Diese Möglichkeit des zweiten Bildungswegs steht in Deutschland jedem offen.",
     "english": {
       "question": "A man wants to complete his Abitur in Germany at the age of 30. Where can he do that? At ...",
       "a": "a Hauptschule",
       "b": "an evening grammar school",
       "c": "a university",
       "d": "a private university",
-      "context": "Important question for life in Germany"
+      "context": "Adults who want to obtain the Abitur can attend evening schools (Abendschulen) or adult education centers (Volkshochschulen). This second educational path is open to everyone in Germany."
     }
   },
   {
@@ -5753,14 +5753,14 @@
     "d": "Man darf andere Personen benachteiligen, wenn ausreichende\n                    persönliche Gründe hierfür vorliegen.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Verhältnismäßigkeitsgrundsatz bedeutet, dass staatliche Maßnahmen geeignet, erforderlich und angemessen sein müssen. Er schützt Bürger vor übermäßigen Eingriffen des Staates.",
     "english": {
       "question": "What does the principle of equal treatment mean in Germany?",
       "a": "No one may sue persons if they are disadvantaged\n                    .",
       "b": "No one may be discriminated against because of a disability, for example.\n                    .",
       "c": "It is required by law for everyone to donate money annually to disadvantaged groups.",
       "d": "It is permissible to discriminate against other persons if sufficient\n                    there are personal reasons for doing so.",
-      "context": "Important question for life in Germany"
+      "context": "The principle of proportionality means state measures must be appropriate, necessary, and proportionate to the goal. It protects citizens against excessive state interference."
     }
   },
   {
@@ -5775,14 +5775,14 @@
     "d": "werden nicht bestraft.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland beginnt die Strafmündigkeit mit 14 Jahren. Jugendliche zwischen 14 und 17 Jahren werden nach Jugendstrafrecht verurteilt, das Erziehung statt Strafe in den Vordergrund stellt.",
     "english": {
       "question": "In Germany, young people from the age of 14 are criminally responsible. This means: young people who are 14 or older and who violate criminal laws, ...",
       "a": "are punished.",
       "b": "share the punishment with their parents.",
       "c": "are treated like adults.",
       "d": "are not punished.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, criminal responsibility begins at age 14. Juveniles between 14 and 17 are tried under juvenile criminal law, which prioritizes education over punishment."
     }
   },
   {
@@ -5797,14 +5797,14 @@
     "d": "am Maifeiertag",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Zu Karneval (Fasching/Fastnacht) tragen Menschen in Deutschland bunte Kostüme. Das Fest wird vor allem im Rheinland (Köln, Düsseldorf) und in Bayern gefeiert und findet vor Beginn der Fastenzeit statt.",
     "english": {
       "question": "For which festival do people in Germany wear colorful costumes\n                  and masks?",
       "a": "at Pentecost",
       "b": "at the Oktoberfest",
       "c": "on Shrove Monday",
       "d": "on May Day",
-      "context": "Important question for life in Germany"
+      "context": "At Karneval (Fasching/Fastnacht), people in Germany wear colorful costumes. The festival is celebrated especially in the Rhineland (Cologne, Düsseldorf) and Bavaria, and takes place before the Lenten season."
     }
   },
   {
@@ -5819,14 +5819,14 @@
     "d": "zur Agentur für Arbeit",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland ist die Zivilehe (Standesamt) Pflicht und muss vor einer etwaigen kirchlichen Trauung stattfinden. Eine kirchliche Heirat allein hat keine rechtliche Wirkung.",
     "english": {
       "question": "Where must you go first in Germany if you want to get married?",
       "a": "to the public order office",
       "b": "to the Residents' Registration Office",
       "c": "to the registry office",
       "d": "to the Employment Agency",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, a civil marriage (Standesamt) is mandatory and must take place before any religious ceremony. A church wedding alone has no legal effect."
     }
   },
   {
@@ -5863,14 +5863,14 @@
     "d": "Sie müssen die Entscheidung der volljährigen Tochter\n                    respektieren.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Deutschland ist das Zusammenleben mit einem Partner ohne Ehe (nichteheliche Lebensgemeinschaft) vollkommen legal und weit verbreitet. Es gibt keine Pflicht zur Heirat.",
     "english": {
       "question": "A young woman in Germany, aged 22, lives with her boyfriend. Her parents are unhappy about this because they don't like him. What can the parents do?",
       "a": "They can go to the police and report the daughter.",
       "b": "They have the right to bring their daughter back to the family home.",
       "c": "They are looking for another man for their daughter.",
       "d": "They must respect the decision of their adult daughter.",
-      "context": "Important question for life in Germany"
+      "context": "In Germany, cohabiting with a partner without being married (nichteheliche Lebensgemeinschaft) is completely legal and widespread. There is no obligation to marry."
     }
   },
   {
@@ -5885,14 +5885,14 @@
     "d": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor\n                    sie den Führerschein machen kann.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei Angst vor dem Fahren sollte man mit dem Fahrlehrer/der Fahrlehrerin sprechen und zusätzliche Übungsstunden nehmen. Professionelles Üben hilft, Sicherheit und Vertrauen aufzubauen.",
     "english": {
       "question": "A young woman wants to get her driver's license. She is worried about the exam because her mother tongue is not German. What is correct?",
       "a": "If she doesn't know German, she can't get a driver's license\n                    .",
       "b": "She has to get her driver's license in the country where you\n                    speaks their language.",
       "c": "She may be able to take the theory exam in her mother tongue. There are more than ten languages available.",
       "d": "She must live in Germany for at least ten years before\n                    she can get her driver's license.",
-      "context": "Important question for life in Germany"
+      "context": "If afraid of driving, one should speak with the driving instructor and take additional practice lessons. Professional practice helps build confidence and security."
     }
   },
   {
@@ -5907,14 +5907,14 @@
     "d": "einen Ferienpass.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Seit 2013 haben alle Kinder in Deutschland ab dem dritten Lebensjahr einen gesetzlichen Anspruch auf einen Kindergartenplatz (§24 SGB VIII). Damit soll Vereinbarkeit von Familie und Beruf gefördert werden.",
     "english": {
       "question": "In Germany, children from the age of three until starting school are entitled to ...",
       "a": "a place in a sports club.",
       "b": "a kindergarten place.",
       "c": "monthly pocket money.",
       "d": "a holiday pass.",
-      "context": "Important question for life in Germany"
+      "context": "Since 2013, all children in Germany have a statutory right to a kindergarten place from age three (§24 SGB VIII). This is intended to promote the compatibility of family and work."
     }
   },
   {
@@ -5973,14 +5973,14 @@
     "d": "Zwei Frauen leben zusammen",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Mehrehe (Polygamie) ist in Deutschland nach §172 StGB strafbar. Nur monogame Ehe oder eingetragene Lebenspartnerschaft ist rechtlich anerkannt. Gleichgeschlechtliche Ehe ist seit 2017 möglich.",
     "english": {
       "question": "Which way of life is not allowed in Germany?",
       "a": "A single father lives with his two children\n                    together.",
       "b": "Husband and wife are divorced and live with new partners\n                    together",
       "c": "A man is married to two women at the same time",
       "d": "Two women live together",
-      "context": "Important question for life in Germany"
+      "context": "Polygamy is a criminal offense in Germany under §172 StGB. Only monogamous marriage or registered civil partnership is legally recognized. Same-sex marriage has been possible since 2017."
     }
   },
   {
@@ -6017,14 +6017,14 @@
     "d": "das Briefgeheimnis",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Briefgeheimnis ist in Art. 10 GG geschützt. Wer absichtlich fremde Briefe öffnet, begeht eine Verletzung des Briefgeheimnisses (§202 StGB) und kann strafrechtlich verfolgt werden.",
     "english": {
       "question": "You have deliberately opened a letter in Germany that was addressed to another person. Which right have you violated?",
       "a": "freedom of expression",
       "b": "the duty of confidentiality",
       "c": "the right to remain silent",
       "d": "the secrecy of correspondence",
-      "context": "Important question for life in Germany"
+      "context": "Postal secrecy is protected by Art. 10 Basic Law. Intentionally opening someone else's mail constitutes a violation of postal secrecy (§202 StGB) and is a criminal offense."
     }
   },
   {
@@ -6061,14 +6061,14 @@
     "d": "Ich kann mich beim Behördenleiter/bei der Behördenleiterin\n                  beschweren.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Wenn man mit einer Ansprechperson in einer Behörde nicht zufrieden ist, sollte man eine formelle Beschwerde bei der Leitung oder der zuständigen Beschwerdestelle einreichen.",
     "english": {
       "question": "What should you do if you are treated poorly by a contact person at a German authority?",
       "a": "I threaten the person.",
       "b": "I can't do anything.",
       "c": "I have to put up with this treatment.",
       "d": "I can contact the head of the authority\n                  complain.",
-      "context": "Important question for life in Germany"
+      "context": "If dissatisfied with a contact person at an authority, one should submit a formal complaint to the management or the relevant complaints office."
     }
   },
   {
@@ -6083,14 +6083,14 @@
     "d": "zu hohe Gehaltsvorstellungen hat.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Allgemeine Gleichbehandlungsgesetz (AGG) verbietet Diskriminierung bei der Einstellung aufgrund von Geschlecht oder familiärem Status. Eine Mutter darf wegen ihres Kindes nicht benachteiligt werden.",
     "english": {
       "question": "A woman who has a two-year-old child applies for a job in Germany. What is an example of discrimination? The only reason she doesn't get the job is because she ...",
       "a": "has no experience in this profession.",
       "b": "doesn't speak English.",
       "c": "is a mother.",
       "d": "has too high salary expectations.",
-      "context": "Important question for life in Germany"
+      "context": "The General Equal Treatment Act (AGG) prohibits discrimination in hiring based on gender or family status. A mother may not be disadvantaged because of her child."
     }
   },
   {
@@ -6105,14 +6105,14 @@
     "d": "kein Englisch spricht.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Allgemeine Gleichbehandlungsgesetz (AGG) verbietet Diskriminierung wegen Behinderung bei der Einstellung. Ein Arbeitgeber darf einen Bewerber im Rollstuhl nicht allein wegen der Behinderung ablehnen.",
     "english": {
       "question": "A man in a wheelchair has applied for a job as an accountant. What is an example of discrimination? The only reason he didn't get the job was because he ...",
       "a": "has too high salary expectations.",
       "b": "has no experience.",
       "c": "is in a wheelchair.",
       "d": "doesn't speak English.",
-      "context": "Important question for life in Germany"
+      "context": "The General Equal Treatment Act (AGG) prohibits discrimination due to disability in hiring. An employer may not reject a wheelchair user applicant solely because of their disability."
     }
   },
   {
@@ -6127,14 +6127,14 @@
     "d": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten\n                  müssen.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In deutschen Mehrfamilienhäusern gibt es meist eine Hausordnung, die Regeln für das Zusammenleben festlegt (Ruhezeiten, Treppenhausreinigung, Mülltrennung). Sie ist für alle Mieter verbindlich.",
     "english": {
       "question": "In most apartment buildings in Germany there is a \"Hausordnung\" (house rules). What does such a \"Hausordnung\" contain? It lists ...",
       "a": "the address of the nearest public order office.",
       "b": "rules for the use of common areas.",
       "c": "all tenants in the building.",
       "d": "rules that all residents must follow.",
-      "context": "Important question for life in Germany"
+      "context": "In German multi-family buildings there is usually a house rules document (Hausordnung) setting out rules for communal living (quiet hours, stairwell cleaning, waste separation). It is binding for all tenants."
     }
   },
   {
@@ -6149,14 +6149,14 @@
     "d": "nichts machen.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Gegen einen falschen Steuerbescheid kann man innerhalb eines Monats Einspruch einlegen. Das ist ein einfaches Verwaltungsrechtsmittel, das keine Anwaltskosten verursacht.",
     "english": {
       "question": "If you appeal against a false tax assessment in Germany\n                want to defend yourself, you must ...",
       "a": "file an objection.",
       "b": "throw away the notice.",
       "c": "wait until another decision comes.",
       "d": "do nothing.",
-      "context": "Important question for life in Germany"
+      "context": "Against an incorrect tax assessment, one can file an objection (Einspruch) within one month. This is a simple administrative remedy that does not incur legal costs."
     }
   },
   {
@@ -6171,14 +6171,14 @@
     "d": "Meinungsfreiheit",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Öffentliche Schwimmbäder in Deutschland stehen allen Menschen offen, unabhängig von Herkunft, Religion oder Behinderung. Eine Verweigerung aus diesen Gründen wäre Diskriminierung nach dem AGG.",
     "english": {
       "question": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are not allowed in. Which right is being violated in this situation? The right to ...",
       "a": "Equal treatment",
       "b": "Freedom of assembly",
       "c": "Free movement of persons",
       "d": "Freedom of expression",
-      "context": "Important question for life in Germany"
+      "context": "Public swimming pools in Germany are open to everyone regardless of origin, religion, or disability. Refusing entry on these grounds would be discrimination under the AGG."
     }
   },
   {
@@ -6193,14 +6193,14 @@
     "d": "Wahlhelferin/Wahlhelfer",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Schöffenamt ist ein gesetzliches Ehrenamt (§31 GVG). Deutsche Staatsbürger können als Schöffen zu Gericht berufen werden und nehmen mit Berufsrichtern an Strafprozessen teil.",
     "english": {
       "question": "What voluntary role must German citizens take on when asked to do so?",
       "a": "Library supervision",
       "b": "Club trainer",
       "c": "Teacher",
       "d": "Poll worker",
-      "context": "Important question for life in Germany"
+      "context": "The lay judge role (Schöffe) is a statutory honorary office (§31 GVG). German citizens can be summoned to serve as lay judges and participate in criminal trials alongside professional judges."
     }
   },
   {
@@ -6215,14 +6215,14 @@
     "d": "Ich gehe mit der Rechnung zum Finanzamt.",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei falschen Rechnungen sollte man zunächst schriftlich bei dem Unternehmen Widerspruch einlegen. Bei Schwierigkeiten kann man Rat bei der Verbraucherzentrale holen.",
     "english": {
       "question": "What do you do if you receive a false invoice from a German\n                authority?",
       "a": "I send the invoice back to the authority.",
       "b": "I leave the bill behind.",
       "c": "I file an objection with the authorities.",
       "d": "I go to the tax office with the invoice.",
-      "context": "Important question for life in Germany"
+      "context": "For incorrect invoices, one should first formally dispute them in writing with the company. If difficulties arise, advice can be sought from the consumer advice center (Verbraucherzentrale)."
     }
   },
   {
@@ -6237,14 +6237,14 @@
     "d": "Erwachsene müssen auch nach der Ausbildung immer weiter\n                    lernen.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Arbeitswelt verändert sich durch Digitalisierung und Automatisierung. Um wettbewerbsfähig zu bleiben, ist lebenslanges Lernen und regelmäßige Weiterbildung notwendig.",
     "english": {
       "question": "What you need to be able to do for work will change in the future\n                  very quickly. What can be done?",
       "a": "Children learn everything that is important at work at school.\n                    After school, you don't have to continue learning.",
       "b": "Everyone has to stop working earlier because everything\n                    changes.",
       "c": "It doesn't matter what you learn.",
       "d": "Adults have to keep learning even after completing their training.",
-      "context": "Important question for life in Germany"
+      "context": "The work environment is changing through digitalization and automation. To remain competitive, lifelong learning and regular further education are necessary."
     }
   },
   {
@@ -6259,14 +6259,14 @@
     "d": "Lohnsteuer",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Schwangere Arbeitnehmerinnen genießen besonderen Kündigungsschutz nach dem Mutterschutzgesetz: Eine Kündigung während der Schwangerschaft ist grundsätzlich unzulässig.",
     "english": {
       "question": "Ms. Frost works as a permanent employee in\n                  an office. What does she not have to pay from her salary?",
       "a": "Unemployment insurance contributions",
       "b": "Contributions to pension and health insurance",
       "c": "Value added tax",
       "d": "Payroll tax",
-      "context": "Important question for life in Germany"
+      "context": "Pregnant employees enjoy special dismissal protection under the Maternity Protection Act: dismissal during pregnancy is generally prohibited."
     }
   },
   {
@@ -6281,14 +6281,14 @@
     "d": "die Betriebsgruppe",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Betriebsrat vertritt die Interessen der Arbeitnehmer im Betrieb. Er hat Mitbestimmungsrechte bei Arbeitszeiten, Entlassungen und sozialen Angelegenheiten (§87 BetrVG).",
     "english": {
       "question": "Which organization in a company helps employees with problems involving their employer?",
       "a": "the tax auditor",
       "b": "Operations management",
       "c": "the works council",
       "d": "the operating group",
-      "context": "Important question for life in Germany"
+      "context": "The works council (Betriebsrat) represents employee interests within a company. It has co-determination rights in matters of working hours, dismissals, and social affairs (§87 BetrVG)."
     }
   },
   {
@@ -6303,14 +6303,14 @@
     "d": "die Arbeitszeit",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei einer Bewerbung in Deutschland sind üblicherweise ein Anschreiben, ein Lebenslauf und Zeugniskopien erforderlich. Immer mehr Unternehmen nehmen Bewerbungen online entgegen.",
     "english": {
       "question": "You would like to end your employment with a company in Germany. What do you need to keep in mind?",
       "a": "the notice period",
       "b": "compulsory insurance",
       "c": "salary payments",
       "d": "working hours",
-      "context": "Important question for life in Germany"
+      "context": "When applying for a job in Germany, a cover letter (Anschreiben), CV (Lebenslauf), and copies of certificates are typically required. More and more companies accept applications online."
     }
   },
   {
@@ -6325,14 +6325,14 @@
     "d": "aus der christlichen Tradition",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Deutschland trägt aufgrund des Holocaust eine besondere historische Verantwortung gegenüber dem jüdischen Volk und Israel. Dies prägt die deutsche Außen- und Innenpolitik bis heute.",
     "english": {
       "question": "What is the basis of Germany's special responsibility for\n                  Israel?",
       "a": "from the Basic Law of the Federal Republic of Germany",
       "b": "from membership in the European Union (EU)",
       "c": "from the National Socialist crimes against Jews",
       "d": "from the Christian tradition",
-      "context": "Important question for life in Germany"
+      "context": "Germany bears a special historical responsibility toward the Jewish people and Israel because of the Holocaust. This shapes German foreign and domestic policy to this day."
     }
   },
   {
@@ -6347,14 +6347,14 @@
     "d": "er zu hohe Gehaltsvorstellungen hat.",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Allgemeine Gleichbehandlungsgesetz (AGG) verbietet Diskriminierung aufgrund der Hautfarbe bei der Einstellung. Betroffene können Beschwerde bei der Antidiskriminierungsstelle des Bundes einlegen.",
     "english": {
       "question": "A man with dark skin applies for a waiter position at a restaurant in Germany. What is an example of discrimination? The only reason he doesn't get the job is because ...",
       "a": "he has no experience in the profession.",
       "b": "he has dark skin.",
       "c": "his knowledge of German is too low.",
       "d": "he has too high salary expectations.",
-      "context": "Important question for life in Germany"
+      "context": "The General Equal Treatment Act (AGG) prohibits discrimination based on skin color in hiring. Those affected can file a complaint with the Federal Anti-Discrimination Agency."
     }
   },
   {
@@ -6369,14 +6369,14 @@
     "d": "das Gerät ungefragt austauschen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Bei einem defekten Produkt haben Käufer in Deutschland nach §437 BGB Anspruch auf Nachbesserung, Ersatz, Minderung oder Rücktritt. Die gesetzliche Gewährleistung beträgt 2 Jahre.",
     "english": {
       "question": "You bought a television in Germany. When you unpack it at home, it doesn't work. The TV is broken. What can you do?",
       "a": "complain about the TV",
       "b": "File a complaint.",
       "c": "extend the warranty",
       "d": "replace the device without being asked",
-      "context": "Important question for life in Germany"
+      "context": "For a defective product, buyers in Germany are entitled under §437 BGB to repair, replacement, price reduction, or withdrawal from contract. The statutory warranty period is 2 years."
     }
   },
   {
@@ -6391,14 +6391,14 @@
     "d": "es eine Kirchensteuer gibt, die an die Einkommen- und\n                    Lohnsteuer geknüpft ist.",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Eine Steuererklärung kann zu einer Erstattung führen, wenn man zu viel Steuer gezahlt hat – etwa durch absetzbare Ausgaben (Werbungskosten, Sonderausgaben). Für Selbstständige ist sie Pflicht.",
     "english": {
       "question": "Why do you have to state in your German tax return whether you belong to a church or not? Because ...",
       "a": "the church is responsible for the tax return.",
       "b": "which is important for statistics in Germany.",
       "c": "you have to pay more taxes if you don't belong to a church\n                    .",
       "d": "there is a church tax that is linked to income and wage tax.",
-      "context": "Important question for life in Germany"
+      "context": "A tax return can result in a refund if too much tax was paid – for example through deductible expenses (Werbungskosten, Sonderausgaben). For the self-employed it is mandatory."
     }
   },
   {
@@ -6413,14 +6413,14 @@
     "d": "Der Staat entscheidet, an welchen Gott die Menschen glauben.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Toleranz bedeutet, andere Menschen mit ihren unterschiedlichen Meinungen, Lebensstilen und Überzeugungen zu akzeptieren. Sie ist eine Grundlage des demokratischen und pluralistischen Zusammenlebens.",
     "english": {
       "question": "The people in Germany live according to the principle of\n                  religious tolerance. What does this mean?",
       "a": "Everyone can believe what they want.",
       "b": "All people believe in God.",
       "c": "No mosques may be built.",
       "d": "The state decides which God people believe in.",
-      "context": "Important question for life in Germany"
+      "context": "Tolerance means accepting other people with their different opinions, lifestyles, and beliefs. It is a foundation of democratic and pluralistic coexistence."
     }
   },
   {
@@ -6479,14 +6479,14 @@
     "d": "der Islam",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Christentum hat Europas und Deutschlands Kultur durch Jahrhunderte maßgeblich geprägt – in Kunst, Architektur, Recht und Ethik. Diese Aussage ist eine historische Tatsache, keine Wertung anderer Religionen.",
     "english": {
       "question": "Which religion has shaped European and German culture?",
       "a": "Christianity",
       "b": "Hinduism",
       "c": "Buddhism",
       "d": "Islam",
-      "context": "Important question for life in Germany"
+      "context": "Christianity has profoundly shaped European and German culture over centuries – in art, architecture, law, and ethics. This is a historical fact, not a judgment on other religions."
     }
   },
   {
@@ -6501,14 +6501,14 @@
     "d": "den Buß- und Bettag.",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Advent umfasst die vier Wochen vor Weihnachten im christlichen Kirchenjahr. In Deutschland wird er mit Adventskränzen, Adventskalendern und Weihnachtsmärkten gefeiert.",
     "english": {
       "question": "In Germany, the last four weeks before\n                  Christmas ...",
       "a": "the Advent season.",
       "b": "All Saints' Day.",
       "c": "Thanksgiving.",
       "d": "the Day of Repentance and Prayer.",
-      "context": "Important question for life in Germany"
+      "context": "Advent encompasses the four weeks before Christmas in the Christian church year. In Germany it is celebrated with Advent wreaths, Advent calendars, and Christmas markets."
     }
   },
   {
@@ -6523,14 +6523,14 @@
     "d": "Marokko",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Türkei hat historisch die größte Migrationsgruppe nach Deutschland gestellt, vor allem durch das Gastarbeiterprogramm der 1960er Jahre. Heute leben rund 3 Millionen Menschen türkischer Herkunft in Deutschland.",
     "english": {
       "question": "From which country did most migrants come to Germany?",
       "a": "Italy",
       "b": "Turkey",
       "c": "Poland",
       "d": "Morocco",
-      "context": "Important question for life in Germany"
+      "context": "Turkey has historically contributed the largest migrant group to Germany, primarily through the guest worker program of the 1960s. Today around 3 million people of Turkish origin live in Germany."
     }
   },
   {
@@ -6567,14 +6567,14 @@
     "d": "Schichtarbeiter/Schichtarbeiterinnen",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Ausländische Arbeitnehmer in Deutschland haben dieselben Arbeitsrechte wie Deutsche: gleicher Lohn, gleiche Arbeitsbedingungen, gleicher Sozialversicherungsschutz. Das EU-Recht und das deutsche Arbeitsrecht gelten für alle.",
     "english": {
       "question": "Foreign workers who are employed in the\n                  50s and 60s by the Federal Republic of Germany\n                  were recruited, were called ...",
       "a": "Guest workers",
       "b": "Temporary workers",
       "c": "Undeclared workers",
       "d": "Shift workers",
-      "context": "Important question for life in Germany"
+      "context": "Foreign workers in Germany have the same labor rights as German citizens: equal pay, equal working conditions, equal social insurance protection. EU law and German labor law apply to everyone."
     }
   },
   {
@@ -6589,14 +6589,14 @@
     "d": "Spanien",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das erste Gastarbeiterabkommen schloss die Bundesrepublik 1955 mit Italien. Später folgten Verträge mit Spanien, Griechenland, der Türkei, Portugal und Jugoslawien. Die Gastarbeiter halfen beim Wiederaufbau der deutschen Wirtschaft.",
     "english": {
       "question": "From which country did the first guest workers come to Germany?",
       "a": "Italy",
       "b": "Portugal",
       "c": "Turkey",
       "d": "Spain",
-      "context": "Important question for life in Germany"
+      "context": "The Federal Republic's first guest worker agreement was signed with Italy in 1955. Later agreements followed with Spain, Greece, Turkey, Portugal, and Yugoslavia. Guest workers helped rebuild the German economy."
     }
   },
   {
@@ -7095,14 +7095,14 @@
     "d": "6",
     "solution": "c",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Das Berliner Abgeordnetenhaus wird seit 2006 alle fünf Jahre gewählt. Zuvor galt eine Wahlperiode von vier Jahren. Das Abgeordnetenhaus ist Berlins Landesparlament.",
     "english": {
       "question": "For how many years will the state parliament in Berlin\n                  elected?",
       "a": "3",
       "b": "4",
       "c": "5",
       "d": "6",
-      "context": "Important question for life in Germany"
+      "context": "The Berlin Abgeordnetenhaus (House of Representatives) has been elected every five years since 2006. Previously the term was four years. The Abgeordnetenhaus is Berlin's state parliament."
     }
   },
   {
@@ -7117,14 +7117,14 @@
     "d": "20",
     "solution": "b",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "In Berlin liegt das Wahlalter für Bezirksverordnetenversammlungen (Kommunalwahlen) bei 16 Jahren. Damit soll die politische Beteiligung junger Menschen gefördert werden.",
     "english": {
       "question": "From what age is it allowed to participate in local elections in Berlin (election\n                  of the district council)?",
       "a": "14",
       "b": "16",
       "c": "18",
       "d": "20",
-      "context": "Important question for life in Germany"
+      "context": "In Berlin, the voting age for local elections (Bezirksverordnetenversammlungen) is 16. This is intended to promote political participation among young people."
     }
   },
   {
@@ -7161,14 +7161,14 @@
     "d": "bei der Landeszentrale für politische Bildung",
     "solution": "d",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Die Landeszentrale für politische Bildung Berlin ist die offizielle überparteiliche Einrichtung für politische Bildung im Land Berlin. Sie bietet Publikationen, Veranstaltungen und Informationen zu politischen Themen.",
     "english": {
       "question": "Where can you find out about political issues in Berlin?\n                  ?",
       "a": "at the public order office of the municipality",
       "b": "at the churches",
       "c": "at the Consumer Advice Centre",
       "d": "at the State Agency for Civic Education",
-      "context": "Important question for life in Germany"
+      "context": "The Landeszentrale für politische Bildung Berlin is the official non-partisan institution for political education in the state of Berlin. It offers publications, events, and information on political topics."
     }
   },
   {
@@ -7177,20 +7177,20 @@
     "is_state": true,
     "state_code": "BE",
     "question": "Welches Bundesland ist ein Stadtstaat?",
-    "a": "Sachsen",
-    "b": "Bayern",
-    "c": "Thüringen",
-    "d": "Hamburg",
-    "solution": "d",
+    "a": "Berlin",
+    "b": "Saarland",
+    "c": "Brandenburg",
+    "d": "Hessen",
+    "solution": "a",
     "category": "Federal System",
-    "context": "Die folgende Frage bezieht sich auf das politische System Deutschlands. Deutschland besteht aus mehreren Bundesländern, von denen einige sogenannte Stadtstaaten sind. Ein Stadtstaat ist ein Bundesland, das nur aus einer Stadt besteht. Welche der genannten Optionen ist ein solcher Stadtstaat?",
+    "context": "Berlin, Hamburg und Bremen sind die drei deutschen Stadtstaaten – Bundesländer, die gleichzeitig Städte sind. In dieser Frage des Berlin-Tests ist Berlin die korrekte Antwort.",
     "english": {
-      "question": "Which state is a city-state?",
-      "a": "Saxony",
-      "b": "Bavaria",
-      "c": "Thuringia",
-      "d": "Hamburg",
-      "context": "The following question refers to the political system of Germany. Germany consists of several federal states, some of which are so-called city states. A city-state is a federal state that consists of only one city. Which of the options mentioned is such a city-state?"
+      "question": "Which federal state is a city-state?",
+      "a": "Berlin",
+      "b": "Saarland",
+      "c": "Brandenburg",
+      "d": "Hesse",
+      "context": "Berlin, Hamburg, and Bremen are the three German city-states – federal states that are also cities. In this Berlin-specific question, Berlin is the correct answer."
     }
   },
   {
@@ -7227,14 +7227,14 @@
     "d": "Oberbürgermeister / Oberbürgermeisterin",
     "solution": "a",
     "category": "General",
-    "context": "Wichtige Frage für das Leben in Deutschland",
+    "context": "Der Regierungschef des Stadtstaates Berlin trägt den einzigartigen Titel 'Regierender Bürgermeister'. Dies spiegelt Berlins Doppelrolle als Bundesland und Großstadt wider.",
     "english": {
       "question": "What do you call the head of government of the\n                  city-state of Berlin?",
       "a": "Governing Mayor",
       "b": "President of the Senate",
       "c": "Prime Minister",
       "d": "Lord Mayor",
-      "context": "Important question for life in Germany"
+      "context": "The head of government of the city-state of Berlin holds the unique title 'Regierender Bürgermeister' (Governing Mayor). This reflects Berlin's dual role as both a federal state and a major city."
     }
   },
   {
